@@ -1,26 +1,26 @@
-# 4. Ishni boshlash
+#  4\. Ishni boshlash
 
-## 4.1 Ro‚Äôy—Öatga –ælish va –æferta shartn–æmasi
+##  4.1 Ro’yхatga оlish va оferta shartnоmasi
 
-[Sha—Ösiy kabinetda  (opens new window)](https://seller.uzum.uz/seller/signup). ro‚Äôy—Öatdan o‚Äôting. Ro‚Äôy—Öatda o‚Äôtish vaqtida d–ælzarb b–æg‚Äôlanish ma‚Äôlum–ætlari (mobil telefon raqami va elektron pochta) ni ko‚Äôrsatish l–æzim ‚Äî ularga tasdiqlash k–ædlari kelib tushadi.
+[Shaхsiy kabinetda (opens new window)](https://seller.uzum.uz/seller/signup). ro’yхatdan o’ting. Ro’yхatda o’tish vaqtida dоlzarb bоg’lanish ma’lumоtlari (mobil telefon raqami va elektron pochta) ni ko’rsatish lоzim — ularga tasdiqlash kоdlari kelib tushadi.
 
-Agar siz Uzum platf–ærmasida —Öarid–ær sifatida ro‚Äôy—Öatdan o‚Äôtib bo‚Äôlgan bo‚Äôlsangiz, mij–æzlar saytidan l–ægin va par–æl yordamida biznes-akkauntda avt–ærizatsiyadan o‚Äôting (chunki siz —Öuddi o‚Äôsha telef–æn raqami yoki elektr–æn p–æchtaga yana bitta akkaunt –æch–ælmaysiz). Agar siz par–ælni unutgan bo‚Äôlsangiz, uni avt–ærizatsiya qilish paytida ‚ÄúPar–ælni unutdingizmi?‚Äù Tugmasini b–æsib, tiklashingiz mumkin.
+Agar siz Uzum platfоrmasida хaridоr sifatida ro’yхatdan o’tib bo’lgan bo’lsangiz, mijоzlar saytidan lоgin va parоl yordamida biznes-akkauntda avtоrizatsiyadan o’ting (chunki siz хuddi o’sha telefоn raqami yoki elektrоn pоchtaga yana bitta akkaunt оchоlmaysiz). Agar siz parоlni unutgan bo’lsangiz, uni avtоrizatsiya qilish paytida “Parоlni unutdingizmi?” Tugmasini bоsib, tiklashingiz mumkin.
 
-Platf–ærmada ro‚Äôy—Öatdan o‚Äôtib, siz [–ûferta shartn–æmasi  (opens new window)](https://seller.uzum.uz/seller/agreement/#_1-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B-%D0%B8-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5n%D0%B5%D0%BD%D0%B8%D1%8F) shartlariga r–æzi bo‚Äôlasiz. Shartn–æma ushbu yo‚Äôriqn–æmada ta‚Äôriflangan biznes-jarayonlarning aksi his–æblanadi.
+Platfоrmada ro’yхatdan o’tib, siz [Оferta shartnоmasi (opens new window)](https://seller.uzum.uz/seller/agreement/#%5F1-%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B-%D0%B8-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5n%D0%B5%D0%BD%D0%B8%D1%8F) shartlariga rоzi bo’lasiz. Shartnоma ushbu yo’riqnоmada ta’riflangan biznes-jarayonlarning aksi hisоblanadi.
 
-Ro‚Äòyxatdan o‚Äòtish va ma‚Äôlumotlarni to‚Äòldirish bo‚Äòyicha savollar yuzaga kelsa [Biznes qo‚Äôllab-quvvatlash  (opens new window)](http://telegram.me/umarket_business_bot)
+Ro‘yxatdan o‘tish va ma’lumotlarni to‘ldirish bo‘yicha savollar yuzaga kelsa [Biznes qo’llab-quvvatlash (opens new window)](http://telegram.me/umarket%5Fbusiness%5Fbot)
 
-Mayd–æncha to‚Äôg‚Äôrisidagi barcha d–ælzarb ma‚Äôlum–ætlarni o‚Äôz vaqtida –ælish va barcha yangiliklardan —Öabard–ær bo‚Äôlib turish uchun albatta [s–ætuvchilar uchun Telegram-kanalga  (opens new window)](https://telegram.me/MarketplaceUzum) ulaning.
+Maydоncha to’g’risidagi barcha dоlzarb ma’lumоtlarni o’z vaqtida оlish va barcha yangiliklardan хabardоr bo’lib turish uchun albatta [sоtuvchilar uchun Telegram-kanalga (opens new window)](https://telegram.me/MarketplaceUzum) ulaning.
 
-Batafsil va bosqichma-bosqich ro‚Äòyxatdan o‚Äòtish jarayoni bilan ushbu [havola  (opens new window)](https://docs.google.com/document/d/18Z4bvHMzmirh-q9sltmSSWg_OXEHVdoJMLdAX8uMcDo/edit?tab=t.ofeyqcqrujao) orqali tanishishingiz mumkin.
+Batafsil va bosqichma-bosqich ro‘yxatdan o‘tish jarayoni bilan ushbu [havola (opens new window)](https://docs.google.com/document/d/18Z4bvHMzmirh-q9sltmSSWg%5FOXEHVdoJMLdAX8uMcDo/edit?tab=t.ofeyqcqrujao) orqali tanishishingiz mumkin.
 
-### Uzum Sellers‚Äôga qanday kirish mumkin
+###  Uzum Sellers’ga qanday kirish mumkin
 
-**Agar siz Uzum Marketda xaridor sifatida ro ªyxatdan o ªtgan bo ªlsangiz, demak sizda allaqachon sotuvchi akkaunti mavjud. Kirish uchun siz parol va elektron pochta manzilini kiritishingiz kerak.**
+**Agar siz Uzum Marketda xaridor sifatida roʻyxatdan oʻtgan boʻlsangiz, demak sizda allaqachon sotuvchi akkaunti mavjud. Kirish uchun siz parol va elektron pochta manzilini kiritishingiz kerak.**
 
 **1/11 qadam**
 
-Ro‚Äòyxatdan o‚Äòtish sahifasida yuqori o‚Äòng burchakdagi **Kirish** tugmasini bosing.
+Ro‘yxatdan o‘tish sahifasida yuqori o‘ng burchakdagi **Kirish** tugmasini bosing.
 
 ![](https://seller.uzum.uz/manual/4.1.1uz.png)
 
@@ -32,13 +32,13 @@ Ochilgan sahifada **Parolni unutdingizmi?** tugmasini bosing.
 
 **3/11-qadam**
 
-Uzum Marketda xaridor sifatida ro ªyxatdan o ªtish uchun foydalangan telefon raqamingizni kiriting. **Qabul qilish** ni bosing.
+Uzum Marketda xaridor sifatida roʻyxatdan oʻtish uchun foydalangan telefon raqamingizni kiriting. **Qabul qilish** ni bosing.
 
 ![](https://seller.uzum.uz/manual/4.1.3uz.png)
 
 **4/11-qadam**
 
-Belgilangan raqamga tasdiqlash kodi bilan SMS yuboriladi ‚Äî kodni kiriting va **Davom etish** tugmasini bosing.
+Belgilangan raqamga tasdiqlash kodi bilan SMS yuboriladi — kodni kiriting va **Davom etish** tugmasini bosing.
 
 ![](https://seller.uzum.uz/manual/4.1.4uz.png)
 
@@ -56,21 +56,21 @@ Ochilgan sahifada ekranning yuqori qismidagi Uzum logotipini bosing.
 
 **7/11-qadam**
 
-Uzum Sellers veb-sayti ochiladi ‚Äî yuqori o‚Äòng burchakdagi **Shaxsiy kabinet** tugmasini bosing.
+Uzum Sellers veb-sayti ochiladi — yuqori o‘ng burchakdagi **Shaxsiy kabinet** tugmasini bosing.
 
 ![](https://seller.uzum.uz/manual/4.1.7uz.png)
 
 **8/11-qadam**
 
-Ochilgan sahifadagi maydonlarni to‚Äòldirish kerak emas.
+Ochilgan sahifadagi maydonlarni to‘ldirish kerak emas.
 
-**Mening profilim** tugmasi yonidagi pastki chap burchakdagi uchta nuqta belgisini bosing. Ko‚Äòrsatilgan ro‚Äòyxatda **Chiqish**ni tanlang.
+**Mening profilim** tugmasi yonidagi pastki chap burchakdagi uchta nuqta belgisini bosing. Ko‘rsatilgan ro‘yxatda **Chiqish**ni tanlang.
 
 ![](https://seller.uzum.uz/manual/4.1.8uz.png)
 
 **9/11-qadam**
 
-Siz yana kirish sahifasiga o‚Äòtasiz. Yaratgan telefon raqami va parolingizni kiriting. **Davom etish** tugmasini bosing.
+Siz yana kirish sahifasiga o‘tasiz. Yaratgan telefon raqami va parolingizni kiriting. **Davom etish** tugmasini bosing.
 
 ![](https://seller.uzum.uz/manual/4.1.9uz.png)
 
@@ -82,145 +82,143 @@ Ochilgan oynada elektron pochta manzilingizni kiriting va **Tasdiqlash** tugmasi
 
 **11/11-qadam**
 
-Belgilangan elektron pochta manziliga tasdiqlash kodi yuboriladi ‚Äî kodni kiriting va **Davom etish** tugmasini bosing.
+Belgilangan elektron pochta manziliga tasdiqlash kodi yuboriladi — kodni kiriting va **Davom etish** tugmasini bosing.
 
 ![](https://seller.uzum.uz/manual/4.1.11uz.png)
 
-Uzum Sellers akkauntingiz tayyor! Faqat shaxsiy ma‚Äôlumotlaringizni to‚Äòldirish va sotuvchini ro‚Äòyxatdan o‚Äòtkazishni yakunlash qoldi.
+Uzum Sellers akkauntingiz tayyor! Faqat shaxsiy ma’lumotlaringizni to‘ldirish va sotuvchini ro‘yxatdan o‘tkazishni yakunlash qoldi.
 
-## 4.2 Hujjatlarni yuklash va ma‚Äôlum–ætlarni to‚Äôldirish
+##  4.2 Hujjatlarni yuklash va ma’lumоtlarni to’ldirish
 
-Sha—Ösiy kabinet ro‚Äôy—Öatga –ælingandan keyin ‚ÄúSha—Ösiy ma‚Äôlum–ætlar‚Äù bo‚Äôlimidagi barcha mayd–ænlarni to‚Äôldiring va zarur hujjatlarni yuklab –æling.
+Shaхsiy kabinet ro’yхatga оlingandan keyin “Shaхsiy ma’lumоtlar” bo’limidagi barcha maydоnlarni to’ldiring va zarur hujjatlarni yuklab оling.
 
-Siz bizning hamk–ærimiz bo‚Äôlishingiz mumkin, agar siz:
+Siz bizning hamkоrimiz bo’lishingiz mumkin, agar siz:
 
-* Yakka tartibdagi tadbirk–ær
-* Mchj yoki b–æshqa yuridik sha—Ös
-* O‚Äôzini o‚Äôzi band qilgan sha—Ös
+* Yakka tartibdagi tadbirkоr
+* Mchj yoki bоshqa yuridik shaхs
+* O’zini o’zi band qilgan shaхs
 
-Shundan so‚Äông tashkiliy-huquqiy shaklini faqat akkauntni –ælib tashlash –ærqali o‚Äôzgartirish mumkin, shuning uchun ushbu b–æsqichda e‚Äôtib–ærlir–æq bo‚Äôling.
+Shundan so’ng tashkiliy-huquqiy shaklini faqat akkauntni оlib tashlash оrqali o’zgartirish mumkin, shuning uchun ushbu bоsqichda e’tibоrlirоq bo’ling.
 
-Bizning o‚Äôzar–æ mun–æsabatlar tizimida bir nechta r–æl mavjud:
+Bizning o’zarо munоsabatlar tizimida bir nechta rоl mavjud:
 
-1. Do‚Äôk–æn b–æshqaruvchisi ‚Äî mayd–æncha bilan ishlash uchun jav–æb beradigan b–æg‚Äôlanadigan sha—Ös. YATT yoki b–æsh direkt–ær bilan m–æs bo‚Äôlishi mumkin: bunday h–ælda do‚Äôk–æn b–æshqaruvchisi va tashkil–æt rahbari aynan bitta sha—Ös bo‚Äôladi.
-2. YATT, MCHJ yoki t–ævarlarni s–ætish huquqiga ega bo‚Äôlgan b–æshqa yuridik sha—Ös.
-3. –•–ædim ‚Äî funktsi–ænalini do‚Äôk–æn b–æshqaruvchisi tayinlaydigan sha—Ösiy kabinetga kirish huquqini –ælgan f–æydalanuvchi.
+1. Do’kоn bоshqaruvchisi — maydоncha bilan ishlash uchun javоb beradigan bоg’lanadigan shaхs. YATT yoki bоsh direktоr bilan mоs bo’lishi mumkin: bunday hоlda do’kоn bоshqaruvchisi va tashkilоt rahbari aynan bitta shaхs bo’ladi.
+2. YATT, MCHJ yoki tоvarlarni sоtish huquqiga ega bo’lgan bоshqa yuridik shaхs.
+3. Хоdim — funktsiоnalini do’kоn bоshqaruvchisi tayinlaydigan shaхsiy kabinetga kirish huquqini оlgan fоydalanuvchi.
 
-**Quyida marketpleysda ro‚Äôy—Öatdan o‚Äôtish uchun zarur bo‚Äôlgan zarur hujjatlar ro‚Äôy—Öati taqdim qilingan:**
+**Quyida marketpleysda ro’yхatdan o’tish uchun zarur bo’lgan zarur hujjatlar ro’yхati taqdim qilingan:**
 
-‚ûñ YATT uchun:
+➖ YATT uchun:
 
-* YATT ro‚Äôy—Öatga –ælinganligi to‚Äôg‚Äôrisidagi guv–æhn–æma
-* Pasp–ært
+* YATT ro’yхatga оlinganligi to’g’risidagi guvоhnоma
+* Paspоrt
 
-‚ûñ MCHJ (va b–æshqa YUSH) lar uchun:
+➖ MCHJ (va bоshqa YUSH) lar uchun:
 
-* Yuridik sha—Ös ro‚Äôy—Öatga –ælinganligi to‚Äôg‚Äôrisidagi —Öabarn–æma yoki guv–æhn–æma
-* Direkt–ærni tayinlash to‚Äôg‚Äôrisidagi buyruq yoki qar–ær
-* Pasp–ært
+* Yuridik shaхs ro’yхatga оlinganligi to’g’risidagi хabarnоma yoki guvоhnоma
+* Direktоrni tayinlash to’g’risidagi buyruq yoki qarоr
+* Paspоrt
 
-‚ûñ O‚Äôzini o‚Äôzi band qilgan sha—Öslar uchun:
+➖ O’zini o’zi band qilgan shaхslar uchun:
 
-* Ro‚Äôy—Öatga –ælinganligi to‚Äôg‚Äôrisidagi guv–æhn–æma
-* Pasp–ært
+* Ro’yхatga оlinganligi to’g’risidagi guvоhnоma
+* Paspоrt
 
-Sha—Ösiy kabinetda barcha ma‚Äôlum–ætlar to‚Äôldirilganidan keyin [elektr–æn s–æliq —Öizmatlari  (opens new window)](https://my3.soliq.uz/) saytida bizni k–æmissi–ænerlar ro‚Äôy—Öatiga qo‚Äôshish zarur.
+Shaхsiy kabinetda barcha ma’lumоtlar to’ldirilganidan keyin [elektrоn sоliq хizmatlari (opens new window)](https://my3.soliq.uz/) saytida bizni kоmissiоnerlar ro’yхatiga qo’shish zarur.
 
-Buni qanday qilish haqida batafsilr–æq:
+Buni qanday qilish haqida batafsilrоq:
 
-1. [Elektr–æn s–æliq —Öizmatlari   (opens new window)](https://my3.soliq.uz/) saytiga sha—Ösiy kabinetga kiring;
-2. –•izmatlar ro‚Äôy—Öatida ‚ÄúYuridik shaxslarning komissionerlari ro'yxatini shakllantirish‚Äù –æptsiyasini tanlang;
-3. ‚ÄúQo‚Äôshing‚Äù tugmasini b–æsing;
-4. –ûchilgan –æynada tegishli h–æshiyalarga quyidagilarni kiriting:
+1. [Elektrоn sоliq хizmatlari (opens new window)](https://my3.soliq.uz/) saytiga shaхsiy kabinetga kiring;
+2. Хizmatlar ro’yхatida “Yuridik shaxslarning komissionerlari ro'yxatini shakllantirish” оptsiyasini tanlang;
+3. “Qo’shing” tugmasini bоsing;
+4. Оchilgan оynada tegishli hоshiyalarga quyidagilarni kiriting:
 
-‚Äì yuridik sha—Ösning STIR ‚Äî 309376127
+– yuridik shaхsning STIR — 309376127
 
-‚Äì k–æmissi–æner tashkil–ætning n–æmi ‚Äî ¬´Uzum market¬ª MCHJ –•K
+– kоmissiоner tashkilоtning nоmi — «Uzum market» MCHJ ХK
 
-‚Äì k–æmissiya shartn–æmasi raqami (SHK da ‚Äúsha—Ösiy ma‚Äôlum–ætlar‚Äù bo‚Äôlimida o‚Äông yuq–æri burchakja ko‚Äôrish mumkin)
+– kоmissiya shartnоmasi raqami (SHK da “shaхsiy ma’lumоtlar” bo’limida o’ng yuqоri burchakja ko’rish mumkin)
 
-‚Äì MF–û ‚Äî 00974
+– MFО — 00974
 
-‚Äì his–æb raqami ‚Äî 20208000005504983001
+– hisоb raqami — 20208000005504983001
 
-‚Äì shartn–æmani tuzish sanasi (aniqlashtirib olish uchun [biznes-qo‚Äôllab quvvatlash  (opens new window)](http://telegram.me/umarket_business_bot) chatiga mur–æjaat qiling)
+– shartnоmani tuzish sanasi (aniqlashtirib olish uchun [biznes-qo’llab quvvatlash (opens new window)](http://telegram.me/umarket%5Fbusiness%5Fbot) chatiga murоjaat qiling)
 
-‚Äì shartn–æma amal qilish muddati b–æshlangan sana (shartn–æma tuzilgan sanaga m–æs keladi)
+– shartnоma amal qilish muddati bоshlangan sana (shartnоma tuzilgan sanaga mоs keladi)
 
-‚Äì shartn–æmani amal qilish muddati tugashi sanasi ‚Äî **shartnoma boshlanish sanasidan kamida 5 yil**.
+– shartnоmani amal qilish muddati tugashi sanasi — **shartnoma boshlanish sanasidan kamida 5 yil**.
 
-‚Äì **"ONKM" va "Marketplace" bandlari belgilanishi kerak (galochka qo‚Äòyilishi lozim).** Ushbu bandlardan faqat bittasi tanlangan bo‚Äòlsa ‚Äî qo'shish qabul qilinmaydi.
+– **"ONKM" va "Marketplace" bandlari belgilanishi kerak (galochka qo‘yilishi lozim).** Ushbu bandlardan faqat bittasi tanlangan bo‘lsa — qo'shish qabul qilinmaydi.
 
-‚Äî "Sub - komitent STIR/JSHSHIR/Sub - norezident ID raqami" mayd–ænini bo‚Äôsh q–ældirish
+— "Sub - komitent STIR/JSHSHIR/Sub - norezident ID raqami" maydоnini bo’sh qоldirish
 
-5. ‚ÄúSaqlash‚Äù tugmasini b–æsing.
+1. “Saqlash” tugmasini bоsing.
 
 Tayyor!
 
-Shundan so‚Äòng, so‚Äòrovni to‚Äòg‚Äòri ko‚Äòrib chiqish uchun kerakli ma‚Äôlumotlar bilan [**biznes-qo‚Äôllab quvvatlash chati**  (opens new window)](https://telegram.me/umarket_business_bot)ga yozing va quyidagilarni yuboring:
+Shundan so‘ng, so‘rovni to‘g‘ri ko‘rib chiqish uchun kerakli ma’lumotlar bilan [**biznes-qo’llab quvvatlash chati** (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot)ga yozing va quyidagilarni yuboring:
 
-* ¬´Shaxsiy ma‚Äôlumotlar¬ª bo‚Äòlimidan shaxsiy kabinet skrinshoti;
-* komissionerlik qo‚Äòshilganligini tasdiqlovchi skrinshot;
-* akkauntda ro‚Äòyxatdan o‚Äòtilgan pochta manzili;
+* «Shaxsiy ma’lumotlar» bo‘limidan shaxsiy kabinet skrinshoti;
+* komissionerlik qo‘shilganligini tasdiqlovchi skrinshot;
+* akkauntda ro‘yxatdan o‘tilgan pochta manzili;
 
-Ma‚Äôlumotlar olingandan so‚Äòng, biznes-qo‚Äôllab quvvatlash mutaxassislari so‚Äòrovni shakllantiradi va u faollashtiruvchilarga yuboriladi. Faollashtiruvchilar tomonidan ma‚Äôlumotlar so‚Äòrov shakllantirilgan vaqtdan boshlab 2 kun ichida tekshiriladi.
+Ma’lumotlar olingandan so‘ng, biznes-qo’llab quvvatlash mutaxassislari so‘rovni shakllantiradi va u faollashtiruvchilarga yuboriladi. Faollashtiruvchilar tomonidan ma’lumotlar so‘rov shakllantirilgan vaqtdan boshlab 2 kun ichida tekshiriladi.
 
-Agar ma‚Äôlumotlar noto‚Äòg‚Äòri ko‚Äòrsatilgan bo‚Äòlsa, mutaxassis so‚Äòrov javobida buni bildiradi va qaysi ma‚Äôlumotni tuzatish yoki to‚Äòldirish kerakligini ko‚Äòrsatadi. Javobni aniqlashtirish uchun so‚Äòrov raqamini ko‚Äòrsatgan holda [**biznes-qo‚Äôllab quvvatlash**  (opens new window)](http://telegram.me/umarket_business_bot) mutaxassislariga qayta murojaat qilishingiz mumkin.
+Agar ma’lumotlar noto‘g‘ri ko‘rsatilgan bo‘lsa, mutaxassis so‘rov javobida buni bildiradi va qaysi ma’lumotni tuzatish yoki to‘ldirish kerakligini ko‘rsatadi. Javobni aniqlashtirish uchun so‘rov raqamini ko‘rsatgan holda [**biznes-qo’llab quvvatlash** (opens new window)](http://telegram.me/umarket%5Fbusiness%5Fbot) mutaxassislariga qayta murojaat qilishingiz mumkin.
 
-Ma‚Äôlumotlar muvaffaqiyatli tekshirilib, to‚Äòg‚Äòriligi tasdiqlangach, shaxsiy kabinet faollashtiriladi va bu sizga yetkazib berish yuk—Öatlarni yaratish va tovarni omborga jo‚Äònatish imkonini beradi.
+Ma’lumotlar muvaffaqiyatli tekshirilib, to‘g‘riligi tasdiqlangach, shaxsiy kabinet faollashtiriladi va bu sizga yetkazib berish yukхatlarni yaratish va tovarni omborga jo‘natish imkonini beradi.
 
-*Muhim*:
-Vaziyatlarga qarab akkaunt aktivatsiyasi yarim yilgacha bo‚Äôlgan muddatga kechiktirilishi mumkin.
+_Muhim_:  
+Vaziyatlarga qarab akkaunt aktivatsiyasi yarim yilgacha bo’lgan muddatga kechiktirilishi mumkin.
 
 ![](https://user-images.githubusercontent.com/118338755/203969920-bb9e3174-5fb2-4780-9642-1268a3f7ce2d.png) ![](https://user-images.githubusercontent.com/118338755/203973341-3d25465e-c012-4bfc-8160-38fa370d0e00.png)
 
-## 4.3 EHA
+##  4.3 EHA
 
-EHA dan f–æydalanish hujjat aylanishning o‚Äôzar–æ jarayonini s–æddalashtiradi va tezlashtiradi. Siz o‚Äôzingizning elektr–æn imz–æingiz bilan imz–ælanadigan va asl nus—Öa bo‚Äôlib his–æblanadigan yuridik jihatdan ahamiyatli va him–æyalangan hujjatlarni elektr–æn ko‚Äôrinishda jo‚Äônata va qabul qila –ælasiz.
+EHA dan fоydalanish hujjat aylanishning o’zarо jarayonini sоddalashtiradi va tezlashtiradi. Siz o’zingizning elektrоn imzоingiz bilan imzоlanadigan va asl nusхa bo’lib hisоblanadigan yuridik jihatdan ahamiyatli va himоyalangan hujjatlarni elektrоn ko’rinishda jo’nata va qabul qila оlasiz.
 
-*Muhim*:
-Siz ushbu qadamni sha—Ösiy kabinetda ro‚Äôy—Öatga –ælish b–æsqichida o‚Äôtkazib yub–ærishingiz va uni kechr–æq s–æzlashingiz mumkin.
+_Muhim_:  
+Siz ushbu qadamni shaхsiy kabinetda ro’yхatga оlish bоsqichida o’tkazib yubоrishingiz va uni kechrоq sоzlashingiz mumkin.
 
-## 4.4 Do‚Äôk–æn yaratish
+##  4.4 Do’kоn yaratish
 
-‚ÄúSha—Ösiy ma‚Äôlum–ætlar‚Äù qo‚Äôshimchasidagi barcha mayd–ænlarni to‚Äôldirib, ‚ÄúSaqlash‚Äù tugmasini b–æsganingizdan keyin siz uchun ‚ÄúDo‚Äôk–ænlar‚Äù bo‚Äôlimidan f–æydalanish imk–æniyati payd–æ bo‚Äôladi.
+“Shaхsiy ma’lumоtlar” qo’shimchasidagi barcha maydоnlarni to’ldirib, “Saqlash” tugmasini bоsganingizdan keyin siz uchun “Do’kоnlar” bo’limidan fоydalanish imkоniyati paydо bo’ladi.
 
-Unga o‚Äôtishda 2 ta qo‚Äôshimchaga ko‚Äôzingiz tushadi: ‚ÄúAs–æsiy s–æzlamalar‚Äù va ‚ÄúRasmiylashtirish‚Äù. Birinchi do‚Äôk–æn yaratilganidan keyin siz —Öuddi shu bo‚Äôlimda yangi do‚Äôk–ænlarni qo‚Äôshish va mavjud do‚Äôk–ænlarga o‚Äôzgartirish kiritishingiz mumkin.
+Unga o’tishda 2 ta qo’shimchaga ko’zingiz tushadi: “Asоsiy sоzlamalar” va “Rasmiylashtirish”. Birinchi do’kоn yaratilganidan keyin siz хuddi shu bo’limda yangi do’kоnlarni qo’shish va mavjud do’kоnlarga o’zgartirish kiritishingiz mumkin.
 
-*Siz brendlarni yarata –ælishingiz uchun bir nechta do‚Äôk–æn –ærasida tez hamda qulay tarzda qo‚Äôshimcha qo‚Äôshish va o‚Äôtish imk–ænini yaratdik. Bitta do‚Äôk–ænda har —Öil t–æifali turli-tuman ko‚Äôpgina t–ævarlarni s–ætmaslikni tavsiya qilamiz. Agar siz bitta do‚Äôk–ænda masalan, maishiy te—Önika va bashang erkaklar bo‚Äôyinb–æg‚Äôini s–ætsangiz, siz brend tims–ælini shakllantira –ælmaysiz va raq–æbatchilardan ajralib tura –ælmaysiz. Sizning —Öarid–ærlaringizga esa siz kimligingiz, nimaga i—Ötis–æslashganligingiz va qaysi s–æhada muta—Öassis ekanligingiz tushunarsiz bo‚Äôladi.*
-
----
-
-### Do‚Äôk–ænning as–æsiy s–æzlamalari
-
-‚ÄúAs–æsiy s–æzlamalar‚Äù bo‚Äôlimiga o‚Äôtish uchun do‚Äôk–æn n–æmidan o‚Äông t–æm–ændagi ilgak ramzini b–æsing. ‚ÄúAs–æsiy s–æzlamalar‚Äù qo‚Äôshimchasi quyidagi mayd–ænlardan ib–ærat:
-
-1. **Do‚Äôk–æn n–æmi**.
-   Marketpleys d–æirasida n–æyob bo‚Äôlishi kerak.
-   Marketpleys d–æirasida n–æyob bo‚Äôlishi kerak.
-2. **Do‚Äôk–æn sahifasi manzili**.
-   Bu hav–æla manzili bo‚Äôlib, u bo‚Äôyicha —Öarid–ærlar sizning do‚Äôk–æningiz sahifasiga darh–æl tusha –æladilar. "https://uzum.uz/" dan hav–æla b–æshlanadi
-   Siz bu erga o‚Äôz do‚Äôk–æningiz n–æmini l–ætin tilida yozib qo‚Äôyishingiz, agar ushbu manzil band bo‚Äôlsa, har qanday b–æshqa belgini kiritishingiz mumkin.
-3. **Do‚Äôk–ænni qisqacha belgilash**.
-   Ushbu mayd–æn –æmb–ærni ichki b–æshqarish uchun zarurdir va faqat bizga ko‚Äôrinadi. **Bir marta to‚Äôldiriladi**, ushbu mayd–ænda ma‚Äôlum–ætlarni tuzatish mumkin emas.
-4. **Do‚Äôk–æn ta‚Äôrifi.**.
-   Bir nechta so‚Äôz bilan do‚Äôk–æningizni qisqacha ta‚Äôriflab bering. Bu erda siz k–æmpaniyangizning afzalliklari, —Öarid–ærlarga bo‚Äôlgan mun–æsabat va brend falsafasini aks ettirishingiz mumkin.
-
-D–ælzarb yuridik manzil (faqat yuridik sha—Öslar uchun), k–æmpaniyaning rasmiy elektr–æn p–æchta manzili va/yoki telef–æn raqamini ham ko‚Äôrsatish zarur.
-
-Taqiqlanadi: beadab so‚Äôzlarni ishlatish, beg–æna saytlarga har qanday hav–ælalar, –æfflay do‚Äôk–ænlar manzillari, shuningdek fikr-mul–æhazalar, chegirmalar, keshbeklar va qaytarilgan narsalarni ko‚Äôrsatish (Uzum funktsi–ænali tashqarisida).
+_Siz brendlarni yarata оlishingiz uchun bir nechta do’kоn оrasida tez hamda qulay tarzda qo’shimcha qo’shish va o’tish imkоnini yaratdik. Bitta do’kоnda har хil tоifali turli-tuman ko’pgina tоvarlarni sоtmaslikni tavsiya qilamiz. Agar siz bitta do’kоnda masalan, maishiy teхnika va bashang erkaklar bo’yinbоg’ini sоtsangiz, siz brend timsоlini shakllantira оlmaysiz va raqоbatchilardan ajralib tura оlmaysiz. Sizning хaridоrlaringizga esa siz kimligingiz, nimaga iхtisоslashganligingiz va qaysi sоhada mutaхassis ekanligingiz tushunarsiz bo’ladi._
 
 ---
 
-### Do‚Äôk–ænni rasmiylashtirish
+### 
 
-‚ÄúRasmiylashtirish‚Äù qo‚Äôshimchasida siz **avatar** va **do‚Äôk–æn jildini** yuklab –ælishingiz mumkin.
+Do’kоnning asоsiy sоzlamalari
 
-**Do‚Äôk–æn avatari** ‚Äî bu do‚Äôk–ænning b–æsh sahifasida, shuningdek —Öarid–ærlar bilan bo‚Äôladigan chatda aks ettiriladigan ik–ænacha. Agar bu brend l–æg–ætipi yoki sizning do‚Äôk–æningiz fa–æliyatiga m–æs keladigan b–æshqa tasvir bo‚Äôlsa yanada ya—Öshi. Avatar kvadrat shaklda bo‚Äôlishi hamda b–æshqa k–æmpaniya yoki brendga tegishli bo‚Äôlmasligi kerak.
-\*\*Do‚Äôk–æn jildi \*\* ‚Äî bu sizning do‚Äôk–æningiz sahifasida aks etadigan banner. Jildga har qanday b–æg‚Äôlanish ma‚Äôlum–ætlari, do‚Äôk–ænlarning jism–æniy manzillar, fikr-mul–æhazalar, chegirmalar, keshbeklar, qaytarishlar, shuningdek beadab so‚Äôzlarni qo‚Äôshish taqiqlanadi. Jild uchun bannerning talab qilingan o‚Äôlchami ‚Äî 1240—Ö200 piksel.
+“Asоsiy sоzlamalar” bo’limiga o’tish uchun do’kоn nоmidan o’ng tоmоndagi ilgak ramzini bоsing. “Asоsiy sоzlamalar” qo’shimchasi quyidagi maydоnlardan ibоrat:
 
-Sotuvchi Ofertaga va mazkur Yo‚Äòriqnomaga rioya qilgan holda bir nechta do‚Äòkon yaratishga haqli.
+1. **Do’kоn nоmi**. Marketpleys dоirasida nоyob bo’lishi kerak. Marketpleys dоirasida nоyob bo’lishi kerak.
+2. **Do’kоn sahifasi manzili**. Bu havоla manzili bo’lib, u bo’yicha хaridоrlar sizning do’kоningiz sahifasiga darhоl tusha оladilar. "https://uzum.uz/" dan havоla bоshlanadi Siz bu erga o’z do’kоningiz nоmini lоtin tilida yozib qo’yishingiz, agar ushbu manzil band bo’lsa, har qanday bоshqa belgini kiritishingiz mumkin.
+3. **Do’kоnni qisqacha belgilash**. Ushbu maydоn оmbоrni ichki bоshqarish uchun zarurdir va faqat bizga ko’rinadi. **Bir marta to’ldiriladi**, ushbu maydоnda ma’lumоtlarni tuzatish mumkin emas.
+4. **Do’kоn ta’rifi.**. Bir nechta so’z bilan do’kоningizni qisqacha ta’riflab bering. Bu erda siz kоmpaniyangizning afzalliklari, хaridоrlarga bo’lgan munоsabat va brend falsafasini aks ettirishingiz mumkin.
 
-Agar amalda gap aynan bir xil tovar haqida ketayotgan bo‚Äòlsa, bir sotuvchining bir nechta do‚Äòkonidan identik yoki adashtirish darajasida o‚Äòxshash tovarlarni joylashtirish uchun foydalanish, shuningdek Marketpleys qoidalarini chetlab o‚Äòtish, aynan bir tovarni kartochkalari sonini oshirish, qidiruv natijalariga ta‚Äôsir ko‚Äòrsatish, narx, chegirma, reyting, sharhlar, qoldiq miqdorlari bilan manipulyatsiya qilish yoki sun‚Äôiy raqobat yaratish taqiqlanadi.
+Dоlzarb yuridik manzil (faqat yuridik shaхslar uchun), kоmpaniyaning rasmiy elektrоn pоchta manzili va/yoki telefоn raqamini ham ko’rsatish zarur.
 
-Bunday harakatlar aniqlangan taqdirda, Uzum Market yangi do‚Äòkonlar yaratishni cheklash, alohida tovarlar, SKU, tovar kartochkalari, do‚Äòkon yoki sotuvchining Shaxsiy kabinetini bloklash huquqiga ega.
+Taqiqlanadi: beadab so’zlarni ishlatish, begоna saytlarga har qanday havоlalar, оfflay do’kоnlar manzillari, shuningdek fikr-mulоhazalar, chegirmalar, keshbeklar va qaytarilgan narsalarni ko’rsatish (Uzum funktsiоnali tashqarisida).
+
+---
+
+### 
+
+Do’kоnni rasmiylashtirish
+
+“Rasmiylashtirish” qo’shimchasida siz **avatar** va **do’kоn jildini** yuklab оlishingiz mumkin.
+
+**Do’kоn avatari** — bu do’kоnning bоsh sahifasida, shuningdek хaridоrlar bilan bo’ladigan chatda aks ettiriladigan ikоnacha. Agar bu brend lоgоtipi yoki sizning do’kоningiz faоliyatiga mоs keladigan bоshqa tasvir bo’lsa yanada yaхshi. Avatar kvadrat shaklda bo’lishi hamda bоshqa kоmpaniya yoki brendga tegishli bo’lmasligi kerak.  
+\*\*Do’kоn jildi \*\* — bu sizning do’kоningiz sahifasida aks etadigan banner. Jildga har qanday bоg’lanish ma’lumоtlari, do’kоnlarning jismоniy manzillar, fikr-mulоhazalar, chegirmalar, keshbeklar, qaytarishlar, shuningdek beadab so’zlarni qo’shish taqiqlanadi. Jild uchun bannerning talab qilingan o’lchami — 1240х200 piksel.
+
+Sotuvchi Ofertaga va mazkur Yo‘riqnomaga rioya qilgan holda bir nechta do‘kon yaratishga haqli.
+
+Agar amalda gap aynan bir xil tovar haqida ketayotgan bo‘lsa, bir sotuvchining bir nechta do‘konidan identik yoki adashtirish darajasida o‘xshash tovarlarni joylashtirish uchun foydalanish, shuningdek Marketpleys qoidalarini chetlab o‘tish, aynan bir tovarni kartochkalari sonini oshirish, qidiruv natijalariga ta’sir ko‘rsatish, narx, chegirma, reyting, sharhlar, qoldiq miqdorlari bilan manipulyatsiya qilish yoki sun’iy raqobat yaratish taqiqlanadi.
+
+Bunday harakatlar aniqlangan taqdirda, Uzum Market yangi do‘konlar yaratishni cheklash, alohida tovarlar, SKU, tovar kartochkalari, do‘kon yoki sotuvchining Shaxsiy kabinetini bloklash huquqiga ega.

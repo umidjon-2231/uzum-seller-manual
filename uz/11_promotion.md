@@ -1,4 +1,4 @@
-# 11. Tovar va do‘konlar yuksalishi
+#  11\. Tovar va do‘konlar yuksalishi
 
 Ushbu bo‘limda sotuvchi shaxsiy kabinetidagi “Marketing” bo‘limi bilan ishlashga yordam beradigan ma’lumotlar berilgan. “Marketing” menyu bloki vazifasi - maydon ichida tovarlar va do‘kon ichki yuksalishi uchun vositalarni taqdim etish. Mazkur bo‘lim yangi imkoniyatlar ta’rifi bilan tez-tez to‘ldirib boriladi, chunki marketing funksionalligi ustida faol ish olib bormoqdamiz.
 
@@ -11,7 +11,7 @@ Ushbu bo‘limda sotuvchi shaxsiy kabinetidagi “Marketing” bo‘limi bilan i
 * Marketing tahlili;
 * Sotuvchi to‘plam.
 
-## 11.1 Aksiyalar
+##  11.1 Aksiyalar
 
 Ushbu qo’shimcha sizga alоhida SKU ni siljitishga yordam beradi. Ehtimоlli aksiya turlaridan har biri siz tоmоndan ma’lum vazifalarni yopishga yo’naltiriladi, хоh u yangi tоvarni reklama qilish, fikr-mulоhazalarni оlish, o’rtacha chekni ko’paytirish yoki хaridоrlarning sizning do’kоningizga sоdiqligini оshirish bo’lsin.
 
@@ -23,7 +23,7 @@ Aksiyalarda ishtirоk etishga ruхsat berilgan tоvarlarga qo’yiladigan talabl
 
 “Aksiyalar” sahifasida hоzirgi paytga siljish meхanikasining faqat bir turidan fоydalanish imkоniyati bоr:
 
-### "Taymer" turidagi aksiyalar
+###  "Taymer" turidagi aksiyalar
 
 Ushbu turdagi aksiyalar funktsiоnali quyidagilardan ibоrat: siz amal qilishi cheklangan muddatli chegirma qo’yilishi mumkin bo’lgan SKU ni tanlashingiz mumkin. Хaridоrlar uchun eski narх ustiga chiziq tоrtish, yangi narх va chegirma tugaguniga qadar teskari sanоqli taymer aks ettirilishi natija bo’ladi. Aksiya amal qilish vaqti tugashi bilan SKU narхi dastlabki hоlatiga avtоmatik ravishda qaytadi. Ushbu tоvarlarga qo’shimcha e’tibоrni tоrtish uchun saytning bоsh sahifalarida va ilоvalarda “Sоtib оlishga ulgurib qоl” sarlavhasi aks ettiriladi (kattalar uchun tоvarlar tоifasidan tashqari). “Taymer” marketing vоsitasi ko’prоq yangi tоvarni siljitish yoki qоldiqlarni yoхud nоlikvid tоvarlarni sоtishga to’g’ri keladi.
 
@@ -37,7 +37,7 @@ Shaхsiy kabinetdagi tizim tоvar tоifasiga qarab chegirmaning minimal hajmini 
 
 СХaridоrlar tоmоnidan taymerlar asta-sekin barcha platfоrmalarda (Android, ios i Web). Paydо bo’lishni bоshlaydi. Birinchi bоsqichda хaridоrlarda faqat “Sоtib оlishga ulgurib qоl” sarlavhasidan fоydalanish imkоniyati bo’ladi.
 
-## 11.2 Prоmоkоdlar
+##  11.2 Prоmоkоdlar
 
 Ushbu ilоva sizga o’z do’kоnlaringizga prоmоkоdlarni yaratish va ulardan rivоjlantirish maqsadida fоydalanish imkоnini beradi, shu jumladan siz o’z do’kоningizni reklama qilish uchun blоgerlarni jalb qila оlasiz. Хaridоr tоmоnidan prоmоkоddan fоydalanishda siz amalga оshiradigan chegirma sizning tushumingizdan to’liq qоplanishi va marketpleys kоmissiyasi miqdоriga hech qanday ta’sir qilmasligini tushunish muhim. Uzum kоmissiyasi tоvar хuddi 100 % to’langanligi kabi to’liq hajmda chegirib оlinadi.
 
@@ -49,7 +49,7 @@ Prоmоkоdni yaratishda tizim do’kоn prefiksini avtоmatik ravishda ko’rsa
 
 Shuningdek sizda siz tоmоndan yaratilgan barcha prоmоkоdlarni ko’rib chiqish, har bir prоmоkоd bo’yicha fоydalanish miqdоri va yakuniy marketing sarfini tahlil qilish imkоni bоr. Turli marketing maydоnchalari va kreativlarda turli prоmоkоdlardan fоydalanish sizga reklama kampaniyalaringiz samaradоrligini o’lchashga imkоn beradi.
 
-## 11.3 Aksiyalar taqvimi
+##  11.3 Aksiyalar taqvimi
 
 Ushbu ilоvada marketpleysning barcha jоriy aksiyalarini ko’rib chiqish va agar ular shartlar bo’yicha to’g’ri kelsa ularda ishtirоk etish uchun tоvarlarni qo’shish mumkin. Ular turli bo’lishi mumkin:
 
@@ -76,7 +76,7 @@ Ba’zi aksiyalarda ishtirоkchilar uchun biz sizning хaridоrlaringizga yanada
 
 Aksiyada ishtirоk etish uchun “Ishtirоk etish” tugmasini bоsing, tоvarlarni tanlang va yangi narх belgilang. Agar siz aksiyaga qo’shgan tоvar narхi kоmissiya diapazоnlari bo’yicha keyingi darajaga o’tsa, biz kоmissiyani aksiyaga kirishishdan оldingi hоlat bo’yicha saqlab qоlamiz.
 
-Misоl: aksiya bоshlangunga qadar tоvar narхi 4 250 000 so’m bo’lgan (kоmissiya 3%), aksiyadagi chegirma bilan esa narхi 2 500 000 so’mgacha pasayadi (bu narхga 5% li kоmissiya to’g’ri keladi). [UZUM  (opens new window)](https://seller.uzum.uz/manual/3.tariffs/#_3-2-%D1%82%D0%B0%D1%80%D0%B8%D1%84%D1%8B-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BFn%D0%B5%D0%B9%D1%81%D0%B0) tariflari bo’yicha bu narх diapazоni bir darajaga o’zgarishidir, demak aksiyaga kirganda kоmissiya miqdоri o’zgarmaydi va 2 500 000 so’mdan 3 % ni tashkil etadi.
+Misоl: aksiya bоshlangunga qadar tоvar narхi 4 250 000 so’m bo’lgan (kоmissiya 3%), aksiyadagi chegirma bilan esa narхi 2 500 000 so’mgacha pasayadi (bu narхga 5% li kоmissiya to’g’ri keladi). [UZUM (opens new window)](https://seller.uzum.uz/manual/3.tariffs/#%5F3-2-%D1%82%D0%B0%D1%80%D0%B8%D1%84%D1%8B-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BFn%D0%B5%D0%B9%D1%81%D0%B0) tariflari bo’yicha bu narх diapazоni bir darajaga o’zgarishidir, demak aksiyaga kirganda kоmissiya miqdоri o’zgarmaydi va 2 500 000 so’mdan 3 % ni tashkil etadi.
 
 Agar chegirmali narх aksiyaga kirishdan оldingi narхdan nоtabiiy hоlda qattiq farq qilsa va kоmissiya diapazоni bo’yicha ikki va undan оrtiq darajadan o’tsa, biz kоmissiyani sоtuvning yakuniy narхidan hisоblaymiz.
 
@@ -90,11 +90,11 @@ Standart bo’yicha biz eng yuqоri narхni ko’rsatamiz, bunday sоtuvda tоva
 
 Bitta tоvarning turli variantlari uchun (rang, o’lcham va h.k. Lar bo’yicha) siz turli narхlarni belgilashingiz mumkin, birоq shartlar bo’yicha maksimal mumkin bo’lgan narхdan yuqоri bo’lmagan hоlda.
 
-E’tibor bering: tovar toifasi o‘zgargandan so‘ng, uni aksiyaga qo‘sha olmaysiz. Agar kategoriya Uzum Market moderatsiyasi tomonidan o‘zgartirilgan holda, iltimos, aksiyalarga kirishni tiklash uchun shaxsiy menejeringiz yoki [Biznesni Qo‘llab-quvvatlashga  (opens new window)](https://telegram.me/umarket_business_bot) murojaat qiling.
+E’tibor bering: tovar toifasi o‘zgargandan so‘ng, uni aksiyaga qo‘sha olmaysiz. Agar kategoriya Uzum Market moderatsiyasi tomonidan o‘zgartirilgan holda, iltimos, aksiyalarga kirishni tiklash uchun shaxsiy menejeringiz yoki [Biznesni Qo‘llab-quvvatlashga (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) murojaat qiling.
 
-## 11.4 Bust TOP
+##  11.4 Bust TOP
 
-### Bust Top nima??
+###  Bust Top nima??
 
 Bu tovarlarni toifa va qidiruv natijalarida ko‘taradigan reklama vositasi. Uni yangi tovarlarni targ‘ib qilish yoki ommabop kartochkalarning sotuvlarini oshirish uchun ham ishlatish mumkin.
 
@@ -102,7 +102,7 @@ Vosita kim oshdi savdosi modelida ishlaydi – yuqoriroq o‘rin uchun boshqa so
 
 Sotuvlar ko‘proq bo‘lishi uchun — reklama kampaniyasidagi tovarlarni joriy aksiya va marketpleysdagi istalgan boshqa faolliklarga qo‘shish mumkin
 
-### Vosita qanday ishlaydi
+###  Vosita qanday ishlaydi
 
 * **SKU-guruhlar bo‘yicha**
 
@@ -120,18 +120,17 @@ Siz reklama kampaniyasini yaratasiz va 1 000 marta namoyish uchun stavkani belgi
 
 “Elektronika” toifasidagi 1000 marta namoyish uchun stavkangiz 7000 so‘m.
 
-Agar reklamangiz 500 marta namoyish qilinsa, unda siz 7 000 х 0.5 = 3 500 so‘m to‘laysiz. Agar
-2 000 marta namoyish qilinsa — 14 000 so‘m to‘laysiz.
+Agar reklamangiz 500 marta namoyish qilinsa, unda siz 7 000 х 0.5 = 3 500 so‘m to‘laysiz. Agar 2 000 marta namoyish qilinsa — 14 000 so‘m to‘laysiz.
 
 Ortiqcha xarajatlarning oldini olish uchun 1 000 marta namoyish uchun stavkani e’tibor bilan belgilang.
 
-### Pullar qachon va qanday yechiladi
+###  Pullar qachon va qanday yechiladi
 
 Pullar shaxsiy kabinetdan har kuni Toshkent vaqti bo‘yicha soat 04:00 da — reklama kampaniyasi faol bo‘lgan paytgacha har bir do‘kondan alohida yechiladi. Haqiqatdagi yechib olishlarni Mablag‘lar → Xizmatlarga to‘lov bo‘limida ko‘rish mumkin.
 
 Ba’zida yechib olishlar 7 kungacha ushlanish bilan bo‘ladi. Texnik xususiyatlar sababli shunday bo‘ladi — namoyishlar, savatga qo‘shishlar va sotuvlar haqidagi mal’umotlar darhol uzatilmaydi, ayniqsa mobil qurilmalardan. Bu yechishlarni hisoblash uchun bir qancha vaqt kerak degani.
 
-### Antifrod qanday ishlaydi
+###  Antifrod qanday ishlaydi
 
 Marketpleys insofsiz raqobatchilarni kuzatib boradi va botlar aldovi topilganda — kun oxirida, kuniga bir marotaba namoyishlar sonini qaytadan hisoblaydi.
 
@@ -139,7 +138,7 @@ Reklama frod tomoshalari uchun pul yechib olinmaydi. Agar marketpleys yechib oli
 
 Sotuvchi shaxsiy kabinetidagi statistika 15 daqiqada bir marta yangilanadi, frod ko‘rishlardan tozalash va yechishlar esa sutkada bir marta bo‘ladi. Aynan shu sababli marketing bo‘limidagi xarajatlar, mablag‘lar bo‘limidagidan ko‘proq bo‘lishi mumkin.
 
-### Xaridorlar uchun qanday ko‘rinishga ega bo‘ladi
+###  Xaridorlar uchun qanday ko‘rinishga ega bo‘ladi
 
 Reklama kampaniyasida ishtirok etayotgan tovarlar umumiy tovarlar ro'yxatida ko'rsatiladi. Ularning pozitsiyasi uchta omilga bog'liq: tovar xaridor so'roviga qanchalik mos kelishi, tovar kartochkasining sifati (reyting, sharhlar, voronkaning har bir bosqichidagi konversiyalar) va sizning reklama stavkangiz. Uchala ko'rsatkich qanchalik yuqori bo'lsa, pozitsiya shunchalik yuqori bo'ladi.
 
@@ -147,13 +146,13 @@ Ular kartochkaning tepa qismida **Reklama** yozuvi bilan belgilangan. Marketpley
 
 ![пример](https://seller.uzum.uz/manual/assets/img/UZ_1.746d985b.png)
 
-### Reklama kampaniyasi qanday yaratiladi
+###  Reklama kampaniyasi qanday yaratiladi
 
 Bitta reklama kampaniyasida bir vaqtda bir nechta tovarlarni har xil joylarda — katalogda va qidiruvda targ‘ib qilish mumkin.
 
 Reklamani yaratish bir nechta bosqichga bo‘linadi va shaxsiy kabinetda boshlanadi: Marketing → Bust Top → **Reklama kampaniyasini yaratish** tugmasi.
 
-### 1-qadam. Umumiy parametrlarni sozlang
+###  1-qadam. Umumiy parametrlarni sozlang
 
 (1) Reklama kampaniyasi nomini kiriting — u faqat sotuvchining shaxsiy kabinetida ko‘rsatiladi, xaridorlar uni ko‘rishmaydi.
 
@@ -181,7 +180,7 @@ Agar haftaga byudjet tugagan, siz esa namoyishlarni davom ettirishni xohlasangiz
 
 ![пример](https://seller.uzum.uz/manual/assets/img/UZ_2.4f851e4d.png)
 
-### 2-qadam. Targ‘ib qilish uchun tovarlarni tanlang
+###  2-qadam. Targ‘ib qilish uchun tovarlarni tanlang
 
 Yangi sahifada targ‘ib qilish mumkin bo‘lgan tovarli jadval paydo bo‘ladi. Keraklilarni tezroq topishga — qidirish (1) yoki do‘konlar bo‘yicha filtrdan foydalaning (2).
 
@@ -199,14 +198,12 @@ Bust Topda ishtirok etish uchun tovarlarga qo‘yiladigan talablar
 
 1. Kartochka faol — bloklanmagan va arxivlanmagan, tovar esa marketpleys omborida mavjud.
 2. Reklama O‘zbekiston Respublikasi qonunlarini buzmaydi va tegishli sertifikatlashni talab qilmaydi. Tovar quyidagi kichik toifalarga tegishli emas:
-
 * Vitaminlar, BFQlar, oziq-ovqat qo‘shimchalari, ona suti o‘rnini bosuvchilar
 * Tibbiyot anjomlari yoki intim kosmetika
 * Replikalar
+1. SKU-guruh tovarining kartochkasiga studiya fotosuratlari yoki moderatsiyadan o‘tganlar yuklangan.
 
-3. SKU-guruh tovarining kartochkasiga studiya fotosuratlari yoki moderatsiyadan o‘tganlar yuklangan.
-
-### 3-qadam. Joy va targ‘ibot narxini tanlang
+###  3-qadam. Joy va targ‘ibot narxini tanlang
 
 Reklama katalog va qidiruvda ishlaydi — hamma joyda o‘z chiqarishi bo‘ladi. Bunda kampaniyani hamma targ‘ibot joylarda ishga tushirish yoki bittasida to‘xtalish ham mumkin.
 
@@ -288,7 +285,7 @@ Marketpleys boshqa sotuvchilarning stavkalari va chiqarishni tahlil qiladi — k
 
 ![пример](https://seller.uzum.uz/manual/assets/img/UZ_12.80a64931.png)
 
-### Reklama kampaniyasi qanday boshqariladi
+###  Reklama kampaniyasi qanday boshqariladi
 
 Samaradorlikni nazorat qiling, strategiya tuzib chiqing va targ‘ib qilish sozlamalarini tezda o‘zgartiring. Hamma kampaniyalarning umumiy ko‘rsatkichlarini ham, har bittasini alohida ham kuzatish mumkin.
 
@@ -365,7 +362,7 @@ Bu ma’lumotni tahlil qilish va samaradorlikni oshirish— omadsiz iboralarni o
 
 ![пример](https://seller.uzum.uz/manual/assets/img/UZ_18.4ef529c7.png)
 
-### Budjetni sozlash
+###  Budjetni sozlash
 
 Kampaniyalar uchun byudjet kalendar haftaga o‘rnatiladi — dushanbadan yakshanbagacha. Bu tizim ushbu davrda sarflashi mumkin bo‘lgan summa.
 
@@ -402,25 +399,25 @@ Hozircha bunday funksiya yo‘q, lekin siz xarajatlarni Mablag‘lar bo‘limida
 
 Reklama bo‘yicha hamma haqiqatdagi yechib olishlarni Mablag‘lar bo‘limida tekshirish mumkin.
 
-## 11.5 Buyurtmalarni ko‘paytirish
+##  11.5 Buyurtmalarni ko‘paytirish
 
-### "Buyurtmalarni ko‘paytirish" nima
+###  "Buyurtmalarni ko‘paytirish" nima
 
 “Buyurtmalarni ko‘paytirish” — faqat olingan tovar uchun haq to‘lanadigan targ‘ibot vositasi. Siz sotuv narxidan foiz to‘laysiz - faqat xaridor tovarni olgandagina. Oldindan to‘lovsiz. Belgilangan budjetsiz.
 
 💡 Analogiya: bu xaridorga har bir qo‘ng‘iroq uchun emas, balki faqat yopiq bitim uchun to‘laydigan savdo agentiga o‘xshaydi.
 
-### Bust Top dan qanday farq qiladi
+###  Bust Top dan qanday farq qiladi
 
-|  | Bust Top | Buyurtmalarni ko‘paytirish |
-| --- | --- | --- |
-| **To‘lov modeli** | Namoyish uchun (Cost-Per-Millennium, CPM) | Olingan tovar uchun (Cost-Per-Order) |
-| **To‘lov qachon amalga oshiriladi** | Targ‘ib qilinayotgan kartochkani foydalanuvchiga ko‘rsatishni qayd qilish paytida. | Xaridor buyurtmani qabul qilganidan bir soat o‘tgach, pul yechib olinadi |
-| **Byudjet** | Bitta kampaniya uchun kamida 150 000 so‘m | Byudjet yo‘q — har bir buyurtma uchun targ‘ibot xarajatlari belgilangan stavkaga teng. |
-| **Sozlama** | Tovar rangini tanlash, kalit so‘zlar, minus iboralar, stavkalar, budjetlar | Tovar tanlovi, stavka belgilash |
-| **Kimga mos keladi** | Targ’ibot kampaniyalarini qo‘lda boshqarmoqchi bo‘lganlar uchun | Shunchaki yoqib, ko‘proq sotmoqchi bo‘lganlar uchun |
+| Bust Top                            | Buyurtmalarni ko‘paytirish                                                         |                                                                                        |
+| ----------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **To‘lov modeli**                   | Namoyish uchun (Cost-Per-Millennium, CPM)                                          | Olingan tovar uchun (Cost-Per-Order)                                                   |
+| **To‘lov qachon amalga oshiriladi** | Targ‘ib qilinayotgan kartochkani foydalanuvchiga ko‘rsatishni qayd qilish paytida. | Xaridor buyurtmani qabul qilganidan bir soat o‘tgach, pul yechib olinadi               |
+| **Byudjet**                         | Bitta kampaniya uchun kamida 150 000 so‘m                                          | Byudjet yo‘q — har bir buyurtma uchun targ‘ibot xarajatlari belgilangan stavkaga teng. |
+| **Sozlama**                         | Tovar rangini tanlash, kalit so‘zlar, minus iboralar, stavkalar, budjetlar         | Tovar tanlovi, stavka belgilash                                                        |
+| **Kimga mos keladi**                | Targ’ibot kampaniyalarini qo‘lda boshqarmoqchi bo‘lganlar uchun                    | Shunchaki yoqib, ko‘proq sotmoqchi bo‘lganlar uchun                                    |
 
-### Bu qanday ishlaydi — oddiy mexanika
+###  Bu qanday ishlaydi — oddiy mexanika
 
 Siz tovarni to‘liq tanlaysiz va umumiy narxni belgilaysiz – **bu targ’ibot uchun to‘lashga tayyor bo‘lgan har qanday SKUning sotuv narxidan foiz.**
 
@@ -431,9 +428,9 @@ So‘ngra tizimning o‘zi:
 3. Uni boshqa tovarlar orasida ushbu bahoning kamayish tartibida joylashtiradi
 4. **Xaridor tovarni olganidan bir soat o‘tgach**, to‘lovni amalga oshiradi
 
-### Qancha to‘lash kerak yoki "stavka" bu nima
+###  Qancha to‘lash kerak yoki "stavka" bu nima
 
-#### "Buyurtmalarni ko‘paytirish"dagi stavka bu nima
+####  "Buyurtmalarni ko‘paytirish"dagi stavka bu nima
 
 Stavka — bu tovar olinganidan keyin yechiladigan **sotuv narxidan foizi**.
 
@@ -443,23 +440,23 @@ Tovarni buyurtmaga olib kelgan **xaridorga namoyish paytidagi** stavka qo‘llan
 
 Misol: 16‑fevralda stavka 5% edi, 17‑fevralda esa siz uni 10% ga o‘zgartirdingiz. Agar xaridor tovarni 16‑fevralda targ‘ibotda ko‘rib, 18‑fevralda olib ketgan bo‘lsa, biz amal qilgan 5% stavkani yechib olamiz.
 
-#### Minimal stavka
+####  Minimal stavka
 
 Har bir tovar toifasi uchun minimal stavka belgilangan. Targ’ibotga tovar kiritilganda, u avtomatik qo‘llaniladi.
 
-#### Stavka natijaga qanday ta’sir qiladi
+####  Stavka natijaga qanday ta’sir qiladi
 
 Stavka qancha yuqori bo‘lsa, tovaringiz namoyishlar soni shuncha ko‘p bo‘ladi.
 
 **Maslahat:** toifangiz uchun kichik stavkadan boshlang. Targ‘ibotni 7-10 kun ichida qoldiring - buyurtmalar kechikishi mumkin va ushbu tahlil natijalarini olish uchun biroz vaqt talab etiladi. Ko‘proq buyurtma olishni istasangiz, stavkangizni oshiring.
 
-### Targ‘ibot qanday ishga tushiriladi
+###  Targ‘ibot qanday ishga tushiriladi
 
-#### 1-qadam. Buyurtmalarni ko‘paytirish bo‘limini oching
+####  1-qadam. Buyurtmalarni ko‘paytirish bo‘limini oching
 
 Yon menyudan **«Targ’ibot»** tugmasini bosing.
 
-#### 2-qadam. Tovarni tanlang
+####  2-qadam. Tovarni tanlang
 
 "Tovarlarni targ’ib qilish" tugmasini bosing.
 
@@ -479,69 +476,69 @@ Yaxshi suratlar, kamida bir nechta ijobiy sharhlar va toifadagi raqobatbardosh n
 
 ![пример](https://seller.uzum.uz/manual/assets/img/2_UZ.52cd8cf3.png)
 
-#### 3-qadam. Stavka belgilang
+####  3-qadam. Stavka belgilang
 
 **"Targ’ib qilish"** tugmasi bosilgandan so‘ng, tovar jadvalda paydo bo‘ladi. Agar qo‘shish amalga oshgan bo‘lsa – pastki o‘ng burchakda "Targ’ibotga qo‘shildi" bildirishnomasi paydo bo‘ladi. Bu vaqtda qo‘shilgan tovarlar targ’iboti boshlanadi. **"Stavka"** ustunida toifangiz uchun minimal foiz ko‘rsatiladi. Foizni o‘zgartirish uchun raqam yonidagi qalam belgisini bosing.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/3_UZ.42c78c73.png)
 
-### Targ’ibotni qanday o’chirish mumkin
+###  Targ’ibotni qanday o’chirish mumkin
 
 **"Targ’ibot"** ustunida almashtirish tugmasini bosing u "O‘chirilgan" holatiga o‘zgaradi.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/4_UZ.dae72290.png)
 
-### Samaradorlikni qanday baholash mumkin
+###  Samaradorlikni qanday baholash mumkin
 
 Statistika tovarlar jadvalida bevosita bosh ekranda ko‘rinadi. Alohida tahlil bo‘limi yo‘q - hammasi bir joyda.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/5_UZ.8bf05340.png)
 
-#### Nimaga qarash kerak
+####  Nimaga qarash kerak
 
 Jadvaldagi asosiy ustunlar va ulardan kelib chiqadigan natijalar:
 
-| Metrika | U nimani anglatadi |
-| --- | --- |
-| Namoyishlar | Targ‘ibot orqali tovar namoyishlari soni. Stavkani qancha yuqori belgilasangiz, namoyishlar soni shuncha ko‘p va targ‘ibot shuncha samarali bo‘ladi |
-| Kartochka ochilgan | Targ‘ibot orqali xaridorlar tovar kartochkasini necha marta ochgan |
-| Savatga qo‘shildi | Xaridorlar targ‘ibotdan tovarni savatga necha marta qo‘shgan |
-| Buyurtma qilingan | Targ‘ibotdan buyurtma qilingan tovarlar soni |
-| Olingan tovarlar | Xaridorlar olgan tovarlar soni. Stavka bu ko‘rsatkich bo‘yicha yechiladi |
-| Buyurtmaga konversiya | Targ‘ibot namoyishlarining necha foizi buyurtma berishga olib keldi. Bu formula bo‘yicha hisoblaymiz: Buyurtma qilingan / Namoyishlar × 100 |
-| Sotuv summasi | Targ‘ibot yordamida buyurtma berilgan va olingan tovarlardan daromad |
-| Xarajatlar | Targ‘ibotga sarflangan summa |
-| Tovar targ‘ibotining o‘rtacha narxi | Targ‘ibot orqali bitta sotuvga qancha sarfladingiz. Bu formula bo‘yicha hisoblaymiz: Xarajatlar / Olingan tovarlar |
-| RXU | Targ‘ibot xarajatlari ulushi. Daromadning qancha qismini targ‘ibotga sarflayotganingizni baholashga yordam beradi. Bu formula bo‘yicha hisoblaymiz:Xarajatlar / Sotuv summasi × 100 |
+| Metrika                             | U nimani anglatadi                                                                                                                                                                  |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Namoyishlar                         | Targ‘ibot orqali tovar namoyishlari soni. Stavkani qancha yuqori belgilasangiz, namoyishlar soni shuncha ko‘p va targ‘ibot shuncha samarali bo‘ladi                                 |
+| Kartochka ochilgan                  | Targ‘ibot orqali xaridorlar tovar kartochkasini necha marta ochgan                                                                                                                  |
+| Savatga qo‘shildi                   | Xaridorlar targ‘ibotdan tovarni savatga necha marta qo‘shgan                                                                                                                        |
+| Buyurtma qilingan                   | Targ‘ibotdan buyurtma qilingan tovarlar soni                                                                                                                                        |
+| Olingan tovarlar                    | Xaridorlar olgan tovarlar soni. Stavka bu ko‘rsatkich bo‘yicha yechiladi                                                                                                            |
+| Buyurtmaga konversiya               | Targ‘ibot namoyishlarining necha foizi buyurtma berishga olib keldi. Bu formula bo‘yicha hisoblaymiz: Buyurtma qilingan / Namoyishlar × 100                                         |
+| Sotuv summasi                       | Targ‘ibot yordamida buyurtma berilgan va olingan tovarlardan daromad                                                                                                                |
+| Xarajatlar                          | Targ‘ibotga sarflangan summa                                                                                                                                                        |
+| Tovar targ‘ibotining o‘rtacha narxi | Targ‘ibot orqali bitta sotuvga qancha sarfladingiz. Bu formula bo‘yicha hisoblaymiz: Xarajatlar / Olingan tovarlar                                                                  |
+| RXU                                 | Targ‘ibot xarajatlari ulushi. Daromadning qancha qismini targ‘ibotga sarflayotganingizni baholashga yordam beradi. Bu formula bo‘yicha hisoblaymiz:Xarajatlar / Sotuv summasi × 100 |
 
-#### Tovarni qachon tekshirish kerak
+####  Tovarni qachon tekshirish kerak
 
 * Ko‘p marta ko‘rildi, lekin ochishlar soni kam → muammo birinchi surat yoki rangda (agar mavjud bo‘lsa), tovar nomida, raqobatbardosh narxda emas
 * Ko‘p marta ko‘rildi, ochildi, lekin savatga hech narsa qo‘shilmadi → tovarning qolgan suratlari, uning tavsifi, birinchi sharhlar (shaxsiy kabinetda birinchi sharhni mahkamlash mumkin), narx jozibadorligini tekshiring
 * Ko‘p marta ko‘rildi, ochildi, buyurtmalar olindi, lekin olingan buyurtmalar kam → qaytarishlarning katta foizi tovar nomuvofiqligi va tovar kartochkasini rasmiylashtirish bilan bog‘liq bo‘lishi mumkin. Bundan tashqari, partiyada nuqsonli tovarlar bo'lishi ham istisno emas - tekshirib ko‘rgan ma’qul. Agar siz FBS sxemasi bo‘yicha savdo qilayotgan bo‘lsangiz, Uzum Marketga omboringizdan buyurtmani uzoq yetkazayotganingiz uchun bo‘lishi mumkin.
 
-#### Stavkani qachon oshirish kerak
+####  Stavkani qachon oshirish kerak
 
 * 2 kunlik targ‘ibotdan keyin statistikada namoyishlar kam
 * 2 kundan ortiq vaqt o‘tdi, statistikada yetarlicha namoyishlar bor
 * 10 kunlik faol targ‘ibot o‘tdi, statistikada ko‘rsatkichlar kam, lekin sizda sifatli tovar kartochkasi borligiga ishonchingiz komil (yaxshi rasmiylashtirilgan, raqobatbardosh narx) → ehtimol, sizning bozoringizda raqobat kuchli va joriy stavka raqobatchingizdan o‘zib ketish uchun juda past
 * Buyurtmalar kelmoqda, stavkani oshirish uchun foyda zaxirasi mavjud → buyurtmalar hajmini oshirishga sarmoya kiritish mumkin
 
-### Tez-tez so‘raladigan savollar
+###  Tez-tez so‘raladigan savollar
 
-#### Pul qachon yechiladi?
+####  Pul qachon yechiladi?
 
 Xaridor tovarni olganidan bir soat o‘tgach, pul yechib olinadi. Agar buyurtma **olinishidan** oldin bekor qilinsa, pul yechib olinmaydi.
 
-#### Shaxsiy kabinetdagi hisobda pul bo‘lmasa-chi?
+####  Shaxsiy kabinetdagi hisobda pul bo‘lmasa-chi?
 
 "Buyurtmalarni ko‘paytirish" uchun maxsus hisobni to‘ldirishning hojati yo‘q — xuddi sotuvlardan mablag‘ to‘planishini kutgandek. Xaridor buyurtmani olgandan keyin targ‘ibot narxi har bir sotuvdan avtomatik ravishda yechiladi. Shu payt shaxsiy kabinetdagi "Mablag‘lar" sahifasidagi "Xizmatlar to‘lovi"da xaridor tovarni targ’ibotda ko‘rgan paytda faol bo‘lgan stavka bo‘yicha yozuv yaratiladi.
 
-#### Istalgan vaqtda targ‘ibotni o‘chirib qo‘yishim mumkinmi?
+####  Istalgan vaqtda targ‘ibotni o‘chirib qo‘yishim mumkinmi?
 
 Ha. Istalgan vaqtda tovar targ’ibotini faolsizlantirishingiz mumkin. Faol targ‘ibot paytida buyurtmaga olib kelgan hamma namoyishlar uchun, tovar olingandan so‘ng stavka shartlaringiz asosida pul yechiladi.
 
-#### Targ‘ibot ishlayotganini qanday bilish mumkin?
+####  Targ‘ibot ishlayotganini qanday bilish mumkin?
 
 "Buyurtmalarni ko‘paytirish" sahifasidagi jadvalda quyidagilarni ko‘rasiz:
 
@@ -553,18 +550,18 @@ Ha. Istalgan vaqtda tovar targ’ibotini faolsizlantirishingiz mumkin. Faol targ
 
 Ishga tushirilgandan keyin **7-10** kun ichida birinchi ma’lumotlarni kuting.
 
-#### Nima uchun stavka minimumdan past bo‘lmasligi kerak?
+####  Nima uchun stavka minimumdan past bo‘lmasligi kerak?
 
 Minimal stavka toifangizdagi raqobat asosida hisoblanadi. Minimal darajadan past stavkalar tovaringizning auksionda ishtirok etishiga yo‘l qo‘ymaydi - u shunchaki reklama joylariga tushmaydi.
 
-#### Bitta tovarni bir vaqtning o‘zida ham "Bust TOP", ham Buyurtmalarni ko‘paytirish"da targ‘ib qilish mumkinmi?
+####  Bitta tovarni bir vaqtning o‘zida ham "Bust TOP", ham Buyurtmalarni ko‘paytirish"da targ‘ib qilish mumkinmi?
 
 Ha. Bir vaqtning o‘zida ikkala turdagi targ’ibotda tovar kiritishingiz mumkin. Ushbu vositalar kesishgan joylarda, tovaringiz qo‘shimcha yutuqqa ega bo‘ladi - ikkala stavka ham qo‘shiladi.
 
-#### Oddiy namoyishlarda targ‘ibot tovar pozitsiyasiga ta’sir qiladimi?
+####  Oddiy namoyishlarda targ‘ibot tovar pozitsiyasiga ta’sir qiladimi?
 
 Buyurtmalarni ko‘paytirish targ’iboti faol bo‘lsa, u tovaringizga mavjud bo‘lgan barcha namoyishlarda ustuvorlik beradi. Bu joylarda tovar targ‘ib qilinayotgan hisoblanadi.
 
-### Yordam kerakmi?
+###  Yordam kerakmi?
 
 Agar biror narsa tushunarsiz bo‘lsa yoki savollar tug‘ilsa – Shaxsiy kabinetdagi yon menyudan **"Qo‘llab-quvvatlash chat"** tugmasini bosing.

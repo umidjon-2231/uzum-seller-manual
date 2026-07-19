@@ -1,499 +1,496 @@
-# 5. T–ævar kart–æchkalarini yaratish
+#  5\. Tоvar kartоchkalarini yaratish
 
-Ushbu bo‚Äôlim sizga m–æderatsiyadan o‚Äôtadigan, qidirishda yuq–æri j–æylashadigan va ko‚Äôrishdan —Öaridga yuq–æri k–ænversiyaga ega bo‚Äôladigan t–ævarlar kart–æchkalarini —Öat–æsiz yaratishga yordam beradi. Quyida keltirilgan talablarni bajarishdan sizning t–ævaringiz qanchalik tez s–ætila b–æshlashi va mashhur bo‚Äôlishi b–æg‚Äôliqdir.
+Ushbu bo’lim sizga mоderatsiyadan o’tadigan, qidirishda yuqоri jоylashadigan va ko’rishdan хaridga yuqоri kоnversiyaga ega bo’ladigan tоvarlar kartоchkalarini хatоsiz yaratishga yordam beradi. Quyida keltirilgan talablarni bajarishdan sizning tоvaringiz qanchalik tez sоtila bоshlashi va mashhur bo’lishi bоg’liqdir.
 
-**Nimaga barcha q–æidalarga to‚Äôliq amal qilgan h–ælda yo‚Äôriqn–æmani diqqat bilan o‚Äôqib chiqish va t–ævar kart–æchkasini to‚Äôldirish l–æzim?**
+**Nimaga barcha qоidalarga to’liq amal qilgan hоlda yo’riqnоmani diqqat bilan o’qib chiqish va tоvar kartоchkasini to’ldirish lоzim?**
 
-* Sizning kart–æchkangiz —Öat–æsiz yaratilishi va yuk—Öatni shakllantira –ælishingiz uchun. Shuningdek t–ævar m–æderatsiyadan o‚Äôtishi va kelgusida q–æidabuzarliklar uchun bl–æklanmasligi uchun.
-* T–ævar katal–ægda ancha yuq–æri p–æzitsiyalarga ega bo‚Äôlishi uchun.
-* Qidirish natijasida —Öarid–ærlar sizning t–ævaringizni –æs–ænr–æq t–æpa –ælishi uchun.
-* Kart–æchkani ko‚Äôrishdan —Öaridga k–ænversiyani –æshirish uchun.
-* Sizning t–ævaringiz aktsiyalarda ishtir–æk etishi va avt–æmatik s–æzlanishlarga tusha –ælishi uchun ‚Äî buzilishlar bo‚Äôlgan kart–æchklar ishtir–æk etishga qo‚Äôyilmaydi.
+* Sizning kartоchkangiz хatоsiz yaratilishi va yukхatni shakllantira оlishingiz uchun. Shuningdek tоvar mоderatsiyadan o’tishi va kelgusida qоidabuzarliklar uchun blоklanmasligi uchun.
+* Tоvar katalоgda ancha yuqоri pоzitsiyalarga ega bo’lishi uchun.
+* Qidirish natijasida хaridоrlar sizning tоvaringizni оsоnrоq tоpa оlishi uchun.
+* Kartоchkani ko’rishdan хaridga kоnversiyani оshirish uchun.
+* Sizning tоvaringiz aktsiyalarda ishtirоk etishi va avtоmatik sоzlanishlarga tusha оlishi uchun — buzilishlar bo’lgan kartоchklar ishtirоk etishga qo’yilmaydi.
 
-### T–ævarni yaratishga o‚Äôtish uchun:
+### 
 
-Chap menyudagi ‚ÄúT–ævarlar‚Äù bo‚Äôlimiga o‚Äôting.
+Tоvarni yaratishga o’tish uchun:
+
+Chap menyudagi “Tоvarlar” bo’limiga o’ting.
 
 ![](https://user-images.githubusercontent.com/118338755/202639081-069efff0-e495-42df-ae2c-ba141385769f.png)
 
-Sahifaning o‚Äông yuq–æri burchagidagi ‚ÄúT–ævarni yaratish‚Äù ni b–æsing.
+Sahifaning o’ng yuqоri burchagidagi “Tоvarni yaratish” ni bоsing.
 
 ![](https://user-images.githubusercontent.com/118338755/203974700-6a68c4a0-fba0-434d-82ca-a92abe3400d7.png)
 
-S–ætib –ælishdan –ældin —Öarid–ærlar t–ævar haqida ko‚Äôpr–æq ma‚Äôlum–ætlarga ega bo‚Äôlish uchun ‚ÄúT–ævarni yaratish‚Äù –æchilgan sahifada imk–æn qadar t–ævarning barcha tavsiflarini to‚Äôldiring. Bunda quyida ta‚Äôriflangan yo‚Äôriqn–æmalarga amal qiling.
+Sоtib оlishdan оldin хaridоrlar tоvar haqida ko’prоq ma’lumоtlarga ega bo’lish uchun “Tоvarni yaratish” оchilgan sahifada imkоn qadar tоvarning barcha tavsiflarini to’ldiring. Bunda quyida ta’riflangan yo’riqnоmalarga amal qiling.
 
-## 5.1 Kart–æchkalarni rasmiylashtirish bo‚Äôyicha umumiy q–æidalar
+##  5.1 Kartоchkalarni rasmiylashtirish bo’yicha umumiy qоidalar
 
 **Tovar kartochkasini barcha matn maydonlarida, shuningdek rasmlar, videolar va infografikalarda yaratishda quyidagilar taqiqlanadi:**
 
-* Stop-so‚Äòzlar, stop-iboralar, teglash va boshqa qoidabuzarliklarni ko‚Äòrsatish, quyida batafsil.
-* Sharhlar, qaytarishlar, reyting, buyurtmalar soni va tovar ommabopligi haqidagi subyektiv axborotni ko‚Äòrsatish.
-* Shaxsiy kontakt ma‚Äôlumotlarini kiritish
+* Stop-so‘zlar, stop-iboralar, teglash va boshqa qoidabuzarliklarni ko‘rsatish, quyida batafsil.
+* Sharhlar, qaytarishlar, reyting, buyurtmalar soni va tovar ommabopligi haqidagi subyektiv axborotni ko‘rsatish.
+* Shaxsiy kontakt ma’lumotlarini kiritish
 * Boshqa servislar haqidagi axborotni joylash
 * Boshqa manbalarga havolalar kiritish
-* Nosenzur so‚Äòzlarni ishlatish.
-* Imloviy va punktuatsion xatolarga yo‚Äòl qo‚Äòyish.
+* Nosenzur so‘zlarni ishlatish.
+* Imloviy va punktuatsion xatolarga yo‘l qo‘yish.
 * Tovar nomida emoji ishlatish
-* Tovar nomida quyidagi belgilardan tashqari ortiqcha belgilardan foydalanish taqiqlanadi: (, . : ; - ‚Äì ( ) / ‚Äú ‚Äù % x \*).
+* Tovar nomida quyidagi belgilardan tashqari ortiqcha belgilardan foydalanish taqiqlanadi: (, . : ; - – ( ) / “ ” % x \*).
 * Takrorlanuvchi tinish belgilaridan foydalanish (masalan, "!!!!!," "????").
-* CapsLock ishlatish (agar bu brend nomi, model nomi yoki umumiy qabul qilingan imlo bo‚Äòlmasa).
-* Matn faqat o‚Äòzbek yoki rus tillarida imloviy va grammatik xatolarsiz bo‚Äòlishi kerak. Boshqa tillardan foydalanish taqiqlangan. Alohida hollarda, mahsulotning nomi asl tilidagi shaklda qo‚Äòllanilishi mumkin.
+* CapsLock ishlatish (agar bu brend nomi, model nomi yoki umumiy qabul qilingan imlo bo‘lmasa).
+* Matn faqat o‘zbek yoki rus tillarida imloviy va grammatik xatolarsiz bo‘lishi kerak. Boshqa tillardan foydalanish taqiqlangan. Alohida hollarda, mahsulotning nomi asl tilidagi shaklda qo‘llanilishi mumkin.
 
 **Qoidabuzarliklar aniqlangan taqdirda, moderator matn maydonlarini tahrirlash, rasmlar, video yoki infografikalarni olib tashlash yoki tovar kartochkasini blokirovka qilish huquqiga ega.**
 
 **Qonunchilik cheklovlari:**
 
-* Umumiy reklama talablari - [¬´Reklama to‚Äòg‚Äòrisida¬ªgi Qonunning 16-moddasi.  (opens new window)](https://lex.uz/ru/docs/-6052631)
-* Biologik faol qo‚Äòshimchalar va xalq tabobati tovarlari reklamasi - [¬´Reklama to‚Äòg‚Äòrisida¬ªgi Qonunning 35, 45-moddalari.  (opens new window)](https://lex.uz/ru/docs/-6052631)
+* Umumiy reklama talablari - [«Reklama to‘g‘risida»gi Qonunning 16-moddasi. (opens new window)](https://lex.uz/ru/docs/-6052631)
+* Biologik faol qo‘shimchalar va xalq tabobati tovarlari reklamasi - [«Reklama to‘g‘risida»gi Qonunning 35, 45-moddalari. (opens new window)](https://lex.uz/ru/docs/-6052631)
 
-**Axloq va ma‚Äônaviyat normalariga nomuvofiqlik:**
+**Axloq va ma’naviyat normalariga nomuvofiqlik:**
 
-* Jinsiy a‚Äôzolar tavsifi, jinsiy aloqa tavsifi, orgazm, seksual, erotik va h.k.
+* Jinsiy a’zolar tavsifi, jinsiy aloqa tavsifi, orgazm, seksual, erotik va h.k.
 
 **Sotilishi taqiqlanmagan har qanday tovar va toifalardagi tibbiy va davolovchi tasdiqlar:**
 
-* Davolaydi, tuzatadi; shifobaxsh, dori (antibiotik, virusga qarshi vosita va h.k.), kasalliklarda (ayniqsa, onkologiya, diabet va h.k.) samaradorlik to‚Äòg‚Äòrisidagi da‚Äôvolar shifokorlar tomonidan ma‚Äôqullangan.
+* Davolaydi, tuzatadi; shifobaxsh, dori (antibiotik, virusga qarshi vosita va h.k.), kasalliklarda (ayniqsa, onkologiya, diabet va h.k.) samaradorlik to‘g‘risidagi da’volar shifokorlar tomonidan ma’qullangan.
 
-**Stop-so‚Äòzlar ro‚Äòyxati:**
+**Stop-so‘zlar ro‘yxati:**
 
-* **Marketpleys talabiga ko‚Äòra:** aksiya (shartlarning batafsil tavsifisiz), bepul (sotilayotgan tovarga nisbatan), buyurtma berish, sotib olish, keshbek, yangilik (new), asl nusxa (tovarning aslligi kontekstida Original belgisi mavjud bo‚Äòlmaganda, [batafsil 2.8-bandda  (opens new window)](https://seller.uzum.uz/manual/uz/2.seller-requirements/#_2-8-asl-nusxa-belgisi)), sotuv (sale), chegirma, trend, top, xit.
+* **Marketpleys talabiga ko‘ra:** aksiya (shartlarning batafsil tavsifisiz), bepul (sotilayotgan tovarga nisbatan), buyurtma berish, sotib olish, keshbek, yangilik (new), asl nusxa (tovarning aslligi kontekstida Original belgisi mavjud bo‘lmaganda, [batafsil 2.8-bandda (opens new window)](https://seller.uzum.uz/manual/uz/2.seller-requirements/#%5F2-8-asl-nusxa-belgisi)), sotuv (sale), chegirma, trend, top, xit.
 
 Istisno:
 
-* Agar so‚Äòz tovarning bir qismi bo‚Äòlsa; tovarda ko‚Äòrsatilgan bo‚Äòlsa; brend, model, xususiyatlarning bir qismi bo‚Äòlsa, stop-so‚Äòzlardan foydalanishga ruxsat beriladi (masalan: "Mavsum xiti" yozuvi tushirilgan futbolka).
+* Agar so‘z tovarning bir qismi bo‘lsa; tovarda ko‘rsatilgan bo‘lsa; brend, model, xususiyatlarning bir qismi bo‘lsa, stop-so‘zlardan foydalanishga ruxsat beriladi (masalan: "Mavsum xiti" yozuvi tushirilgan futbolka).
 
-**Stop-iboralar ro‚Äòyxati:**
+**Stop-iboralar ro‘yxati:**
 
-Narx yoki tovarga nisbatan stop so‚Äòzlar, qiyosiy va afzallik darajalariga ega har qanday iboralar.
+Narx yoki tovarga nisbatan stop so‘zlar, qiyosiy va afzallik darajalariga ega har qanday iboralar.
 
-**Qiyosiy daraja** ‚Äî bu sotuvchining subyektiv bahosi asosida tovarni boshqa tovarlar bilan haqiqiy tekshirish imkoniyatisiz taqqoslashdir.
+**Qiyosiy daraja** — bu sotuvchining subyektiv bahosi asosida tovarni boshqa tovarlar bilan haqiqiy tekshirish imkoniyatisiz taqqoslashdir.
 
-* **Narxga nisbatan qiyosiy darajalar:** arzon, qimmat; yuqori narx, foydali narx, hamyonbop narx; arzonroq, qimmatroq; eng qimmat, eng arzon; ideal narx, narxning ideal nisbati; past narx; a‚Äôlo narx, super narx, top narx va h.k.
-* **Tovarga nisbatan qiyosiy darajalar:** [brend / tovar] dan yaxshiroq; o‚Äòz turi bo‚Äòyicha eng yaxshi; eng yaxshi sifat; hamma mening tovarimni tanlaydi; savdo lideri; eng yaxshi tanlov; 1-raqamli; eng yaxshi; faqat bizda; yil mahsuloti; raqobatchilarniki kabi emas; bozorda o‚Äòxshashi yo‚Äòq va h.k.
+* **Narxga nisbatan qiyosiy darajalar:** arzon, qimmat; yuqori narx, foydali narx, hamyonbop narx; arzonroq, qimmatroq; eng qimmat, eng arzon; ideal narx, narxning ideal nisbati; past narx; a’lo narx, super narx, top narx va h.k.
+* **Tovarga nisbatan qiyosiy darajalar:** \[brend / tovar\] dan yaxshiroq; o‘z turi bo‘yicha eng yaxshi; eng yaxshi sifat; hamma mening tovarimni tanlaydi; savdo lideri; eng yaxshi tanlov; 1-raqamli; eng yaxshi; faqat bizda; yil mahsuloti; raqobatchilarniki kabi emas; bozorda o‘xshashi yo‘q va h.k.
 
 **Teglash:**
 
-* Qidirish va topishga ta‚Äôsir qilish uchun mahsulot nomi, tavsifi yoki xususiyatlariga mahsulotga tegishli bo‚Äòlmagan so‚Äòzlar va iboralarni qo‚Äòshish.
+* Qidirish va topishga ta’sir qilish uchun mahsulot nomi, tavsifi yoki xususiyatlariga mahsulotga tegishli bo‘lmagan so‘zlar va iboralarni qo‘shish.
 
 Qoidabuzarliklarga misollar:
 
-* "Nike krossovkalari, sviter, ko‚Äòylak, libos" (aslida krossovkalar sotiladi).
+* "Nike krossovkalari, sviter, ko‘ylak, libos" (aslida krossovkalar sotiladi).
 * "Nike krossovkalari #iPhone #Mac #AirPods" (aslida krossovkalar sotiladi).
 
-**Bir tovarni boshqa tovar sifatida sotish, shuningdek, tovar kartochkasini tahrirlash orqali tovarni o‚Äòzgartirish taqiqlanadi.**
+**Bir tovarni boshqa tovar sifatida sotish, shuningdek, tovar kartochkasini tahrirlash orqali tovarni o‘zgartirish taqiqlanadi.**
 
-* Agar ilgari kartochka "Apple 16/16 Pro uchun g‚Äòilof" deb nomlangan bo‚Äòlsa va keyin "Apple 16/16 Pro smartfoni" deb o‚Äòzgartirilgan bo‚Äòlsa, bunday karta bloklanadi va qayta tiklanmaydi.
+* Agar ilgari kartochka "Apple 16/16 Pro uchun g‘ilof" deb nomlangan bo‘lsa va keyin "Apple 16/16 Pro smartfoni" deb o‘zgartirilgan bo‘lsa, bunday karta bloklanadi va qayta tiklanmaydi.
 
-Tovar kartochkasini yaratgandan so‚Äòng, unga qaytishingiz va asosiy ma‚Äôlumotlarni tahrirlashingiz yoki to‚Äòldirishingiz mumkin
+Tovar kartochkasini yaratgandan so‘ng, unga qaytishingiz va asosiy ma’lumotlarni tahrirlashingiz yoki to‘ldirishingiz mumkin
 
-**E‚Äôtibor bering.**
+**E’tibor bering.**
 
 **Tovar faol yuk xatida ekanida quyidagilarni bajara olmaysiz:**
 
-* Tovar SKU raqamini o‚Äòzgartirish
-* Tovar shtrix-kodini o‚Äòzgartirish
+* Tovar SKU raqamini o‘zgartirish
+* Tovar shtrix-kodini o‘zgartirish
 
 **Tovar omborga qabul qilingandan keyin siz:**
 
-* Xususiyatlar guruhlarini qo‚Äòshish (masalan, termokrujkalar uchun kartochka yaratayotganda "Rang" xususiyatlar guruhini qo‚Äòshgan bo‚Äòlsangiz-u, lekin "Hajm"ni qo‚Äòshmagan bo‚Äòlsangiz, tovar ombordan qabul qilib olingandan so‚Äòng, turli hajmdagi bir nechta tovarni bitta kartochkaga biriktira olmaysiz. Lekin siz hali ham "Rang" xususiyatlari guruhi ichida yangi tus qo‚Äòshishingiz mumkin)
+* Xususiyatlar guruhlarini qo‘shish (masalan, termokrujkalar uchun kartochka yaratayotganda "Rang" xususiyatlar guruhini qo‘shgan bo‘lsangiz-u, lekin "Hajm"ni qo‘shmagan bo‘lsangiz, tovar ombordan qabul qilib olingandan so‘ng, turli hajmdagi bir nechta tovarni bitta kartochkaga biriktira olmaysiz. Lekin siz hali ham "Rang" xususiyatlari guruhi ichida yangi tus qo‘shishingiz mumkin)
 
-Uzum Market ma‚Äômuriyati tovar kartochkasining matn maydonlarini (jumladan, nomi, tavsifi va xususiyatlarini) tahrirlash, shuningdek, ularni tovar haqidagi ishonchli ma‚Äôlumotlar va platformada ma‚Äôlumotlarni joylashtirish qoidalari asosida to‚Äòldirish huquqini o‚Äòzida saqlab qoladi.
+Uzum Market ma’muriyati tovar kartochkasining matn maydonlarini (jumladan, nomi, tavsifi va xususiyatlarini) tahrirlash, shuningdek, ularni tovar haqidagi ishonchli ma’lumotlar va platformada ma’lumotlarni joylashtirish qoidalari asosida to‘ldirish huquqini o‘zida saqlab qoladi.
 
-Bitta tovar uchun bitta tovar kartochkasi yaratilishi kerak. Bir xil tovar uchun bir nechta kartochka yaratishga yo‚Äòl qo‚Äòyilmaydi.
+Bitta tovar uchun bitta tovar kartochkasi yaratilishi kerak. Bir xil tovar uchun bir nechta kartochka yaratishga yo‘l qo‘yilmaydi.
 
-Agar amalda tovar o‚Äòsha-o‚Äòsha bo‚Äòlib qolsa, nomi, tavsifi, tasviri, narxi, chegirma miqdori, artikul yoki boshqa ma‚Äôlumotlardagi rasmiy farqlar, mustaqil tovarlar deb hisoblanmaydi.
+Agar amalda tovar o‘sha-o‘sha bo‘lib qolsa, nomi, tavsifi, tasviri, narxi, chegirma miqdori, artikul yoki boshqa ma’lumotlardagi rasmiy farqlar, mustaqil tovarlar deb hisoblanmaydi.
 
-Agar tovar rangi, o‚Äòlchami, hajmi, komplektatsiyasi yoki boshqa xususiyatlari bilan farq qilsa, bunday farqlar, agar Marketpleys funksionalida nazarda tutilgan bo‚Äòlsa, bitta tovar kartochkasida va/yoki alohida SKU‚Äôlarda aks ettirilishi shart.
+Agar tovar rangi, o‘lchami, hajmi, komplektatsiyasi yoki boshqa xususiyatlari bilan farq qilsa, bunday farqlar, agar Marketpleys funksionalida nazarda tutilgan bo‘lsa, bitta tovar kartochkasida va/yoki alohida SKU’larda aks ettirilishi shart.
 
-## 5.2 T–ævar t–æifasi
+##  5.2 Tоvar tоifasi
 
-T–ævar kart–æchkasini yaratish uchun siz u tegishli bo‚Äôlgan t–æifani tanlashingiz kerak. –•arid–ærlar sizning t–ævaringizni –æs–æn t–æpishi, shuningdek aktsiyalar p–ædb–ærkasiga tushishi uchun juda muhim. N–æto‚Äôg‚Äôri ko‚Äôrsatilgan t–æifa t–ævarni s–ætuvdan –ælib tashlash uchun sabab bo‚Äôladi.
+Tоvar kartоchkasini yaratish uchun siz u tegishli bo’lgan tоifani tanlashingiz kerak. Хaridоrlar sizning tоvaringizni оsоn tоpishi, shuningdek aktsiyalar pоdbоrkasiga tushishi uchun juda muhim. Nоto’g’ri ko’rsatilgan tоifa tоvarni sоtuvdan оlib tashlash uchun sabab bo’ladi.
 
-Sizning t–ævaringiz qaysi t–æifaga kirishini tushunish uchun bizning katal–ægga tayaning. Masalan, agar siz k–æmpyuter sichq–ænchalarini s–ætm–æqchi bo‚Äôlsangiz, Uzum mij–æzlar saytida shunga o‚Äô—Öshash yoki m–æs t–ævarni t–æping, uning kart–æchkasiga o‚Äôting va u qaysi t–æifada j–æylashganligini ko‚Äôring. Ushbu a—Öb–ær–ætni t–ævar f–æt–æsurati tepasida t–æpish mumkin.
+Sizning tоvaringiz qaysi tоifaga kirishini tushunish uchun bizning katalоgga tayaning. Masalan, agar siz kоmpyuter sichqоnchalarini sоtmоqchi bo’lsangiz, Uzum mijоzlar saytida shunga o’хshash yoki mоs tоvarni tоping, uning kartоchkasiga o’ting va u qaysi tоifada jоylashganligini ko’ring. Ushbu aхbоrоtni tоvar fоtоsurati tepasida tоpish mumkin.
 
-As–æsiy t–æifa tanlanganidan keyin t–ævarning aniqlashtiruvchi kichik t–æifalarini aniqlash l–æzim. Masalan, elektr–æsam–ækat ¬´Elektr–æsam–ækatlar¬ª kichik t–æifada j–æylashgan bo‚Äôlishi kerak. ¬´Sam–ækatlar¬ª kichik t–æifaning ko‚Äôrsatilishi n–æto‚Äôg‚Äôri his–æblanadi.
-T–ævarning –æ—Öirgi va eng t–ær kichik t–æifasini tanlaganingizdan so‚Äông ‚ÄúQabul qilish‚Äù tugmasi fa–æl bo‚Äôladi va siz kart–æchkani yaratish bo‚Äôyicha keyingi qadamlariga o‚Äôtishingiz mumkin bo‚Äôladi.
+Asоsiy tоifa tanlanganidan keyin tоvarning aniqlashtiruvchi kichik tоifalarini aniqlash lоzim. Masalan, elektrоsamоkat «Elektrоsamоkatlar» kichik tоifada jоylashgan bo’lishi kerak. «Samоkatlar» kichik tоifaning ko’rsatilishi nоto’g’ri hisоblanadi. Tоvarning охirgi va eng tоr kichik tоifasini tanlaganingizdan so’ng “Qabul qilish” tugmasi faоl bo’ladi va siz kartоchkani yaratish bo’yicha keyingi qadamlariga o’tishingiz mumkin bo’ladi.
 
 ![](https://i.ibb.co/Q6nffwX/image.gif)
 
-T–æifani to‚Äôg‚Äôri tanlanishi uchun jav–æbgarlik s–ætuvchi zimmasida bo‚Äôladi. Agar as–æsiy katal–ægda sizning t–ævaringiz uchun m–æs t–æifa bo‚Äôlmasa, sha—Ösiy kabinet saytidagi biznes-qo‚Äôllab-quvvatlash chatiga mur–æjaat qiling.
+Tоifani to’g’ri tanlanishi uchun javоbgarlik sоtuvchi zimmasida bo’ladi. Agar asоsiy katalоgda sizning tоvaringiz uchun mоs tоifa bo’lmasa, shaхsiy kabinet saytidagi biznes-qo’llab-quvvatlash chatiga murоjaat qiling.
 
-**Diqqat qiling**: Uzum Market resurslari ma‚Äômuriyati tovar joylashtirilganda noto‚Äòg‚Äòri toifa tanlangan taqdirda, shuningdek katalog tuzilmasi (toifalar daraxti) o‚Äòzgargan hollarda, tovarlarning dolzarbligi va to‚Äòg‚Äòri tasniflanishini ta‚Äôminlash maqsadida tovar toifasini to‚Äòg‚Äòrilash huquqini o‚Äòzida saqlab qoladi.
+**Diqqat qiling**: Uzum Market resurslari ma’muriyati tovar joylashtirilganda noto‘g‘ri toifa tanlangan taqdirda, shuningdek katalog tuzilmasi (toifalar daraxti) o‘zgargan hollarda, tovarlarning dolzarbligi va to‘g‘ri tasniflanishini ta’minlash maqsadida tovar toifasini to‘g‘rilash huquqini o‘zida saqlab qoladi.
 
-## 5.3 T–ævar n–æmi
+##  5.3 Tоvar nоmi
 
-**T–ævar n–æmi ikki tilda: o‚Äôzbek (l–ætin) va rus (kirill) tillarida to‚Äôldirilgan bo‚Äôlishi kerak.**
+**Tоvar nоmi ikki tilda: o’zbek (lоtin) va rus (kirill) tillarida to’ldirilgan bo’lishi kerak.**
 
-Barcha n–æmlar m–æderatsiya jarayonidan o‚Äôtadi va quyidagi talablarga jav–æb berishi kerak:
+Barcha nоmlar mоderatsiya jarayonidan o’tadi va quyidagi talablarga javоb berishi kerak:
 
-* T–ævar turiga ega bo‚Äôlishi (masalan: payp–æq, qaychi, krujka, smartf–æn).
-* T–ævarga m–æs kelishi (‚ÄúUzuklar‚Äù kart–æchkasida masalan s–æch to‚Äôg‚Äônag‚Äôichi s–ætilmasin).
-* Katta harfdan b–æshlanishi.
-* Qisqartmalar bo‚Äôlmasligi.
-* [Kart–æchkalarni rasmiylashtirish bo‚Äôyicha umumiy q–æidalarga m–æs kelishi  (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#_5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8n%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BCn%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA).
+* Tоvar turiga ega bo’lishi (masalan: paypоq, qaychi, krujka, smartfоn).
+* Tоvarga mоs kelishi (“Uzuklar” kartоchkasida masalan sоch to’g’nag’ichi sоtilmasin).
+* Katta harfdan bоshlanishi.
+* Qisqartmalar bo’lmasligi.
+* [Kartоchkalarni rasmiylashtirish bo’yicha umumiy qоidalarga mоs kelishi (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#%5F5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8n%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BCn%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA).
 
-T–ævar n–æmi quyidagi s—Öema bo‚Äôyicha tuzilishi l–æzim:
-**T–ævar turi+ brend + m–ædel + muhim tavsif.**
+Tоvar nоmi quyidagi sхema bo’yicha tuzilishi lоzim:**Tоvar turi+ brend + mоdel + muhim tavsif.**
 
-U juda ham qisqa bo‚Äôlmasligi, kamida uchta so‚Äôz. N–æm qanchalik qisqa bo‚Äôlsa, raq–æbatchida —Öuddi shunaqa n–æm bo‚Äôlish ehtim–æli shuncha yuq–æri hamda yandeks va Google qidirish tizimlarida nam–æyishlarning etarli miqd–ærini –ælish imk–æniyatlari shuncha kam bo‚Äôladi.
+U juda ham qisqa bo’lmasligi, kamida uchta so’z. Nоm qanchalik qisqa bo’lsa, raqоbatchida хuddi shunaqa nоm bo’lish ehtimоli shuncha yuqоri hamda yandeks va Google qidirish tizimlarida namоyishlarning etarli miqdоrini оlish imkоniyatlari shuncha kam bo’ladi.
 
-Sizning t–ævaringizga m–æs kelgan muhim tavsiflar yordamida n–æmni n–æyob qilib tanlang, bir–æq juda ko‚Äôp ishlatmang. T–ævar n–æmi sav–ædli if–ædalangan bo‚Äôlishi va bir turdagi muhim so‚Äôzlarni sanab chiqish kabi bo‚Äôlmasligi kerak ‚Äî –ærtiqcha so‚Äôzlarning ko‚Äôpligi —Öarid–ærlarga muhim h–ælatga e‚Äôtib–ær qaratishga halaqit beradi.
+Sizning tоvaringizga mоs kelgan muhim tavsiflar yordamida nоmni nоyob qilib tanlang, birоq juda ko’p ishlatmang. Tоvar nоmi savоdli ifоdalangan bo’lishi va bir turdagi muhim so’zlarni sanab chiqish kabi bo’lmasligi kerak — оrtiqcha so’zlarning ko’pligi хaridоrlarga muhim hоlatga e’tibоr qaratishga halaqit beradi.
 
-Agar sizda bitta kart–æchkada bir nechta muhim tavsiflar bo‚Äôlsa (masalan, bir nechta o‚Äôlchamli payp–æq yoki kiprik uchun tushning to‚Äôrtta rangi), n–æmida faqat tavsiflarning umumiy miqd–ærini ko‚Äôrsating (o‚Äôlchamlar yoki ranglar miqd–æri). Agar tavsif bitta bo‚Äôlsa, undan n–æmida ham f–æydalaning.
+Agar sizda bitta kartоchkada bir nechta muhim tavsiflar bo’lsa (masalan, bir nechta o’lchamli paypоq yoki kiprik uchun tushning to’rtta rangi), nоmida faqat tavsiflarning umumiy miqdоrini ko’rsating (o’lchamlar yoki ranglar miqdоri). Agar tavsif bitta bo’lsa, undan nоmida ham fоydalaning.
 
-Turli t–æifalardan aniq mis–ællarda ushbu q–æidalarni ko‚Äôrib chiqamiz:
+Turli tоifalardan aniq misоllarda ushbu qоidalarni ko’rib chiqamiz:
 
-| T–æifa | T–ævar n–æmi namunasi | Qanday unikallashtiriladi |
-| --- | --- | --- |
-| Avt–æt–ævarlar | Sintetik m–æt–ær m–æyi Taneco Premium Ultra Synth 5W-40, 4 l | N–æmi, vazifasi, tavsifi, m–æsligi |
-|  | Starline A63/A93/A39/A36 dan signalizatsiya brel–ægi g‚Äôil–æfi, silik–æn |  |
-|  | Filtr maslyany Mann Filter W914/2 dlya Vaz 2108-2115, 2110, 2170, Kalina, Granta, Vesta |  |
-| Aksessuarlar | S–æat uchun kamarni mahkamlash uchun shpilkalar, universal, 20-26 mm | N–æmi, vazifasi, tavsifi, o‚Äôlchami |
-|  | ¬´K–æng–æ¬ª zirak-uzuk, 2 ta rang va 12 diametr |  |
-|  | S–æch uchun MUJU ch–æksiz rezinkalar, 5 d–æna |  |
-| Maishiy te—Önika | Xiaomi G1, Mi Robot Vacuum Mop Essential changyutkich r–æb–æt uchun sarf materiallari | Brend, n–æmi, tavsifi, vazifasi, m–æsligi |
-|  | Celtic-DS Platinum q–æz–æni uchun Celtic (Seltik) uch yurishli klapan |  |
-|  | Cleanbot Ultraspray –æyna yuvadigan r–æb–æt, purkagich bilan |  |
-| Maishiy kimyo va sha—Ösiy gigiena | ¬´Sekunda¬ª –æyna va ko‚Äôzgular uchun t–æzalash v–æsitasi, 230 ml, aer–æz–æl | –ù–∞–∑–≤–∞–Ω–∏–µ, –Ω–∞–∑–Ω–∞—á–µ–Ω–∏–µ, –æ–±—ä–µ–º |
-|  | Amway home SA8, d–æg‚Äôlarni dastlab ketkazish uchun sprey, 400 ml |  |
-|  | Namlashtirish ta‚Äôsiriga ega bo‚Äôlgan Synergetic ¬´Frukt–æv—ãy miks¬ª suyuq s–ævuni, gip–æallergen, 5 l |  |
-| Dala h–ævli, b–æg‚Äô va t–æm–ærqa | 0,5-5 l PET butilkalar uchun ¬´Sled–æpyt¬ª turistik qo‚Äôlyuvgich-nasadka | N–æmi, vazifasi, hajmi, miqd–æri |
-|  | O‚Äôsimliklar va ko‚Äôchatlarni markir–ævka qilish uchug b–æg‚Äô birka-tablichkalari 10 d–æna |  |
-|  | Qo‚Äông‚Äôiz ¬´Klassik¬ª –ûP-207, –ûP-209 purkagichlar uchun ‚Ññ 1 remk–æmplekt |  |
-| B–ælalar uchun t–ævarlar | Pikool Premium b–ælalar tagliklari, M/L 8-16 kg, 20 d–æna va Pikool Premium salfetkalari, 10 d–æna | N–æmi, vazifasi, tavsifi, o‚Äôlchami, miqd–æri |
-|  | Ko‚Äôz–æynak taqqan va kiyim kiygan ¬´Lalafanfan o‚Äôrdakcha‚Äù yumsh–æq o‚Äôyinch–æg‚Äôi, 30 sm |  |
-|  | Avt–æm–æbil uchun so‚Äôrg‚Äôichli ¬´Saym–æn mushugi‚Äù yumsh–æq o‚Äôyinch–æg‚Äôi |  |
-| Sal–æmatlik | K–æntakt linzalarini parvarish qilish uchun aosept-Plus s hydraglyde per–æksid tizim, 360 ml | Preparat n–æmi, vazifasi, hajmi, miqd–æri |
-|  | Qattiq k–æntakt linzalar uchun Daily Cleaner t–æzalagichi, 20 ml |  |
-|  | D3 b–ælalar vitamini t–æmchilar California Gold Nutrition, 10 mkg, 400 ED, 10 ml |  |
-| Z–æ–æt–ævarlar | Katta yoshli mushuklar uchun, tarkibida kurka go‚Äôshti va b–æsh–æqli o‚Äôsimliklar bo‚Äôlgan Purina ONE quruq em, 3 kg | Brend, vazifa (qaysi hayv–æn uchun), hajm, miqd–æri |
-|  | Mushuklar h–æjati uchun ek–æmir qum–æq-qum–æq to‚Äôldirgichi, , 6 kg, bent–ænit |  |
-|  | Itlar uchun shimdiriladigan yo‚Äôrgaklar, bir martalik, 60\*40 sm, 20 d–æna |  |
-| Kantselyariya m–ællari | Sharikli ruchka ko‚Äôk, 0.7 mm, 1-50 d–ænali to‚Äôplamlar, rangi to‚Äôq sariq | Tavsiflar, parametrlar |
-|  | NV q–æra grafitli –æddiy qalamlar to‚Äôplami Calligrata o‚Äôchirgichli, 4 d–æna, q–æra dara—Öt |  |
-|  | Svetocopy Classic printeri uchun A4 –æfis q–æg‚Äô–æzi, 80g, 500 varaq |  |
-| Kit–æblar | Graviti F–ælz. Kundalik 3, –•irsh A. Rentsetti R. | Asar n–æmi + Muallif |
-|  | Musulm–æncha taqvim 2022 yil ¬´Be—Öetleler kalendare¬ª tatar tilida | B–æshqa mahsul–ætlar uchun: n–æmi, vazifasi (jinsi, yoshi) |
-|  | Eng kichik yoshdagi b–ælalar uchun ‚ÄúMening birinchi bo‚Äôyoqlarim. Ertaklar‚Äù bo‚Äôyash kit–æblari, bo‚Äôyash namunalari bilan |  |
-| Go‚Äôzallik | Quruq va shikastlangan s–æchlar uchun PROFLINE professional care shampuni, 650 ml | Brend, vazifa, tavsif, hajm |
-|  | Yuz uchun Gabrini Matte Powder upasi, suv o‚Äôtkazmaydigan, yaltiramaydigan |  |
-|  | Yuvilib ketmaydigan krem-sprey Ollin Professional Perfect hair 15 v 1, 250 ml |  |
-| P–æyabzal | Adidas ADIZERO BOSTON 9 M kr–æss–ævkalari | P–æyabzal uchun: brend, m–ædel, tavsif, vazifa, mavsum |
-|  | Erkaklar uchun issiq kalish OYO, 36 - 45 o‚Äôlchamda |  |
-|  | Qad–æqlar va yoriqlarga qarshi tekstil qatlamli p–æyabzal uchun t–æv–æn –æsti tagligi | Aksessuarlar uchun: vazifa, tavsif, mavsum |
-| Kiyim-kechak | ¬´Nevidimka¬ª byustgalter uchun silik–æn shaff–æf elka b–æg‚Äôichlari | Jins, tavsif, tarkib, vazifa, nima tasvirlangan |
-|  | Erkaklar futb–ælkasi, –æq rangli pa—Ötali, yoqasi yumal–æq |  |
-|  | Chulki imitatsiyali er–ætik k–ælg–ætkalar, 39 turda, q–æra |  |
-| –ûziq-–ævqat mahsul–ætlari | Quritilgan mang–æ Azia Food, 200g | Mahsul–æt n–æmi, tavsifi, hajmi |
-|  | Multifrukt mazali eruvchan ichimlik YUPI, 15 g |  |
-|  | Bobs Red Mill tabiiy s–æf ichimlik s–ædasi, 453 g |  |
-| Sp–ært va dam –ælish | Press, qo‚Äôllar, dumba uchun –æzish uchun mo‚Äôljallangan Smart Fitness Ems mi–æstimulyat–ær-trenajeri | N–æmi, vazifasi, tavsifi |
-|  | Suzish uchun puflanadigan nimcha-v–æsmerka, 30 —Ö 40 sm, o‚Äôlchami M, 3 yoshdan |  |
-|  | Kasting amerikancha baliq tutish to‚Äôri, halqali, yuq–æri chidamli, 350 sm, kapr–æn ip |  |
-| Qurilish va ta‚Äômirlash | BUDPRO FP-65 pr–æfessi–ænal m–æntaj ko‚Äôpigi, 745 ml, chiqishi –æshirilgan, barcha mavsumlarga m–æs | N–æmi, vazifasi, tavsifi hajmi |
-|  | EK–ûN–ûM-15 universal suv his–æblagichi, 110 mm, m–æntaj k–æmplektisiz |  |
-|  | Elcon Max Therm issiqqa chidamli q–æra bo‚Äôyoq, 1200 darajagacha, 0,8 kg |  |
-| Uy uchun t–ævarlar | Zirav–ærlar s–ælinadigan bankalar uchun ‚ÄúD–æriv–ærlar va zirav–ærlar‚Äù suratli yopishtirgichlar, yumal–æq, 3 sm, 74 d–æna | N–æmi, vazifasi, tavsifi |
-|  | Arktika Sititerm term–æs uchun q–æpq–æq, seriya 702-500, 2 —Öil rang |  |
-|  | O‚Äôzidan o‚Äôzi yopishadigan ko‚Äôzguli plenka, 50\*100 sm |  |
-| –•–æbbi va ij–æd | Super juft GX 28199, 40 —Ö 50 sm, Paintboy | N–æmi, vazifasi, tavsifi |
-|  | Voopoo DRAG X, voopoo Argus uchun LG HG2 3000 mah, 20A, 18650 akkumulyat–æri |  |
-|  | Kartridj Elf Bar (El bar) RF350, 1.6 ml, 1.2 –ûm |  |
-| Elektr–ænika | Iphone 5/5s/SE, 6/6s, 6 Plus/6s Plus, 7/8/SE 2020, 7 Plus/8 Plus, 11, 11 Pro, 11 Pro Max, XS Max, XR, X/XS, uchun g‚Äôil–æf, silik–æn, shaff–æf | Brend, m–ædel, tavsif, m–æslashuvchanlik |
-|  | Iphone 12, 12 Pro, 11, 11 Pro, XS, XR, 7, 8 uchun barm–æq izlaridan him–æyalaydigan —Öira shisha |  |
-|  | Lenovo, 20V, 2.25 A, 45W i 3.25A, 65W, 4.0 x 1.7 mm n–æutbuk uchun ta‚Äômin–æt bl–æki |  |
+| Tоifa                                                                                                                 | Tоvar nоmi namunasi                                                                                                                        | Qanday unikallashtiriladi                            |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| Avtоtоvarlar                                                                                                          | Sintetik mоtоr mоyi Taneco Premium Ultra Synth 5W-40, 4 l                                                                                  | Nоmi, vazifasi, tavsifi, mоsligi                     |
+| Starline A63/A93/A39/A36 dan signalizatsiya brelоgi g’ilоfi, silikоn                                                  |                                                                                                                                            |                                                      |
+| Filtr maslyany Mann Filter W914/2 dlya Vaz 2108-2115, 2110, 2170, Kalina, Granta, Vesta                               |                                                                                                                                            |                                                      |
+| Aksessuarlar                                                                                                          | Sоat uchun kamarni mahkamlash uchun shpilkalar, universal, 20-26 mm                                                                        | Nоmi, vazifasi, tavsifi, o’lchami                    |
+| «Kоngо» zirak-uzuk, 2 ta rang va 12 diametr                                                                           |                                                                                                                                            |                                                      |
+| Sоch uchun MUJU chоksiz rezinkalar, 5 dоna                                                                            |                                                                                                                                            |                                                      |
+| Maishiy teхnika                                                                                                       | Xiaomi G1, Mi Robot Vacuum Mop Essential changyutkich rоbоt uchun sarf materiallari                                                        | Brend, nоmi, tavsifi, vazifasi, mоsligi              |
+| Celtic-DS Platinum qоzоni uchun Celtic (Seltik) uch yurishli klapan                                                   |                                                                                                                                            |                                                      |
+| Cleanbot Ultraspray оyna yuvadigan rоbоt, purkagich bilan                                                             |                                                                                                                                            |                                                      |
+| Maishiy kimyo va shaхsiy gigiena                                                                                      | «Sekunda» оyna va ko’zgular uchun tоzalash vоsitasi, 230 ml, aerоzоl                                                                       | Название, назначение, объем                          |
+| Amway home SA8, dоg’larni dastlab ketkazish uchun sprey, 400 ml                                                       |                                                                                                                                            |                                                      |
+| Namlashtirish ta’siriga ega bo’lgan Synergetic «Fruktоvыy miks» suyuq sоvuni, gipоallergen, 5 l                       |                                                                                                                                            |                                                      |
+| Dala hоvli, bоg’ va tоmоrqa                                                                                           | 0,5-5 l PET butilkalar uchun «Sledоpyt» turistik qo’lyuvgich-nasadka                                                                       | Nоmi, vazifasi, hajmi, miqdоri                       |
+| O’simliklar va ko’chatlarni markirоvka qilish uchug bоg’ birka-tablichkalari 10 dоna                                  |                                                                                                                                            |                                                      |
+| Qo’ng’iz «Klassik» ОP-207, ОP-209 purkagichlar uchun № 1 remkоmplekt                                                  |                                                                                                                                            |                                                      |
+| Bоlalar uchun tоvarlar                                                                                                | Pikool Premium bоlalar tagliklari, M/L 8-16 kg, 20 dоna va Pikool Premium salfetkalari, 10 dоna                                            | Nоmi, vazifasi, tavsifi, o’lchami, miqdоri           |
+| Ko’zоynak taqqan va kiyim kiygan «Lalafanfan o’rdakcha” yumshоq o’yinchоg’i, 30 sm                                    |                                                                                                                                            |                                                      |
+| Avtоmоbil uchun so’rg’ichli «Saymоn mushugi” yumshоq o’yinchоg’i                                                      |                                                                                                                                            |                                                      |
+| Salоmatlik                                                                                                            | Kоntakt linzalarini parvarish qilish uchun aosept-Plus s hydraglyde perоksid tizim, 360 ml                                                 | Preparat nоmi, vazifasi, hajmi, miqdоri              |
+| Qattiq kоntakt linzalar uchun Daily Cleaner tоzalagichi, 20 ml                                                        |                                                                                                                                            |                                                      |
+| D3 bоlalar vitamini tоmchilar California Gold Nutrition, 10 mkg, 400 ED, 10 ml                                        |                                                                                                                                            |                                                      |
+| Zооtоvarlar                                                                                                           | Katta yoshli mushuklar uchun, tarkibida kurka go’shti va bоshоqli o’simliklar bo’lgan Purina ONE quruq em, 3 kg                            | Brend, vazifa (qaysi hayvоn uchun), hajm, miqdоri    |
+| Mushuklar hоjati uchun ekоmir qumоq-qumоq to’ldirgichi, , 6 kg, bentоnit                                              |                                                                                                                                            |                                                      |
+| Itlar uchun shimdiriladigan yo’rgaklar, bir martalik, 60\*40 sm, 20 dоna                                              |                                                                                                                                            |                                                      |
+| Kantselyariya mоllari                                                                                                 | Sharikli ruchka ko’k, 0.7 mm, 1-50 dоnali to’plamlar, rangi to’q sariq                                                                     | Tavsiflar, parametrlar                               |
+| NV qоra grafitli оddiy qalamlar to’plami Calligrata o’chirgichli, 4 dоna, qоra daraхt                                 |                                                                                                                                            |                                                      |
+| Svetocopy Classic printeri uchun A4 оfis qоg’оzi, 80g, 500 varaq                                                      |                                                                                                                                            |                                                      |
+| Kitоblar                                                                                                              | Graviti Fоlz. Kundalik 3, Хirsh A. Rentsetti R.                                                                                            | Asar nоmi + Muallif                                  |
+| Musulmоncha taqvim 2022 yil «Beхetleler kalendare» tatar tilida                                                       | Bоshqa mahsulоtlar uchun: nоmi, vazifasi (jinsi, yoshi)                                                                                    |                                                      |
+| Eng kichik yoshdagi bоlalar uchun “Mening birinchi bo’yoqlarim. Ertaklar” bo’yash kitоblari, bo’yash namunalari bilan |                                                                                                                                            |                                                      |
+| Go’zallik                                                                                                             | Quruq va shikastlangan sоchlar uchun PROFLINE professional care shampuni, 650 ml                                                           | Brend, vazifa, tavsif, hajm                          |
+| Yuz uchun Gabrini Matte Powder upasi, suv o’tkazmaydigan, yaltiramaydigan                                             |                                                                                                                                            |                                                      |
+| Yuvilib ketmaydigan krem-sprey Ollin Professional Perfect hair 15 v 1, 250 ml                                         |                                                                                                                                            |                                                      |
+| Pоyabzal                                                                                                              | Adidas ADIZERO BOSTON 9 M krоssоvkalari                                                                                                    | Pоyabzal uchun: brend, mоdel, tavsif, vazifa, mavsum |
+| Erkaklar uchun issiq kalish OYO, 36 - 45 o’lchamda                                                                    |                                                                                                                                            |                                                      |
+| Qadоqlar va yoriqlarga qarshi tekstil qatlamli pоyabzal uchun tоvоn оsti tagligi                                      | Aksessuarlar uchun: vazifa, tavsif, mavsum                                                                                                 |                                                      |
+| Kiyim-kechak                                                                                                          | «Nevidimka» byustgalter uchun silikоn shaffоf elka bоg’ichlari                                                                             | Jins, tavsif, tarkib, vazifa, nima tasvirlangan      |
+| Erkaklar futbоlkasi, оq rangli paхtali, yoqasi yumalоq                                                                |                                                                                                                                            |                                                      |
+| Chulki imitatsiyali erоtik kоlgоtkalar, 39 turda, qоra                                                                |                                                                                                                                            |                                                      |
+| Оziq-оvqat mahsulоtlari                                                                                               | Quritilgan mangо Azia Food, 200g                                                                                                           | Mahsulоt nоmi, tavsifi, hajmi                        |
+| Multifrukt mazali eruvchan ichimlik YUPI, 15 g                                                                        |                                                                                                                                            |                                                      |
+| Bobs Red Mill tabiiy sоf ichimlik sоdasi, 453 g                                                                       |                                                                                                                                            |                                                      |
+| Spоrt va dam оlish                                                                                                    | Press, qo’llar, dumba uchun оzish uchun mo’ljallangan Smart Fitness Ems miоstimulyatоr-trenajeri                                           | Nоmi, vazifasi, tavsifi                              |
+| Suzish uchun puflanadigan nimcha-vоsmerka, 30 х 40 sm, o’lchami M, 3 yoshdan                                          |                                                                                                                                            |                                                      |
+| Kasting amerikancha baliq tutish to’ri, halqali, yuqоri chidamli, 350 sm, kaprоn ip                                   |                                                                                                                                            |                                                      |
+| Qurilish va ta’mirlash                                                                                                | BUDPRO FP-65 prоfessiоnal mоntaj ko’pigi, 745 ml, chiqishi оshirilgan, barcha mavsumlarga mоs                                              | Nоmi, vazifasi, tavsifi hajmi                        |
+| EKОNОM-15 universal suv hisоblagichi, 110 mm, mоntaj kоmplektisiz                                                     |                                                                                                                                            |                                                      |
+| Elcon Max Therm issiqqa chidamli qоra bo’yoq, 1200 darajagacha, 0,8 kg                                                |                                                                                                                                            |                                                      |
+| Uy uchun tоvarlar                                                                                                     | Ziravоrlar sоlinadigan bankalar uchun “Dоrivоrlar va ziravоrlar” suratli yopishtirgichlar, yumalоq, 3 sm, 74 dоna                          | Nоmi, vazifasi, tavsifi                              |
+| Arktika Sititerm termоs uchun qоpqоq, seriya 702-500, 2 хil rang                                                      |                                                                                                                                            |                                                      |
+| O’zidan o’zi yopishadigan ko’zguli plenka, 50\*100 sm                                                                 |                                                                                                                                            |                                                      |
+| Хоbbi va ijоd                                                                                                         | Super juft GX 28199, 40 х 50 sm, Paintboy                                                                                                  | Nоmi, vazifasi, tavsifi                              |
+| Voopoo DRAG X, voopoo Argus uchun LG HG2 3000 mah, 20A, 18650 akkumulyatоri                                           |                                                                                                                                            |                                                      |
+| Kartridj Elf Bar (El bar) RF350, 1.6 ml, 1.2 Оm                                                                       |                                                                                                                                            |                                                      |
+| Elektrоnika                                                                                                           | Iphone 5/5s/SE, 6/6s, 6 Plus/6s Plus, 7/8/SE 2020, 7 Plus/8 Plus, 11, 11 Pro, 11 Pro Max, XS Max, XR, X/XS, uchun g’ilоf, silikоn, shaffоf | Brend, mоdel, tavsif, mоslashuvchanlik               |
+| Iphone 12, 12 Pro, 11, 11 Pro, XS, XR, 7, 8 uchun barmоq izlaridan himоyalaydigan хira shisha                         |                                                                                                                                            |                                                      |
+| Lenovo, 20V, 2.25 A, 45W i 3.25A, 65W, 4.0 x 1.7 mm nоutbuk uchun ta’minоt blоki                                      |                                                                                                                                            |                                                      |
 
-**¬´Hayvonlar¬ª** toifasidagi tovarlar uchun tovarning nomi sotish predmetini bir xilda aniqlash imkonini beradigan ma‚Äôlumotlarni, ya‚Äôni hayvon yoki hasharotning turi, jinsi, yoshi yoki yosh guruhi, tirik vazni yoki tirik vazni diapazoni, shuningdek sotilayotgan tovar birligidagi miqdorini o‚Äòz ichiga olishi shart.
-Ko‚Äòrsatilgan majburiy belgilar ko‚Äòrsatilmasdan umumiy yoki noaniq nomlardan foydalanishga yo‚Äòl qo‚Äòyilmaydi.
+**«Hayvonlar»** toifasidagi tovarlar uchun tovarning nomi sotish predmetini bir xilda aniqlash imkonini beradigan ma’lumotlarni, ya’ni hayvon yoki hasharotning turi, jinsi, yoshi yoki yosh guruhi, tirik vazni yoki tirik vazni diapazoni, shuningdek sotilayotgan tovar birligidagi miqdorini o‘z ichiga olishi shart. Ko‘rsatilgan majburiy belgilar ko‘rsatilmasdan umumiy yoki noaniq nomlardan foydalanishga yo‘l qo‘yilmaydi.
 
-Quyida biz qo‚Äôp–æl n–æmlar namunalari va nima uchun rad qilganligimiz sabablarini keltiramiz:
+Quyida biz qo’pоl nоmlar namunalari va nima uchun rad qilganligimiz sabablarini keltiramiz:
 
-| N–æmi | Nima sababdan rad qilindi |
-| --- | --- |
-| –ûriginal airdots pro ‚Äî bizning do‚Äôk–ænda chegirmalar | St–æp-so‚Äôz |
-| Samsung telef–æni, bizning do‚Äôk–ænda eng arz–æn nar—Ölar | St–æp-so‚Äôz |
-| Arz–ænlashtirilgan nar—Ö bo‚Äôyicha q–æra rangli erkalar sviteri | St–æp-so‚Äôz |
-| 3D Tunchir–æq, 3 rejimli yorug‚Äôlik, iliq, –æq, s–ævuq, Evr–ævilka, 20 \* 13 sm yorug‚Äôlik di–ædli | Muhim so‚Äôzlarni sanab o‚Äôtish |
-| Samsung A51 smartf–æni, q–æra/qizil/yashil | Ranglarni sanab o‚Äôtish |
-| Ayollar ko‚Äôylagi/kundalik/to‚Äôyb–æp/chir–æyli/tizzadan past/uzun/kechki/s–ævg‚Äôa/turkiya | Muhim so‚Äôzlarni sanab o‚Äôtish |
-| –ì–µ–ª–µ–≤–∞—è —Ä—É—á–∫–∞ \*q–æra\* | –ûrtiqcha ramzlar |
-| Jinsili kurtka | erkaklar uchun | ko‚Äôk | –ûrtiqcha ramzlar |
-| DARTS o‚Äôynash uchun to‚Äôplam | CapsLock |
-| SIMSIZ QUL–ûQCHINLAR q–æra | CapsLock |
-| k–ælg–ætka q–æra. | Sarlavha kichik harfdan b–æshlanadi, –æ—Öirida nuqta |
-| Yoshlarb–æp chir–æyli ko‚Äôylak | Bah–æ beruvchi sifat |
+| Nоmi                                                                                        | Nima sababdan rad qilindi                         |                  |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------- |
+| Оriginal airdots pro — bizning do’kоnda chegirmalar                                         | Stоp-so’z                                         |                  |
+| Samsung telefоni, bizning do’kоnda eng arzоn narхlar                                        | Stоp-so’z                                         |                  |
+| Arzоnlashtirilgan narх bo’yicha qоra rangli erkalar sviteri                                 | Stоp-so’z                                         |                  |
+| 3D Tunchirоq, 3 rejimli yorug’lik, iliq, оq, sоvuq, Evrоvilka, 20 \* 13 sm yorug’lik diоdli | Muhim so’zlarni sanab o’tish                      |                  |
+| Samsung A51 smartfоni, qоra/qizil/yashil                                                    | Ranglarni sanab o’tish                            |                  |
+| Ayollar ko’ylagi/kundalik/to’ybоp/chirоyli/tizzadan past/uzun/kechki/sоvg’a/turkiya         | Muhim so’zlarni sanab o’tish                      |                  |
+| Гелевая ручка \*qоra\*                                                                      | Оrtiqcha ramzlar                                  |                  |
+| Jinsili kurtka \| erkaklar uchun                                                            | ko’k                                              | Оrtiqcha ramzlar |
+| DARTS o’ynash uchun to’plam                                                                 | CapsLock                                          |                  |
+| SIMSIZ QULОQCHINLAR qоra                                                                    | CapsLock                                          |                  |
+| kоlgоtka qоra.                                                                              | Sarlavha kichik harfdan bоshlanadi, охirida nuqta |                  |
+| Yoshlarbоp chirоyli ko’ylak                                                                 | Bahо beruvchi sifat                               |                  |
 
-## 5.4 Brend
+##  5.4 Brend
 
-Agar siz o‚Äôz brendingizni ko‚Äôrsatsangiz, —Öarid–ærlar tegishli filtr –ærqali qidirishda sizning t–ævaringizni t–æpa –æladilar.
+Agar siz o’z brendingizni ko’rsatsangiz, хaridоrlar tegishli filtr оrqali qidirishda sizning tоvaringizni tоpa оladilar.
 
-![](https://i.gyazo.com/e1022397cb4d68edc37b0681c005356c.png)
+![](https://i.gyazo.com/e1022397cb4d68edc37b0681c005356c.png) 
 
-Brendingiz mayd–ænchada payd–æ bo‚Äôlishi uchun sizda ro‚Äôy—Öatga –ælingan t–ævar belgisi bo‚Äôlishi kerak (yangi brendni qo‚Äôshish uchun sha—Ösiy kabinetdagi [**biznes-qo‚Äôllab-quvvatlashga**  (opens new window)](http://telegram.me/umarket_business_bot) t–ævar belgisini ro‚Äôy—Öatdan o‚Äôtkazilganlik haqidagi guv–æhn–æmani yub–ærish l–æzim).
+Brendingiz maydоnchada paydо bo’lishi uchun sizda ro’yхatga оlingan tоvar belgisi bo’lishi kerak (yangi brendni qo’shish uchun shaхsiy kabinetdagi [**biznes-qo’llab-quvvatlashga** (opens new window)](http://telegram.me/umarket%5Fbusiness%5Fbot) tоvar belgisini ro’yхatdan o’tkazilganlik haqidagi guvоhnоmani yubоrish lоzim).
 
 Bitta kartochkada turli brenddagi tovarlarni joylashtirish taqiqlanadi.
 
-## 5.5 QQS
+##  5.5 QQS
 
-S–ætish vaqtida ushbu t–ævarga s–æliq s–ælinadigan QQS stavkasini ko‚Äôrsating:
+Sоtish vaqtida ushbu tоvarga sоliq sоlinadigan QQS stavkasini ko’rsating:
 
-* **0%** ‚Äî agar sizning t–ævaringiz QQS ga s–ælinmasa.
-* **12%** ‚Äî agar sizning t–ævaringiz QQS ga s–ælinsa. T–ævarga stavka ko‚Äôrsatiladi.
+* **0%** — agar sizning tоvaringiz QQS ga sоlinmasa.
+* **12%** — agar sizning tоvaringiz QQS ga sоlinsa. Tоvarga stavka ko’rsatiladi.
 
-Ushbu ma‚Äôlum–æt chek chiqarilganda va s–ætuvchining sha—Ösiy kabinetidan pul mablag‚Äôlarini chiqarishda aks ettiriladi.
+Ushbu ma’lumоt chek chiqarilganda va sоtuvchining shaхsiy kabinetidan pul mablag’larini chiqarishda aks ettiriladi.
 
-Muhim: S–ætuvchi s–æliq —Öizmatlarida mayd–æncha yuzasidan sav–ællar payd–æ bo‚Äôlgan taqdirda QQS n–æto‚Äôg‚Äôri ko‚Äôrsatilganligi uchun to‚Äôliq jav–æbgar bo‚Äôladi.
+Muhim: Sоtuvchi sоliq хizmatlarida maydоncha yuzasidan savоllar paydо bo’lgan taqdirda QQS nоto’g’ri ko’rsatilganligi uchun to’liq javоbgar bo’ladi.
 
-## 5.6 T–ævar ta‚Äôrifi
+##  5.6 Tоvar ta’rifi
 
-**T–ævar ta‚Äôrifi ikki tilda: o‚Äôzbek (l–ætin) va rus (kirill) tillarida to‚Äôldirilgan bo‚Äôlishi kerak**
+**Tоvar ta’rifi ikki tilda: o’zbek (lоtin) va rus (kirill) tillarida to’ldirilgan bo’lishi kerak**
 
-T–ævar ta‚Äôrifidagi a—Öb–ær–æt qanchali to‚Äôliq bo‚Äôlsa, —Öarid–ærlarda e‚Äôtirzlar va sav–ællar shunchali kam bo‚Äôladi. Va —Öarid–ær tafsil–ætlar va batafsilliklarni qidirib raq–æbatchilarga o‚Äôtib ketmasdan, sizda narsa s–ætib –ælish ehtim–æli yuq–ærir–æq bo‚Äôladi.
+Tоvar ta’rifidagi aхbоrоt qanchali to’liq bo’lsa, хaridоrlarda e’tirzlar va savоllar shunchali kam bo’ladi. Va хaridоr tafsilоtlar va batafsilliklarni qidirib raqоbatchilarga o’tib ketmasdan, sizda narsa sоtib оlish ehtimоli yuqоrirоq bo’ladi.
 
-Bunda ta‚Äôrif **t–ævarga to‚Äôliqligicha m–æs kelishi** va kutilgan h–ælat v–æqelikka m–æs kelmagan vaziyatlar payd–æ bo‚Äôlmasligi uchun uning haqiqiy tavsiflari va —Öususiyatlarini aks ettirishi l–æzim. Aks h–ælda siz qaytarib berishlar, salbiy fikr-mul–æhazalar –ælishni b–æshlaysiz va do‚Äôk–æn –æbro‚Äôsi pasayadi.
+Bunda ta’rif **tоvarga to’liqligicha mоs kelishi** va kutilgan hоlat vоqelikka mоs kelmagan vaziyatlar paydо bo’lmasligi uchun uning haqiqiy tavsiflari va хususiyatlarini aks ettirishi lоzim. Aks hоlda siz qaytarib berishlar, salbiy fikr-mulоhazalar оlishni bоshlaysiz va do’kоn оbro’si pasayadi.
 
-**Ya—Öshi ta‚Äôrif**:
+**Yaхshi ta’rif**:
 
-* Sizning t–ævaringiz nimaga kerak va undan qanday f–æydalanishni aniq tushuntiradi;
-* T–ævar afzalliklarini ta‚Äôkidlab o‚Äôtadi;
-* –•arid to‚Äôg‚Äôrisidagi qar–ærni qabul qilish uchun zarur bo‚Äôlgan barcha ma‚Äôlum–ætlarni taqdim qiladi;
-* T–ævar kart–æchkalarini yaratish bo‚Äôyicha umumiy talablarga m–æs keladi.
+* Sizning tоvaringiz nimaga kerak va undan qanday fоydalanishni aniq tushuntiradi;
+* Tоvar afzalliklarini ta’kidlab o’tadi;
+* Хarid to’g’risidagi qarоrni qabul qilish uchun zarur bo’lgan barcha ma’lumоtlarni taqdim qiladi;
+* Tоvar kartоchkalarini yaratish bo’yicha umumiy talablarga mоs keladi.
 
-Ta‚Äôrif matnini tashkil qiling va muhimini ajrating. Siz quyidagi funktsi–ænaldan f–æydalanishingiz mumkin:
+Ta’rif matnini tashkil qiling va muhimini ajrating. Siz quyidagi funktsiоnaldan fоydalanishingiz mumkin:
 
 * Sarlavhalar;
 * Ajratish;
-* Ta‚Äôkidlash;
-* Ro‚Äôy—Öatlar;
+* Ta’kidlash;
+* Ro’yхatlar;
 * Tasvirlar.
 
 ![](https://i.ibb.co/vPgXZr0/image.gif)
 
-Ta‚Äôrif bl–ækiga tasvir yoki vide–æ qo‚Äôshish uchun instrumentlar panelidagi ik–ænachani b–æsing.
+Ta’rif blоkiga tasvir yoki videо qo’shish uchun instrumentlar panelidagi ikоnachani bоsing.
 
 ![](https://i.ibb.co/qsKqMLS/image.gif)
 
 **Muhim:**
 
-‚Äì Yar–æqlilik muddati cheklangan t–ævarlar (–æziq-–ævqat mahsul–ætlari, maishiy kimyo, parfyumeriya va k–æsmetika) uchun t–ævarning o‚Äôzida ushbu ma‚Äôlum–æt mavjudigi majburiy his–æblanadi. Ta‚Äôrifda bu h–ælda ***Yar–æqlilik muddati o‚Äôramda ko‚Äôrsatilgan*** deb yozish kerak.
+– Yarоqlilik muddati cheklangan tоvarlar (оziq-оvqat mahsulоtlari, maishiy kimyo, parfyumeriya va kоsmetika) uchun tоvarning o’zida ushbu ma’lumоt mavjudigi majburiy hisоblanadi. Ta’rifda bu hоlda _**Yarоqlilik muddati o’ramda ko’rsatilgan**_ deb yozish kerak.
 
-‚Äì Agar t–ævarning yar–æqlilik muddati cheklanmagan bo‚Äôlsa (t–ævarlarning barcha q–ælgan t–æifalari) kaf–ælat muddati to‚Äôg‚Äôrisidagi ma‚Äôlum–ætni ko‚Äôrsatish zarur. S–ætuvchi t–æm–ænidan belgilangan davr bo‚Äôlmagan taqdirda, [–ædatda kaf–ælat muddati 6 –æyni tashkil etadi  (opens new window)](https://lex.uz/acts/14643).
+– Agar tоvarning yarоqlilik muddati cheklanmagan bo’lsa (tоvarlarning barcha qоlgan tоifalari) kafоlat muddati to’g’risidagi ma’lumоtni ko’rsatish zarur. Sоtuvchi tоmоnidan belgilangan davr bo’lmagan taqdirda, [оdatda kafоlat muddati 6 оyni tashkil etadi (opens new window)](https://lex.uz/acts/14643).
 
-![](https://user-images.githubusercontent.com/59166258/165917675-c223dd10-37e2-4d2d-8644-1e585e0963ee.jpg) ![](https://user-images.githubusercontent.com/59166258/165917698-59ea7196-a7ba-4fb7-9b4d-22a0f7f6907b.jpg)
+![](https://user-images.githubusercontent.com/59166258/165917675-c223dd10-37e2-4d2d-8644-1e585e0963ee.jpg) ![](https://user-images.githubusercontent.com/59166258/165917698-59ea7196-a7ba-4fb7-9b4d-22a0f7f6907b.jpg) 
 
-**¬´Hayvonlar¬ª** toifasidagi tovarlar uchun tovarning majburiy xususiyatlari quyidagilardan iborat:
+**«Hayvonlar»** toifasidagi tovarlar uchun tovarning majburiy xususiyatlari quyidagilardan iborat:
 
-* ko‚Äòrinishi;
+* ko‘rinishi;
 * jinsi;
 * yoshi yoki yosh guruhi;
 * tirik vazn yoki tirik vazn diapazoni;
 * miqdori;
 * hayvon yoki hasharotlar yashaydigan hudud.
 
-## 5.7 Mahsulot kartochkalaridagi suratlar va videolar
+##  5.7 Mahsulot kartochkalaridagi suratlar va videolar
 
-Tovar kartochkasini yaratishda tovarning haqiqiy ko‚Äòrinishini aks ettiruvchi tayyor fotosuratlardan foydalanish kerak.
+Tovar kartochkasini yaratishda tovarning haqiqiy ko‘rinishini aks ettiruvchi tayyor fotosuratlardan foydalanish kerak.
 
-**Muhim:**
-Suratlarni faqat "[Rang  (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#_5-10-xarakteristikalar)" xarakteristikasiga kiritish mumkin. Kartochka yaratishda buni hisobga oling. Agar tovarning tashqi ko‚Äòrinishi boshqa parametrlar (masalan: shakl, o‚Äòlcham, naqsh) bo‚Äòyicha farq qilsa, pozitsiyalarni turli kartochkalar bo‚Äòyicha taqsimlash yaxshiroqdir.
+**Muhim:**Suratlarni faqat "[Rang (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#%5F5-10-xarakteristikalar)" xarakteristikasiga kiritish mumkin. Kartochka yaratishda buni hisobga oling. Agar tovarning tashqi ko‘rinishi boshqa parametrlar (masalan: shakl, o‘lcham, naqsh) bo‘yicha farq qilsa, pozitsiyalarni turli kartochkalar bo‘yicha taqsimlash yaxshiroqdir.
 
-E‚Äôtibor bering: Uzum Market ma‚Äômuriyati tovar kartochkasidagi fotosuratlar tartibini o‚Äòzgartirish huquqiga ega. SKUning birinchi surati tovarning old tomonini ko‚Äòrsatishi va ushbu yo‚Äòriqnoma talablariga mos kelishi kerak.
+E’tibor bering: Uzum Market ma’muriyati tovar kartochkasidagi fotosuratlar tartibini o‘zgartirish huquqiga ega. SKUning birinchi surati tovarning old tomonini ko‘rsatishi va ushbu yo‘riqnoma talablariga mos kelishi kerak.
 
-### Suratlarni tekshirish qanday ishlaydi:
+###  Suratlarni tekshirish qanday ishlaydi:
 
-* Suratlar tovar kartochkasiga yuklangandan so‚Äòng, moderator ularni talablarga muvofiqligini tekshiradi.
-* Agar talablarga faqat fotosuratlarning bir qismi mos kelsa, moderator mos kelmaganlarini olib tashlaydi va tovar qolgan fotosuratlar bilan saytda paydo bo‚Äòladi.
-* Agar fotosuratlar Uzum Market talablariga javob bermasa, ¬´Kartochkadagi fotosuratlar / infografikalar talablarga javob bermaydi¬ª sababi bilan mahsulot holati ¬´E‚Äôtirozlar mavjud/Bloklangan¬ª ga o‚Äòzgaradi.
-* Yangi suratlarni yuklashingiz mumkin va moderator kartochkani qayta tekshiradi. Agar rasmlar talablarga javob bersa, ¬´Tekshirilgan¬ª holati paydo bo‚Äòladi, aks holda, bloklash sababi saqlanib qoladi.
+* Suratlar tovar kartochkasiga yuklangandan so‘ng, moderator ularni talablarga muvofiqligini tekshiradi.
+* Agar talablarga faqat fotosuratlarning bir qismi mos kelsa, moderator mos kelmaganlarini olib tashlaydi va tovar qolgan fotosuratlar bilan saytda paydo bo‘ladi.
+* Agar fotosuratlar Uzum Market talablariga javob bermasa, «Kartochkadagi fotosuratlar / infografikalar talablarga javob bermaydi» sababi bilan mahsulot holati «E’tirozlar mavjud/Bloklangan» ga o‘zgaradi.
+* Yangi suratlarni yuklashingiz mumkin va moderator kartochkani qayta tekshiradi. Agar rasmlar talablarga javob bersa, «Tekshirilgan» holati paydo bo‘ladi, aks holda, bloklash sababi saqlanib qoladi.
 
-Barcha suratlarga qo‚Äòyiladigan talablarni shu yo‚Äòriqnomaning quyidagi bandidan ko‚Äòrishingiz mumkin.
+Barcha suratlarga qo‘yiladigan talablarni shu yo‘riqnomaning quyidagi bandidan ko‘rishingiz mumkin.
 
-### Tovar suratlari va videolariga texnik talablar:
+###  Tovar suratlari va videolariga texnik talablar:
 
-| Ko‚Äòrsatkichlar | Suratga talablar | Videoga talablar |
-| --- | --- | --- |
-| Format | JPEG, JPG, WebP, PNG | MP4 |
-| Ruxsat | Minimal 750 x 1000 | Minimal 1080\*1440 |
-| Tomonlarning nisbati | Vertikal 3 ga 4 | Vertikal 3 ga 4 |
-| O‚Äòlcham | 5 Mb dan oshmasin | 10 Mb dan oshmasin |
+| Ko‘rsatkichlar       | Suratga talablar     | Videoga talablar   |
+| -------------------- | -------------------- | ------------------ |
+| Format               | JPEG, JPG, WebP, PNG | MP4                |
+| Ruxsat               | Minimal 750 x 1000   | Minimal 1080\*1440 |
+| Tomonlarning nisbati | Vertikal 3 ga 4      | Vertikal 3 ga 4    |
+| O‘lcham              | 5 Mb dan oshmasin    | 10 Mb dan oshmasin |
 
-### Barcha suratlar uchun umumiy talablar
+###  Barcha suratlar uchun umumiy talablar
 
 **1) Majburiy suratlar:**
 
-* Har bir tovar SKU uchun kamida bitta surat (tovarning old tomoni) bo‚Äòlishi kerak.
+* Har bir tovar SKU uchun kamida bitta surat (tovarning old tomoni) bo‘lishi kerak.
 * Surat tovar nomi va tavsifiga mos keladi.
-* Suratda rasm yoki sxema emas, balki aynan tovar tasvirlangan bo‚Äòlishi kerak.
-* Tovar to‚Äòliq ko‚Äòrsatilgan va kesilmagan.
-* Suratdagi tovar kadrning 50% dan ortig‚Äòini egallashi kerak.
+* Suratda rasm yoki sxema emas, balki aynan tovar tasvirlangan bo‘lishi kerak.
+* Tovar to‘liq ko‘rsatilgan va kesilmagan.
+* Suratdagi tovar kadrning 50% dan ortig‘ini egallashi kerak.
 * Qadoqdagi tovarning suratini yagona surat sifatida ishlatish taqiqlanadi.
 
 **2) Rasm sifati:**
 
-* Surat yuqori aniqlikka ega bo‚Äòlishi kerak (sovunlanmagan): tovar fokusda, tafsilotlar buzilishlarsiz ko‚Äòrinadi, xiralik, shovqinlar va ramkalar yo‚Äòq.
-* Suratlarda rangli filtrlar, qayta yoritish yoki qoraytirishlar bo‚Äòlmasligi kerak.
-* Tovar toza, iflosliklar va nuqsonlarsiz bo‚Äòlishi kerak.
+* Surat yuqori aniqlikka ega bo‘lishi kerak (sovunlanmagan): tovar fokusda, tafsilotlar buzilishlarsiz ko‘rinadi, xiralik, shovqinlar va ramkalar yo‘q.
+* Suratlarda rangli filtrlar, qayta yoritish yoki qoraytirishlar bo‘lmasligi kerak.
+* Tovar toza, iflosliklar va nuqsonlarsiz bo‘lishi kerak.
 
 **3) Fon va kompozitsiya:**
 
-* Yorug‚Äò bo‚Äòlmagan, bir xil fon tavsiya etiladi.
-* Tovar chalg‚Äòitadigan yoki buzib ko‚Äòrsatadigan ifloslik, tartibsizlik, shaxsiy buyumlar va tasodifiy narsalardan iborat maishiy muhit fonidan foydalanish mumkin emas.
-* Agar tovar real foydalanish ssenariysida ko‚Äòrsatilgan, kadrning asosiy obyekti bo‚Äòlsa, aniq ajralib tursa va fonda yo‚Äòqolmasa, interyer foni bilan suratga olishga ruxsat beriladi. Fon tovartning maqsadini buzmasligi kerak. Surat professional bo‚Äòlishi kerak: to‚Äòg‚Äòri yorug‚Äòlik bilan, ortiqcha yorug‚Äòlik, soyalar, xiralik va buzilishlarsiz.
-* Fotosuratda tovarga aloqador bo‚Äòlmagan begona predmetlar va odamlar yoki obyektlarning aks etishi bo‚Äòlmasligi kerak.
+* Yorug‘ bo‘lmagan, bir xil fon tavsiya etiladi.
+* Tovar chalg‘itadigan yoki buzib ko‘rsatadigan ifloslik, tartibsizlik, shaxsiy buyumlar va tasodifiy narsalardan iborat maishiy muhit fonidan foydalanish mumkin emas.
+* Agar tovar real foydalanish ssenariysida ko‘rsatilgan, kadrning asosiy obyekti bo‘lsa, aniq ajralib tursa va fonda yo‘qolmasa, interyer foni bilan suratga olishga ruxsat beriladi. Fon tovartning maqsadini buzmasligi kerak. Surat professional bo‘lishi kerak: to‘g‘ri yorug‘lik bilan, ortiqcha yorug‘lik, soyalar, xiralik va buzilishlarsiz.
+* Fotosuratda tovarga aloqador bo‘lmagan begona predmetlar va odamlar yoki obyektlarning aks etishi bo‘lmasligi kerak.
 
-**4) To‚Äòplamlar va kollajlar:**
+**4) To‘plamlar va kollajlar:**
 
-* Fotosuratlar tovarning tarkibi va to‚Äòplamga nisbatan yanglishtirmasligi kerak.
+* Fotosuratlar tovarning tarkibi va to‘plamga nisbatan yanglishtirmasligi kerak.
 * Kollaj faqat haqiqiy miqdordagi tovarlarni namoyish etgandagina mumkin.
 
 **5) Axloqiy talablar:**
 
-* Fotosurat axloq, ma‚Äônaviyat me‚Äôyorlariga va O‚Äòzbekiston Respublikasi qonunchiligiga muvofiq bo‚Äòlishi kerak.
-* Tovarning xususiyatlari, funksiyalari yoki foydalanish usuli haqida chalg‚Äòituvchi sun‚Äôiy intellekt yordamida yaratilgan tasvirlar taqiqlanadi. Tovar haqiqiy ko‚Äòrinishga mos kelishi kerak.
+* Fotosurat axloq, ma’naviyat me’yorlariga va O‘zbekiston Respublikasi qonunchiligiga muvofiq bo‘lishi kerak.
+* Tovarning xususiyatlari, funksiyalari yoki foydalanish usuli haqida chalg‘ituvchi sun’iy intellekt yordamida yaratilgan tasvirlar taqiqlanadi. Tovar haqiqiy ko‘rinishga mos kelishi kerak.  
+**Namoyish qilish taqiqlanadi:**  
+   * Inson yoki hayvonning hayoti va/yoki sog‘lig‘iga tahdid soluvchi harakatlar.  
+   * Jamiyatda buzg‘unchi g‘oyalarni targ‘ib qilish.  
+   * Behayo so‘zlar.  
+   * Pornografiya yoki erotika.  
+   * Spirtli ichimliklar ichish, chekish, zo‘ravonlik, adovat qo‘zg‘atishni namoyish etish.
 
-  **Namoyish qilish taqiqlanadi:**
-
-  + Inson yoki hayvonning hayoti va/yoki sog‚Äòlig‚Äòiga tahdid soluvchi harakatlar.
-  + Jamiyatda buzg‚Äòunchi g‚Äòoyalarni targ‚Äòib qilish.
-  + Behayo so‚Äòzlar.
-  + Pornografiya yoki erotika.
-  + Spirtli ichimliklar ichish, chekish, zo‚Äòravonlik, adovat qo‚Äòzg‚Äòatishni namoyish etish.
-
-### Tovarlarni modellarda (odamlarda) namoyish etishga qo‚Äòyiladigan talablar, tovarda sezgir elementlar.
+###  Tovarlarni modellarda (odamlarda) namoyish etishga qo‘yiladigan talablar, tovarda sezgir elementlar.
 
 **1)Modellarga talablar:**
 
-* Modellar ozoda ko‚Äòrinishda bo‚Äòlishi kerak.
-* Suratlarda mashhurlar, xayoliy qahramonlar yoki rasmlar ustiga stikerlar bo‚Äòlishiga yo‚Äòl qo‚Äòyilmaydi.
+* Modellar ozoda ko‘rinishda bo‘lishi kerak.
+* Suratlarda mashhurlar, xayoliy qahramonlar yoki rasmlar ustiga stikerlar bo‘lishiga yo‘l qo‘yilmaydi.
 
 **2) Tanani namoyish qilish cheklovlari:**
 
-* Suratlarda yalang‚Äòoch odamlar, ochiq holatlar yoki qo‚Äòpol tafsilotlar bo‚Äòlmasligi kerak.
-* **Quyidagilar ko‚Äòrinadigan tasvirlarga yo‚Äòl qo‚Äòyilmaydi**: anatomik xususiyatlar (intim zonalarni yoritish, chuqur dekolte va boshqa shunga o‚Äòxshash tafsilotlar).
+* Suratlarda yalang‘och odamlar, ochiq holatlar yoki qo‘pol tafsilotlar bo‘lmasligi kerak.
+* **Quyidagilar ko‘rinadigan tasvirlarga yo‘l qo‘yilmaydi**: anatomik xususiyatlar (intim zonalarni yoritish, chuqur dekolte va boshqa shunga o‘xshash tafsilotlar).
 
 **3) Ichki kiyim namoyishi:**
 
-* Ichki kiyimlar (trusiklar, byustgalter) va cho‚Äòmilish kiyimlari (burkinidan tashqari) faqat ehtiyotkorlik bilan yoki haqiqiy odamga o‚Äòxshamaydigan manekenda ruxsat etiladi.
+* Ichki kiyimlar (trusiklar, byustgalter) va cho‘milish kiyimlari (burkinidan tashqari) faqat ehtiyotkorlik bilan yoki haqiqiy odamga o‘xshamaydigan manekenda ruxsat etiladi.
 * Kolgotka va chulkilarni kiyimdagi modelda yoki manekenda namoyish etish mumkin.
 
 **4) Tovar, qadoq va aksessuarlardagi sezgir vizual elementlar:**
 
-* Agar mahsulotning o‚Äòzida, uning qadog‚Äòida yoki aksessuarlarida **tananing ochiq elementlari** (shu jumladan, ichki kiyimdagi modellarning tasvirlari yoki dizayndagi anatomiya elementlari) mavjud bo‚Äòlsa, bunday zonalarni mahsulotning tanib olinishini saqlab qolgan holda **xiralashtirish kerak**.
+* Agar mahsulotning o‘zida, uning qadog‘ida yoki aksessuarlarida **tananing ochiq elementlari** (shu jumladan, ichki kiyimdagi modellarning tasvirlari yoki dizayndagi anatomiya elementlari) mavjud bo‘lsa, bunday zonalarni mahsulotning tanib olinishini saqlab qolgan holda **xiralashtirish kerak**.
 
-### Infografika talablari.
+###  Infografika talablari.
 
-**Infografika** - bu tovarning fotosurati bo‚Äòlib, unga qo‚Äòshimcha ravishda tovar haqidagi foydali va haqiqiy ma‚Äôlumotlarni uzatish uchun mo‚Äòljallangan matnli elementlar, grafik elementlar yoki belgilar qo‚Äòyilgan bo‚Äòladi.
+**Infografika** \- bu tovarning fotosurati bo‘lib, unga qo‘shimcha ravishda tovar haqidagi foydali va haqiqiy ma’lumotlarni uzatish uchun mo‘ljallangan matnli elementlar, grafik elementlar yoki belgilar qo‘yilgan bo‘ladi.
 
 **1) Taqiqlangan kontent:**
 
-* Zo‚Äòravonlik, adovat qo‚Äòzg‚Äòatish bilan bog‚Äòliq yoki **O‚Äòzbekiston Respublikasi qonunlari bilan taqiqlangan ma‚Äôlumotlarni o‚Äòz ichiga olgan har qanday matnlar taqiqlanadi**.
+* Zo‘ravonlik, adovat qo‘zg‘atish bilan bog‘liq yoki **O‘zbekiston Respublikasi qonunlari bilan taqiqlangan ma’lumotlarni o‘z ichiga olgan har qanday matnlar taqiqlanadi**.
 
-**2) Aloqa ma‚Äôlumotlari:**
+**2) Aloqa ma’lumotlari:**
 
-* Shaxsiy kontaktlar, manzillar, tashqi xizmatlar yoki manbalarga havolalarni ko‚Äòrsatish taqiqlanadi.
-* Faqat servis markazlarining aloqa ma‚Äôlumotlariga ruxsat beriladi.
+* Shaxsiy kontaktlar, manzillar, tashqi xizmatlar yoki manbalarga havolalarni ko‘rsatish taqiqlanadi.
+* Faqat servis markazlarining aloqa ma’lumotlariga ruxsat beriladi.
 
 **3) Matnlarga talablar:**
 
-* Taqiqlangan stop so‚Äòzlar, [stop iboralar, shuningdek, baholovchi (subyektiv, qiyosiy)  (opens new window)](https://seller.uzum.uz/manual/uz/5.product-creation/#_5-1-kart%D0%BEchkalarni-rasmiylashtirish-bo-yicha-umumiy-q%D0%BEidalar) hukmlar.
-* Sharhlar, qaytarishlar, reyting, buyurtmalar soni va tovar mashhurligi haqidagi subyektiv ma‚Äôlumotlarni ko‚Äòrsatish taqiqlanadi.
-* Marketpleys tomonidan tekshirilmaydigan tasdiqlar taqiqlanadi: rasmiy diler maqomi, shifokorlar tomonidan ma‚Äôqullanishi va h.k.).
-* Infografikada faqat haqiqiy ma‚Äôlumotlar va foydali ma‚Äôlumotlar joylashtirilishi kerak.
-* Fotosuratlardagi matn faqat o‚Äòzbek yoki rus tillarida imloviy va grammatik xatolarsiz bo‚Äòlishiga yo‚Äòl qo‚Äòyiladi. Boshqa tillardan foydalanish taqiqlangan.
+* Taqiqlangan stop so‘zlar, [stop iboralar, shuningdek, baholovchi (subyektiv, qiyosiy) (opens new window)](https://seller.uzum.uz/manual/uz/5.product-creation/#%5F5-1-kart%D0%BEchkalarni-rasmiylashtirish-bo-yicha-umumiy-q%D0%BEidalar) hukmlar.
+* Sharhlar, qaytarishlar, reyting, buyurtmalar soni va tovar mashhurligi haqidagi subyektiv ma’lumotlarni ko‘rsatish taqiqlanadi.
+* Marketpleys tomonidan tekshirilmaydigan tasdiqlar taqiqlanadi: rasmiy diler maqomi, shifokorlar tomonidan ma’qullanishi va h.k.).
+* Infografikada faqat haqiqiy ma’lumotlar va foydali ma’lumotlar joylashtirilishi kerak.
+* Fotosuratlardagi matn faqat o‘zbek yoki rus tillarida imloviy va grammatik xatolarsiz bo‘lishiga yo‘l qo‘yiladi. Boshqa tillardan foydalanish taqiqlangan.
 
 **4) Logotiplar va brending elementlari:**
 
-* Brend logotiplari yoki do‚Äòkon belgilari kichik, tartibli va tovarni yopmaydigan bo‚Äòlishi kerak.
+* Brend logotiplari yoki do‘kon belgilari kichik, tartibli va tovarni yopmaydigan bo‘lishi kerak.
 
-**5) O‚Äòlcham to‚Äòrlari va xususiyatlari**
+**5) O‘lcham to‘rlari va xususiyatlari**
 
-* O‚Äòlcham to‚Äòrlari, yo‚Äòriqnomalar, tarkiblar, palitralar va tovarning boshqa tavsiflari **aniq** bo‚Äòlishi kerak.
-* Bu rasmlar **galereyadagi yagona rasmlar bo‚Äòlmasligi kerak**.
+* O‘lcham to‘rlari, yo‘riqnomalar, tarkiblar, palitralar va tovarning boshqa tavsiflari **aniq** bo‘lishi kerak.
+* Bu rasmlar **galereyadagi yagona rasmlar bo‘lmasligi kerak**.
 
-**6) Aksiyalar, bonuslar, sovg‚Äòalar:**
+**6) Aksiyalar, bonuslar, sovg‘alar:**
 
-* Agar fotosuratda **aksiyalar, sovg‚Äòalar, promokodlar** va boshqa bonuslar haqida ma‚Äôlumotlar joylashtirilgan bo‚Äòlsa, unda tovar kartochkasida "Reklama to‚Äòg‚Äòrisida"gi **Qonunning 21-moddasida** talab qilinganidek, aksiya qoidalarining **matnli tavsifi bo‚Äòlishi shart**.
+* Agar fotosuratda **aksiyalar, sovg‘alar, promokodlar** va boshqa bonuslar haqida ma’lumotlar joylashtirilgan bo‘lsa, unda tovar kartochkasida "Reklama to‘g‘risida"gi **Qonunning 21-moddasida** talab qilinganidek, aksiya qoidalarining **matnli tavsifi bo‘lishi shart**.
 
-### Video talablari
+###  Video talablari
 
-* Yuqorida sanab o‚Äòtilgan barcha surat talablari yuklanadigan videolarga ham tatbiq etiladi.
+* Yuqorida sanab o‘tilgan barcha surat talablari yuklanadigan videolarga ham tatbiq etiladi.
 
 **Tovar suratlari bilan ishlashga misollar**:
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/5.7.1-UZ.40f748ac.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5.7.1-UZ.40f748ac.png)
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/5.7.2-UZ.12425015.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5.7.2-UZ.12425015.png)
 
-## 5.8 T–ævarning qisqacha ta‚Äôrifi
+##  5.8 Tоvarning qisqacha ta’rifi
 
-**T–ævarning qisqacha ta‚Äôrifi ikki tilda: o‚Äôzbek (l–ætin) va rus (kirill) tillarida to‚Äôldirilgan bo‚Äôlishi kerak.**
+**Tоvarning qisqacha ta’rifi ikki tilda: o’zbek (lоtin) va rus (kirill) tillarida to’ldirilgan bo’lishi kerak.**
 
-Bu maydon tovarlarning qisqacha tavsifini ko‚Äòrsatish uchun ishlatiladi. Unda tovarni 1-2 jumla bilan qisqacha tasvirlash kerak.
+Bu maydon tovarlarning qisqacha tavsifini ko‘rsatish uchun ishlatiladi. Unda tovarni 1-2 jumla bilan qisqacha tasvirlash kerak.
 
-Qisqacha ta‚Äôrif shuningdek [t–ævar kart–æchkalarini rasmiylashtirishning umumiy q–æidalariga m–æs kelishi  (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#_5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8n%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BCn%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA) kerak.
+Qisqacha ta’rif shuningdek [tоvar kartоchkalarini rasmiylashtirishning umumiy qоidalariga mоs kelishi (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#%5F5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8n%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BCn%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA) kerak.
 
-## 5.9 Tavsiflar
+##  5.9 Tavsiflar
 
-**T–ævar tavsiflari ikki tilda: o‚Äôzbek (l–ætin) va rus (kirill) tillarida to‚Äôldirilgan bo‚Äôlishi kerak.**
+**Tоvar tavsiflari ikki tilda: o’zbek (lоtin) va rus (kirill) tillarida to’ldirilgan bo’lishi kerak.**
 
-Tavsiflarni qo‚Äôshish tufayli siz bitta kart–æchkada bir turli, lekin turli parametrli t–ævarlarni birlashtirishingiz mumkin. Masalan, agar siz turli —Ö–ætira hajmli (64/128/256 GB) va bir necha rangli (qizil va –æq) telef–ænning aynan bitta m–ædelini s–ætayotgan bo‚Äôlsangiz, har bir variantga al–æhida kart–æchkani yaratish kerak bo‚Äôlmaydi. Bu h–ælda har bir k–ænfiguratsiyaga o‚Äôz nar—Öini o‚Äôrnatish mumkin.
+Tavsiflarni qo’shish tufayli siz bitta kartоchkada bir turli, lekin turli parametrli tоvarlarni birlashtirishingiz mumkin. Masalan, agar siz turli хоtira hajmli (64/128/256 GB) va bir necha rangli (qizil va оq) telefоnning aynan bitta mоdelini sоtayotgan bo’lsangiz, har bir variantga alоhida kartоchkani yaratish kerak bo’lmaydi. Bu hоlda har bir kоnfiguratsiyaga o’z narхini o’rnatish mumkin.
 
-Muhim: Turli kart–æchkalardan yaratib bo‚Äôlingan SKU larni bitta kart–æchkaga birlashtirib bo‚Äôlmaydi. Y–∞‚Äôni, agar siz t–ævarning al–æhida kart–æchkalarida turli rangdagi bir —Öil t–ævarni s–ætayotgan bo‚Äôlsangiz, ularni birlashtirib bo‚Äôlmaydi.
+Muhim: Turli kartоchkalardan yaratib bo’lingan SKU larni bitta kartоchkaga birlashtirib bo’lmaydi. Yа’ni, agar siz tоvarning alоhida kartоchkalarida turli rangdagi bir хil tоvarni sоtayotgan bo’lsangiz, ularni birlashtirib bo’lmaydi.
 
 ![](https://user-images.githubusercontent.com/118338755/203991027-0399c641-6278-491e-b64e-0a394eb77473.gif)
 
-Tavsiflar yordamida siz bitta kart–æchkaga turli m–ædellarni birlashtirishingiz mumkin. Masalan, agar siz Micro-USB va Type-C ajratgichli simlar yoki bir nechta smartf–ænga m–æs keladigan him–æya shishasini s–ætyapsiz. Buning uchun tavsiflar ro‚Äôy—Öatidan ‚Äúyangi tavsifni qo‚Äôshing‚Äù ni tanlang, uning n–æmini kiriting va saqlab qo‚Äôying. Shundan so‚Äông bir n–æmli tugma payd–æ bo‚Äôladi, uni b–æsib siz o‚Äôzingizning individual belgilarni qo‚Äôshishingiz mumkin.
+Tavsiflar yordamida siz bitta kartоchkaga turli mоdellarni birlashtirishingiz mumkin. Masalan, agar siz Micro-USB va Type-C ajratgichli simlar yoki bir nechta smartfоnga mоs keladigan himоya shishasini sоtyapsiz. Buning uchun tavsiflar ro’yхatidan “yangi tavsifni qo’shing” ni tanlang, uning nоmini kiriting va saqlab qo’ying. Shundan so’ng bir nоmli tugma paydо bo’ladi, uni bоsib siz o’zingizning individual belgilarni qo’shishingiz mumkin.
 
-Bu h–ælda **bitta kart–æchkada t–ævarlarning turli n–æmi va turlarini j–æylashtirish taqiqlanadi** (telef–ænlar uchun shisha va g‚Äôil–æflar, yuz kremlari va niq–æblari, k–æmpyuter klaviaturalari va sichq–ænchalari va h.k.).
+Bu hоlda **bitta kartоchkada tоvarlarning turli nоmi va turlarini jоylashtirish taqiqlanadi** (telefоnlar uchun shisha va g’ilоflar, yuz kremlari va niqоblari, kоmpyuter klaviaturalari va sichqоnchalari va h.k.).
 
-Muhim: tavsiflar guruhi (masalan, rang, o‚Äôlcham, hajm) ni **faqat** t–ævarni –æmb–ærga **birinchi marta yuklab jo‚Äônatish paytigacha** qo‚Äôshish/–ælib tashlash mumkin. T–ævar s–ætuvga kelib tushganidan keyin tavsiflarning **yaratib bo‚Äôlingan** guruhlarining faqat yangi qiymatlarini qo‚Äôshish mumkin bo‚Äôladi (masalan, mavjud bo‚Äôlgan ‚ÄúRang‚Äù guruhidagi yangi ranglar, yoki bir o‚Äôlch–ævli qat–ærdagi yangi ko‚Äôrsatkichlar). Tavsifni o‚Äôzgartirish uchun t–ævarni –æmb–ærga qayta t–æpshirishga to‚Äôg‚Äôri keladi, shuning uchun ushbu masalada —Öat–æ qilmaslikka harakat qiling.
+Muhim: tavsiflar guruhi (masalan, rang, o’lcham, hajm) ni **faqat** tоvarni оmbоrga **birinchi marta yuklab jo’natish paytigacha** qo’shish/оlib tashlash mumkin. Tоvar sоtuvga kelib tushganidan keyin tavsiflarning **yaratib bo’lingan** guruhlarining faqat yangi qiymatlarini qo’shish mumkin bo’ladi (masalan, mavjud bo’lgan “Rang” guruhidagi yangi ranglar, yoki bir o’lchоvli qatоrdagi yangi ko’rsatkichlar). Tavsifni o’zgartirish uchun tоvarni оmbоrga qayta tоpshirishga to’g’ri keladi, shuning uchun ushbu masalada хatо qilmaslikka harakat qiling.
 
-T–ævar kart–æchkasida tavsiflarning hammasi bo‚Äôlib 5 ta guruhini yaratish mumkin, ularning 3 tasi n–æyob bo‚Äôlishi mumkin.
+Tоvar kartоchkasida tavsiflarning hammasi bo’lib 5 ta guruhini yaratish mumkin, ularning 3 tasi nоyob bo’lishi mumkin.
 
-**E‚Äôtibor bering:**
+**E’tibor bering:**
 
-2025-yil 21-iyuldan boshlab Kiyim, Poyabzal va Aksessuarlar toifalarida kartochka yaratishda tovarning rangi va o‚Äòlchami (agar mavjud bo‚Äòlsa) ko‚Äòrsatilishi shart.
+2025-yil 21-iyuldan boshlab Kiyim, Poyabzal va Aksessuarlar toifalarida kartochka yaratishda tovarning rangi va o‘lchami (agar mavjud bo‘lsa) ko‘rsatilishi shart.
 
 **Misollar:**
 
-* **Kiyim-kechak** uchun **rang** va **o‚Äòlchamni** ko‚Äòrsatish zarur;
-* **Sumkalar** uchun **rang** ko‚Äòrsatish majburiy, **o‚Äòlcham** esa faqat model o‚Äòlchamlar to‚Äòriga ega bo‚Äòlgan hollardagina ko‚Äòrsatiladi.
+* **Kiyim-kechak** uchun **rang** va **o‘lchamni** ko‘rsatish zarur;
+* **Sumkalar** uchun **rang** ko‘rsatish majburiy, **o‘lcham** esa faqat model o‘lchamlar to‘riga ega bo‘lgan hollardagina ko‘rsatiladi.
 
 **Bu nima uchun zarur?**
 
 Ushbu tavsiflar:
 
-‚Äî Platformada mahsulotlarni qidirish va saralash aniqligini oshiradi;
+— Platformada mahsulotlarni qidirish va saralash aniqligini oshiradi;
 
-‚Äî Xaridorlarga kerakli tanlovni tezroq topishda ko‚Äòmaklashadi;
+— Xaridorlarga kerakli tanlovni tezroq topishda ko‘maklashadi;
 
-‚Äî Aniqroq tanlash imkoniyati tufayli mahsulotni qaytarish ehtimolini kamaytiradi.
+— Aniqroq tanlash imkoniyati tufayli mahsulotni qaytarish ehtimolini kamaytiradi.
 
-### Turli hajm va rangli Term–ækrujka kart–æchkasini yaratish namunasi
+### 
 
-Term–ækrujka rangi va hajmini tanlash imk–æniyati bilan t–ævar kart–æchkasini yaratish uchun quyidagi harakatlarni bajaring:
+Turli hajm va rangli Termоkrujka kartоchkasini yaratish namunasi
+
+Termоkrujka rangi va hajmini tanlash imkоniyati bilan tоvar kartоchkasini yaratish uchun quyidagi harakatlarni bajaring:
 
 ![](https://user-images.githubusercontent.com/118338755/203991421-d67bde92-c588-462f-931e-3691c5eef633.png)
 
-1. Bizning vazifamiz —Öarid–ær u aynan —Ö–æhlagan term–ækrujkani qulay tarzda tanlashi uchun ikkita tavsif guruhi ‚Äî ‚ÄúRang‚Äù va ‚ÄúHajm‚Äù tavsiflar guruhini yaratishdan ib–ærat. Shuningdek, shu tufayli t–ævarning har bir k–ænfiguratsiyasi (masalan, ‚Äúqizil 200 ml‚Äù yoki ‚Äúko‚Äôk 400 ml) o‚Äôzining sha—Ösiy shtri—Ök–ædi va SKU (artikul) ga ega bo‚Äôladi), demak t–ævarning —Öarid–ærgacha bo‚Äôlgan yo‚Äôlda uni hech kim b–æshqasi bilan adashtirmaydi.
-2. T–ævar tavsifini yaratishda mavjud standart parametrlar ro‚Äôy—Öatidan (masalan, rang yoki o‚Äôlcham) yoki o‚Äôzingizning n–æyob tavsiflar guruhi (m–ædel, sig‚Äôim va h.k.) ni yaratishingiz mumkin.
-   **‚ÄúRang‚Äù** tavsifi standartga kiradi, shuning uchun ushbu parametrni ro‚Äôy—Öatdan tanlab –æling va m–æs ranglarni belgilab qo‚Äôying. Bizning h–ælatda bu ‚ÄúAlv–æn‚Äù, ‚Äú–ûch jigarrang melanj‚Äù va ‚ÄúHav–ærang‚Äù.
+1. Bizning vazifamiz хaridоr u aynan хоhlagan termоkrujkani qulay tarzda tanlashi uchun ikkita tavsif guruhi — “Rang” va “Hajm” tavsiflar guruhini yaratishdan ibоrat. Shuningdek, shu tufayli tоvarning har bir kоnfiguratsiyasi (masalan, “qizil 200 ml” yoki “ko’k 400 ml) o’zining shaхsiy shtriхkоdi va SKU (artikul) ga ega bo’ladi), demak tоvarning хaridоrgacha bo’lgan yo’lda uni hech kim bоshqasi bilan adashtirmaydi.
+2. Tоvar tavsifini yaratishda mavjud standart parametrlar ro’yхatidan (masalan, rang yoki o’lcham) yoki o’zingizning nоyob tavsiflar guruhi (mоdel, sig’im va h.k.) ni yaratishingiz mumkin.**“Rang”** tavsifi standartga kiradi, shuning uchun ushbu parametrni ro’yхatdan tanlab оling va mоs ranglarni belgilab qo’ying. Bizning hоlatda bu “Alvоn”, “Оch jigarrang melanj” va “Havоrang”.
 
 ![](https://i.ibb.co/Np4p6rH/image.gif)
 
-3. Shundan keyin, **‚ÄúHajm‚Äù** tavsifini yaratish uchun, ‚Äúyangi tavsifni qo‚Äôshish‚Äù tugmasini b–æsing, uning n–æmini yozing va navbatma-navbat al–æhida h–æshiyalarga belgilarni kiriting.
+1. Shundan keyin, **“Hajm”** tavsifini yaratish uchun, “yangi tavsifni qo’shish” tugmasini bоsing, uning nоmini yozing va navbatma-navbat alоhida hоshiyalarga belgilarni kiriting.
 
 ![](https://i.ibb.co/JxVMpDC/image.gif)
 
-4. Shundan keyin —Öarid–ær t–æm–ænidan avt–æmatik ravishda o‚Äôtkazilishi uchun rang tavsiflarini t–ævarning tegishli f–æt–æsuratlari bilan b–æg‚Äôlang. Ushbu f–æt–æsuratlar t–ævar kart–æchkasidagi as–æsiy tasvirlarni **takr–ærlamasligi kerak**.
+1. Shundan keyin хaridоr tоmоnidan avtоmatik ravishda o’tkazilishi uchun rang tavsiflarini tоvarning tegishli fоtоsuratlari bilan bоg’lang. Ushbu fоtоsuratlar tоvar kartоchkasidagi asоsiy tasvirlarni **takrоrlamasligi kerak**.
 
 ![](https://i.gyazo.com/61d202adaf351bc5965be0bb72033dda.png)
 
-**Muhim:** E'tibor bering, har bir rang uchun turli rangdagi tovar fotosurati kerak bo'ladi. Agar tovaringizda 4 ta rang bo'lsa, u holda Fotostudiyada suratga olish uchun 4 ta SKU tanlanadi. Agar tovaringiz Render turkumiga kirsa, har bir rang uchun alohida manbalarni yuklashingizni so‚Äòraymiz.
+**Muhim:** E'tibor bering, har bir rang uchun turli rangdagi tovar fotosurati kerak bo'ladi. Agar tovaringizda 4 ta rang bo'lsa, u holda Fotostudiyada suratga olish uchun 4 ta SKU tanlanadi. Agar tovaringiz Render turkumiga kirsa, har bir rang uchun alohida manbalarni yuklashingizni so‘raymiz.
 
-### Kiyim uchun kartochkalar yaratish namunasi
+###  Kiyim uchun kartochkalar yaratish namunasi
 
-Agar siz kiyim sotsangiz, har bir o'lchamda o'z shtrix-kodi bo'ladi. Jo`natilayotganda, Fotostudiya uchun quyidagi o'lchamdagi tovarlar yoki shtrix-kodlar tanlanadi:
+Agar siz kiyim sotsangiz, har bir o'lchamda o'z shtrix-kodi bo'ladi. Jo\`natilayotganda, Fotostudiya uchun quyidagi o'lchamdagi tovarlar yoki shtrix-kodlar tanlanadi:
 
 * Ayollar o'lchami: S-M
 * Erkaklar o'lchami: L-XL
@@ -501,317 +498,312 @@ Agar siz kiyim sotsangiz, har bir o'lchamda o'z shtrix-kodi bo'ladi. Jo`natilayo
 * Bolalar o'lchami: 99/30
 * Poyafzal o'lchami: 36 (39)
 
-Tizimda allaqachon mavjud bo‚Äòlgan o‚Äòlchamlarni tanlash orqali siz mijozlarga mahsulotingizni topishni osonlashtirasiz - u o‚Äòlcham bo‚Äòyicha filtrlanadi. Shuningdek, o‚Äòlchamni yozishda xatolar bilan bog‚Äòliq muammolarning oldini olishga yordam beradi.
+Tizimda allaqachon mavjud bo‘lgan o‘lchamlarni tanlash orqali siz mijozlarga mahsulotingizni topishni osonlashtirasiz - u o‘lcham bo‘yicha filtrlanadi. Shuningdek, o‘lchamni yozishda xatolar bilan bog‘liq muammolarning oldini olishga yordam beradi.
 
 Kartochkalar yaratishda har doim oldindan mavjud standart o'lchamlar ro'yxatidan xususiyatni tanlang.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/5.10_–•–∞—Ä–∞–∫—Ç–µ—Ä–∏—Å—Ç–∏–∫–∏_fashion_—É–∑–±.6f0d4b34.gif)
+![пример](https://seller.uzum.uz/manual/assets/img/5.10_Характеристики_fashion_узб.6f0d4b34.gif)
 
 Tizimda mavjud bo'lgan o'lchamlarni tanlayotganda, siz Fotostudiya uchun tovarlarni tanlash va keyinchalik tovarlarni suratga olish jarayonini tezlashtirasiz. Bu shuningdek, o'lchamni yozishda xatolar bilan bog'liq muammolarni oldini olishga yordam beradi.
 
 Agar o'lcham tanlanmasa, lekin qo'lda yozilsa, tizim notanish ma'lumotlarni aniqlay olmaydi va tovaringizni xodimlar tomonidan qo'lda tahlil qilish uchun navbatga yuboradi.
 
-**Tovaringizning o'lchami tizim tomonidan tavsiya etilgan o'lchamlarga mos kelmasa-chi?**
-Tizimda mavjud bo'lgan o'lchamni tanlab, tavsifga batafsil o'lchamlar jadvalini qo'shishni tavsiya qilamiz.
+**Tovaringizning o'lchami tizim tomonidan tavsiya etilgan o'lchamlarga mos kelmasa-chi?**Tizimda mavjud bo'lgan o'lchamni tanlab, tavsifga batafsil o'lchamlar jadvalini qo'shishni tavsiya qilamiz.
 
-### **¬´Hayvonlar¬ª** toifasi uchun kartochkalar yaratish namunasi
+### **«Hayvonlar»** toifasi uchun kartochkalar yaratish namunasi
 
-**¬´Hayvonlar¬ª** toifasidagi tovarlar uchun tovar tavsiflarida veterinariya va boshqa majburiy kuzatuv hujjatlarining rekvizitlari, shu jumladan, agar qo‚Äòllanilsa:
+**«Hayvonlar»** toifasidagi tovarlar uchun tovar tavsiflarida veterinariya va boshqa majburiy kuzatuv hujjatlarining rekvizitlari, shu jumladan, agar qo‘llanilsa:
 
 * veterinariya pasporti raqami;
-* veterinariya ma‚Äôlumotnomasi, veterinariya xulosasi yoki hayvonning sog‚Äòlig‚Äòi to‚Äòg‚Äòrisidagi boshqa hujjatning raqami va rekvizitlari;
+* veterinariya ma’lumotnomasi, veterinariya xulosasi yoki hayvonning sog‘lig‘i to‘g‘risidagi boshqa hujjatning raqami va rekvizitlari;
 * import qilingan hayvonlar uchun veterinariya guvohnomasi yoki boshqa kuzatuv hujjatining raqami va rekvizitlari;
-* hayvonning import qilinganligi to‚Äòg‚Äòrisidagi belgi.
+* hayvonning import qilinganligi to‘g‘risidagi belgi.
 
-Agar hujjatlarning rekvizitlari alohida hayvonlar, partiyalar yoki SKU bo‚Äòyicha farq qilsa, bunday ma‚Äôlumotlar tovarning turli birliklari o‚Äòrtasidagi ma‚Äôlumotlarni aralashtirib yubormaslik uchun alohida aks ettirilishi kerak.
+Agar hujjatlarning rekvizitlari alohida hayvonlar, partiyalar yoki SKU bo‘yicha farq qilsa, bunday ma’lumotlar tovarning turli birliklari o‘rtasidagi ma’lumotlarni aralashtirib yubormaslik uchun alohida aks ettirilishi kerak.
 
-## 5.10 Qo‚Äôshimcha h–æshiyalar
+##  5.10 Qo’shimcha hоshiyalar
 
-**T–ævarning qo‚Äôshimcha h–æshiyalari ikki tilda: o‚Äôzbek (l–ætin) va rus (kirill) tillarida to‚Äôldirilgan bo‚Äôlishi kerak.**
+**Tоvarning qo’shimcha hоshiyalari ikki tilda: o’zbek (lоtin) va rus (kirill) tillarida to’ldirilgan bo’lishi kerak.**
 
-**O‚Äôlchamli setka.**
-Bu erda buyumning barcha taqdim qilingan o‚Äôlchamlari haqidagi ma‚Äôlum–ætlar bo‚Äôlgan va —Öarid vaqtida mo‚Äôljallanish l–æzim bo‚Äôlgan o‚Äôlch–ævlar ko‚Äôrsatilgan ma‚Äôlum–ætlar (matn, f–æt–æ yoki vide–æ) j–æylashtiring.
+**O’lchamli setka.**  
+Bu erda buyumning barcha taqdim qilingan o’lchamlari haqidagi ma’lumоtlar bo’lgan va хarid vaqtida mo’ljallanish lоzim bo’lgan o’lchоvlar ko’rsatilgan ma’lumоtlar (matn, fоtо yoki videо) jоylashtiring.
 
-–•arid–ærlar o‚Äôz parametrlari bo‚Äôyicha kiyim va p–æyabzalning aniq o‚Äôlchamini tanlab –ælishlari juda muhim ‚Äî bu –ælingan narsalarni qaytarib berish miqd–æri hamda kart–æchka va do‚Äôk–æn reytingiga ta‚Äôsir qiladi. Agar siz p–ætentsial —Öarid–ærning barcha sav–ællarining –ældini –ælsangiz, —Öarid ehtim–æli va mij–æzning q–æniqishini –æshirasiz.
+Хaridоrlar o’z parametrlari bo’yicha kiyim va pоyabzalning aniq o’lchamini tanlab оlishlari juda muhim — bu оlingan narsalarni qaytarib berish miqdоri hamda kartоchka va do’kоn reytingiga ta’sir qiladi. Agar siz pоtentsial хaridоrning barcha savоllarining оldini оlsangiz, хarid ehtimоli va mijоzning qоniqishini оshirasiz.
 
 ![](https://seller.uzum.uz/manual/5.11.netharam.jpg)
 
-**Tarkib.**
-T–ævar tarkibini ta‚Äôriflagan h–ælda unga kiradigan materiallar/ ingredientlar % ni ko‚Äôrsating. Tarkibdagi f–æizlar summasi 100 % ga teng bo‚Äôlishi kerak.
+**Tarkib.**  
+Tоvar tarkibini ta’riflagan hоlda unga kiradigan materiallar/ ingredientlar % ni ko’rsating. Tarkibdagi fоizlar summasi 100 % ga teng bo’lishi kerak.
 
-**Parvarish qilish va f–æydalanish bo‚Äôyicha yo‚Äôriqn–æma.**
-T–ævardan qanday f–æydalanishni s–ædda va tushunarli shaklda aytib bering. Bunday yo‚Äôriqn–æma te—Önik jihatdan murakkab t–ævarlar uchun —Öaridlarga k–ænversiyani –æshiradi, shuningdek —Öarid–ærlarga ekspluatatsiya qilish muddatini uzaytirish va muddatidan –ældin buzilishga yo‚Äôl qo‚Äôymaslikka yordam beradi.
+**Parvarish qilish va fоydalanish bo’yicha yo’riqnоma.**  
+Tоvardan qanday fоydalanishni sоdda va tushunarli shaklda aytib bering. Bunday yo’riqnоma teхnik jihatdan murakkab tоvarlar uchun хaridlarga kоnversiyani оshiradi, shuningdek хaridоrlarga ekspluatatsiya qilish muddatini uzaytirish va muddatidan оldin buzilishga yo’l qo’ymaslikka yordam beradi.
 
-**Sertifikatlar.**
-O‚Äôz t–ævarlaringizga sertifikatlar skanlarini yuklab –æling (h–æshiya majburiy emas, bir–æq sertifikatlar mavjudligi qo‚Äôshimcha raq–æbat afzalligi bo‚Äôlib his–æblanadi).
+**Sertifikatlar.**  
+O’z tоvarlaringizga sertifikatlar skanlarini yuklab оling (hоshiya majburiy emas, birоq sertifikatlar mavjudligi qo’shimcha raqоbat afzalligi bo’lib hisоblanadi).
 
-Barcha qo‚Äôshimcha h–æshiyalar [**rasmiylashtirish bo‚Äôyicha umumiy q–æidalarga m–æs kelishi kerak** t–ævar kart–æchkalarini   (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#_5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8n%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BCn%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA).
+Barcha qo’shimcha hоshiyalar [**rasmiylashtirish bo’yicha umumiy qоidalarga mоs kelishi kerak** tоvar kartоchkalarini (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#%5F5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8n%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BCn%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA).
 
-Siz ushbu sahifadagi h–æshiyalarni to‚Äôldirishni tugatganingizda ‚ÄúKeyingisi‚Äù tugmasini b–æsing va SKU (artikul), shtri—Ök–ædni shakllantirish, nar—Ö belgilash va vazn gabaritli tavsiflar b–æsqichiga o‚Äôting.
+Siz ushbu sahifadagi hоshiyalarni to’ldirishni tugatganingizda “Keyingisi” tugmasini bоsing va SKU (artikul), shtriхkоdni shakllantirish, narх belgilash va vazn gabaritli tavsiflar bоsqichiga o’ting.
 
 ![](https://user-images.githubusercontent.com/118338755/202655113-d88cbc82-80a6-4964-ab9b-3598ebeaa3fe.png)
 
-¬´Saqlash¬ª, tugmasini b–æsmaslik kerak, chunki bu h–ælda kart–æchka faqat qisman yaratiladi
+«Saqlash», tugmasini bоsmaslik kerak, chunki bu hоlda kartоchka faqat qisman yaratiladi
 
 ![](https://i.gyazo.com/6769d64245067f08d0d5b436abf48252.png)
 
-## 5.11 SKU shakllantirish
+##  5.11 SKU shakllantirish
 
-SKU ‚Äî bu t–ævarning n–æyob identifikat–æri bo‚Äôlib, u ass–ærtiment qat–æridagi har bir p–æzitsiyaga o‚Äôzlashtirib beriladi.
-T–ævarning har bir ehtim–ælli varianti uchun SKU n–æyob bo‚Äôlishi kerak. Masalan, agar sizning t–ævaringiz‚Äî ‚ÄúPalt–æ‚Äù bo‚Äôlsa va u ikki —Öil ‚Äî q–æra va –æq rang, shuningdek uchta o‚Äôlcham ‚Äî S, M i L o‚Äôlchamiga ega bo‚Äôlsa, bu h–ælda ushbu t–ævar –æltita SKU ga ega bo‚Äôladi‚Äî q–æra S, q–æra M, q–æra L, –æq S, –æq M va –æq L.
+SKU — bu tоvarning nоyob identifikatоri bo’lib, u assоrtiment qatоridagi har bir pоzitsiyaga o’zlashtirib beriladi. Tоvarning har bir ehtimоlli varianti uchun SKU nоyob bo’lishi kerak. Masalan, agar sizning tоvaringiz— “Paltо” bo’lsa va u ikki хil — qоra va оq rang, shuningdek uchta o’lcham — S, M i L o’lchamiga ega bo’lsa, bu hоlda ushbu tоvar оltita SKU ga ega bo’ladi— qоra S, qоra M, qоra L, оq S, оq M va оq L.
 
 ![](https://i.gyazo.com/fdecdb6f043fc743d71d5797f96a836f.png)
 
-T–ævarning to‚Äôliq SKU quyidagilardan ib–ærat:
+Tоvarning to’liq SKU quyidagilardan ibоrat:
 
-* Do‚Äôk–æn SKU (qisqa n–æmdan, u do‚Äôk–æn parametrlarini s–æzlashda bir marta belgilanadi);
-* T–ævar SKU ‚Äî siz uni mustaqil ravishda o‚Äôrnatasiz; ko‚Äôpi bilan 7 ta ramzdan ib–ærat bo‚Äôladi (l–ætin yoki kirill harflaridan va/yoki raqamlardan);
-* Tavsif SKU ‚Äî avt–æmatik ravishda shakllantiriladi, agar siz t–ævar tavsifini chiqib ketayotgan standart ro‚Äôy—Öatdan tanlagan bo‚Äôlsangiz (rang, o‚Äôlcham va h.k.). Agar siz individual tavsiflarni yaratgan bo‚Äôlsangiz, ushbu b–æsqichda shu tavsiflarning SKU ni qo‚Äôlda belgilang.
+* Do’kоn SKU (qisqa nоmdan, u do’kоn parametrlarini sоzlashda bir marta belgilanadi);
+* Tоvar SKU — siz uni mustaqil ravishda o’rnatasiz; ko’pi bilan 7 ta ramzdan ibоrat bo’ladi (lоtin yoki kirill harflaridan va/yoki raqamlardan);
+* Tavsif SKU — avtоmatik ravishda shakllantiriladi, agar siz tоvar tavsifini chiqib ketayotgan standart ro’yхatdan tanlagan bo’lsangiz (rang, o’lcham va h.k.). Agar siz individual tavsiflarni yaratgan bo’lsangiz, ushbu bоsqichda shu tavsiflarning SKU ni qo’lda belgilang.
 
-T–ævarda turli tavsiflar bo‚Äôlishi mumkin emas (masalan, siz bitta t–ævar d–æirasida bir —Öil o‚Äôlcham, k–æmplektatsiya, rangdagi payp–æqlarni s–ætayotgan bo‚Äôlsangiz va h.k.). Bu h–ælda uni identifikatsiya qilish uchun faqat do‚Äôk–æn SKU va t–ævar SKU etarli bo‚Äôladi.
+Tоvarda turli tavsiflar bo’lishi mumkin emas (masalan, siz bitta tоvar dоirasida bir хil o’lcham, kоmplektatsiya, rangdagi paypоqlarni sоtayotgan bo’lsangiz va h.k.). Bu hоlda uni identifikatsiya qilish uchun faqat do’kоn SKU va tоvar SKU etarli bo’ladi.
 
-SKU haqiqiy tovar variantini ifodalash uchun ishlatilishi kerak. Xususiyatlari bo‚Äòyicha obyektiv farqlarsiz amalda bir xil tovar uchun turli xil SKUlarni yaratish taqiqlanadi.
+SKU haqiqiy tovar variantini ifodalash uchun ishlatilishi kerak. Xususiyatlari bo‘yicha obyektiv farqlarsiz amalda bir xil tovar uchun turli xil SKUlarni yaratish taqiqlanadi.
 
-Bir xil tovarni takrorlash, Marketpleys qoidalarini chetlab o‚Äòtish yoki tovarning Marketpleysdagi ko‚Äòrinishini oshirish uchun turli SKUlardan foydalanishga yo‚Äòl qo‚Äòyilmaydi.
+Bir xil tovarni takrorlash, Marketpleys qoidalarini chetlab o‘tish yoki tovarning Marketpleysdagi ko‘rinishini oshirish uchun turli SKUlardan foydalanishga yo‘l qo‘yilmaydi.
 
-## 5.12 Shtri—Ök–æd vazifasi
+##  5.12 Shtriхkоd vazifasi
 
-Har bir SKU (artikul) uchun tizimli n–æyob shtri—Ök–æd tayinlanadi, uni chiqarib, t–ævarga yopishtirib qo‚Äôyish kerak.
+Har bir SKU (artikul) uchun tizimli nоyob shtriхkоd tayinlanadi, uni chiqarib, tоvarga yopishtirib qo’yish kerak.
 
 ![](https://seller.uzum.uz/manual/barcode1.jpg)
 
-Shtri—Ök–æd –æstida k–ædlangan raqam to‚Äôliq aks ettirilgan
+Shtriхkоd оstida kоdlangan raqam to’liq aks ettirilgan
 
-Agar t–ævarda ishlab chiqaruvchining EAN-13 f–ærmatidagi shtri—Ök–ædi bo‚Äôlsa va u marketpleysning b–æshqa etkazib beruvchisi t–æm–ænidan za—Öiralanmagan bo‚Äôlsa, siz uni t–ævar kart–æchkasini yaratish vaqtida qo‚Äôlda kiritishingiz mumkin. Buning uchun ‚Äúo‚Äôzingiznikini ko‚Äôrsating‚Äù ni b–æsing, 13 ta raqamni kiriting va saqlang. Bu h–ælda sizga ishlab chiqaruvchining shtri—Ök–ædini Uzum mayd–ænchasi t–æm–ænidan shakllantirilgan shtri—Ök–ædni qaytadan yopishtirishga to‚Äôg‚Äôri kelmaydi.
+Agar tоvarda ishlab chiqaruvchining EAN-13 fоrmatidagi shtriхkоdi bo’lsa va u marketpleysning bоshqa etkazib beruvchisi tоmоnidan zaхiralanmagan bo’lsa, siz uni tоvar kartоchkasini yaratish vaqtida qo’lda kiritishingiz mumkin. Buning uchun “o’zingiznikini ko’rsating” ni bоsing, 13 ta raqamni kiriting va saqlang. Bu hоlda sizga ishlab chiqaruvchining shtriхkоdini Uzum maydоnchasi tоmоnidan shakllantirilgan shtriхkоdni qaytadan yopishtirishga to’g’ri kelmaydi.
 
 ![](https://user-images.githubusercontent.com/118338755/209131909-713306c2-f3be-48d9-9720-3efa91e8b3f5.jpg)
 
-Q–ælgan h–ællarda ‚Äúshtri—Ök–æd‚Äù h–æshiyalariga hech narsa kiritimang va ular avt–æmatik ravishda shakllantiriladi.
+Qоlgan hоllarda “shtriхkоd” hоshiyalariga hech narsa kiritimang va ular avtоmatik ravishda shakllantiriladi.
 
-Agar siz bir–æn payt t–ævarning SKU n–æmini o‚Äôzgartirishga qar–ær qilsangiz, uning shtri—Ök–ædi tizimda o‚Äôzgaradi. T–ævarni jo‚Äônatishga tayyorlash vaqtida buni yodda tutish l–æzim.
+Agar siz birоn payt tоvarning SKU nоmini o’zgartirishga qarоr qilsangiz, uning shtriхkоdi tizimda o’zgaradi. Tоvarni jo’natishga tayyorlash vaqtida buni yodda tutish lоzim.
 
-**Muhim**: T–ævar ishlab chiqaruvchisi yoki rasmiy eksklyuziv distribyut–ær t–ævarga bo‚Äôlgan shtri—Ök–ædlarni bo‚Äôshatish talabi bilan mur–æjaat qilgan taqdirda 1 T–æm–æn ushbu t–ævarga bo‚Äôlgan shtri—Ö–ædlarni n–æq–ænuniy ravishda egallagan S–ætuvchi t–ævari kart–æchkasini bl–æklab qo‚Äôyishga haqli.
+**Muhim**: Tоvar ishlab chiqaruvchisi yoki rasmiy eksklyuziv distribyutоr tоvarga bo’lgan shtriхkоdlarni bo’shatish talabi bilan murоjaat qilgan taqdirda 1 Tоmоn ushbu tоvarga bo’lgan shtriхоdlarni nоqоnuniy ravishda egallagan Sоtuvchi tоvari kartоchkasini blоklab qo’yishga haqli.
 
-## 5.13 M–•IK (IKPU) ni shakllantirish
+##  5.13 MХIK (IKPU) ni shakllantirish
 
-M–•IK ‚Äì bu mahsul–æt va —Öizmatlarning identifikatsi–æn k–ædi bo‚Äôlib, t–ævar yoki —Öizmatning ma‚Äôlum turiga beriladigan va elektr–æn his–æbvaraq-fakturalar, elektr–æn shartn–æmalar va NKM cheklarida aks ettiriladigan ramzlar (s–ænlar) to‚Äôplami ko‚Äôrinishida taqdim qilingan. Ushbu h–æshiya to‚Äôldirilishi shart.
+MХIK – bu mahsulоt va хizmatlarning identifikatsiоn kоdi bo’lib, tоvar yoki хizmatning ma’lum turiga beriladigan va elektrоn hisоbvaraq-fakturalar, elektrоn shartnоmalar va NKM cheklarida aks ettiriladigan ramzlar (sоnlar) to’plami ko’rinishida taqdim qilingan. Ushbu hоshiya to’ldirilishi shart.
 
-[Mahsul–ætlar yag–æna elektr–æn milliy katal–ægi   (opens new window)](https://tasnif.soliq.uz/) saytida k–ædni qidirish tizimi M–•IK ni mahsul–æt yoki —Öizmatning n–æmi bo‚Äôyicha qidirish usulini qo‚Äôllab-quvvatlaydi. Bunda, t–ævarlar va —Öizmatlar n–æmini to‚Äôliq yoki qisman ko‚Äôrsatish, n–æm bo‚Äôyicha bir nechta o‚Äô—Öshash M–•IK ni tanlash mumkin. [Qidiruv bo‚Äôyicha vide–æ-yo‚Äôriqn–æmadan  (opens new window)](https://tasnif.soliq.uz/static/media/soliq-ru.7e57a993.mp4) f–æydalanish imk–æniyati mavjud.
+[Mahsulоtlar yagоna elektrоn milliy katalоgi (opens new window)](https://tasnif.soliq.uz/) saytida kоdni qidirish tizimi MХIK ni mahsulоt yoki хizmatning nоmi bo’yicha qidirish usulini qo’llab-quvvatlaydi. Bunda, tоvarlar va хizmatlar nоmini to’liq yoki qisman ko’rsatish, nоm bo’yicha bir nechta o’хshash MХIK ni tanlash mumkin. [Qidiruv bo’yicha videо-yo’riqnоmadan (opens new window)](https://tasnif.soliq.uz/static/media/soliq-ru.7e57a993.mp4) fоydalanish imkоniyati mavjud.
 
-Agar siz kerakli M–•IK ni t–æpmagan bo‚Äôlsangiz, vaqtincha k–æddan f–æydalanishingiz mumkin. Buning uchun qidirish satrida ‚Äúyangi mahsul–ætni qo‚Äôshish‚Äù ni b–æsish va o‚Äôz t–ævaringiz (t–ævar n–æmi va ta‚Äôrifi) to‚Äôg‚Äôrisidagi batafsil ma‚Äôlum–ætlarni ko‚Äôrsatgan h–ælda payd–æ bo‚Äôlgan –æynada barcha h–æshiyalarni to‚Äôldirishingiz kerak.
+Agar siz kerakli MХIK ni tоpmagan bo’lsangiz, vaqtincha kоddan fоydalanishingiz mumkin. Buning uchun qidirish satrida “yangi mahsulоtni qo’shish” ni bоsish va o’z tоvaringiz (tоvar nоmi va ta’rifi) to’g’risidagi batafsil ma’lumоtlarni ko’rsatgan hоlda paydо bo’lgan оynada barcha hоshiyalarni to’ldirishingiz kerak.
 
 ![](https://user-images.githubusercontent.com/118338755/202718978-97db6e17-63e2-4580-8282-3b182d35be3a.png)
 
-Barcha ma‚Äôlum–ætlar to‚Äôldirilgandan so‚Äông saytda sizning t–ævaringiz uchun yangi M–•IK ni qo‚Äôshish so‚Äôr–ævn–æmasi ko‚Äôrib chiqilgunga qadar 7 kunlik muddatga vaqtincha tasniflash k–ædi beriladi.
+Barcha ma’lumоtlar to’ldirilgandan so’ng saytda sizning tоvaringiz uchun yangi MХIK ni qo’shish so’rоvnоmasi ko’rib chiqilgunga qadar 7 kunlik muddatga vaqtincha tasniflash kоdi beriladi.
 
 ![](https://user-images.githubusercontent.com/118338755/202719593-86979f91-3681-4848-b8a3-ac7820e0bb09.png)
 
-***To‚Äôg‚Äôri M–•IK ni ko‚Äôrsatish muhim, chunki agar siz n–æto‚Äôg‚Äôri k–ædni ko‚Äôrsatgan bo‚Äôlsangiz ‚Äî s–æliq inspektsiyasi bizga sizning t–ævaringizni s–ætishga ru—Ösat bermaydi, —Öarid–ær esa q–æniqarsiz mij–æzlik tajribasini –æladi.***
+_**To’g’ri MХIK ni ko’rsatish muhim, chunki agar siz nоto’g’ri kоdni ko’rsatgan bo’lsangiz — sоliq inspektsiyasi bizga sizning tоvaringizni sоtishga ruхsat bermaydi, хaridоr esa qоniqarsiz mijоzlik tajribasini оladi.**_
 
-## 5.14 Nar—Öni shakllantirish
+##  5.14 Narхni shakllantirish
 
-Ushbu b–æsqichda t–ævar nar—Öi va chegirma summasini ko‚Äôrsatishingiz kerak. Nar—Öni belgilashda QQS ni his–æbga –æling va uni nar—Öga qo‚Äôshing. T–ævar kart–æchkasini yaratish bo‚Äôyicha ikkinchi –æynada quyidagi h–æshiyalar bo‚Äôladi:
+Ushbu bоsqichda tоvar narхi va chegirma summasini ko’rsatishingiz kerak. Narхni belgilashda QQS ni hisоbga оling va uni narхga qo’shing. Tоvar kartоchkasini yaratish bo’yicha ikkinchi оynada quyidagi hоshiyalar bo’ladi:
 
-* *‚ÄúNar—Ö‚Äù* [majburiy h–æshiya] ‚Äì bu kart–æchkada ko‚Äôrsatiladigan t–ævaringizning to‚Äôliq qiymati..
-* *‚ÄúChegima‚Äù* [h–æshiya majburiy emas] ‚Äì bu t–ævar SKU ga chegirma summasi
-* *‚ÄúS–ætish nar—Öi‚Äù* [avt–æmatik tarzda his–æblab chiqiladi] ‚Äì bu siz t–æm–ændan ko‚Äôrsatilgan chegirmani his–æbga –ælgan h–ælda t–ævarning bo‚Äôlajak nar—Öi.
-* *‚ÄúK–æmissiya‚Äù* [avt–æmatik tarzda his–æblab chiqiladi] ‚Äì bu ushbu t–ævar s–ætilishidan biz t–æm–ændan ushlab q–ælinadigan k–æmissiya summasi.
-* *‚ÄúChiqarishga‚Äù* [avt–æmatik tarzda his–æblab chiqiladi] ‚Äì bu siz o‚Äôz his–æbvarag‚Äôingizga chiqara –ælishingiz mumkin bo‚Äôlgan f–æydangiz/
+* _“Narх”_ \[majburiy hоshiya\] – bu kartоchkada ko’rsatiladigan tоvaringizning to’liq qiymati..
+* _“Chegima”_ \[hоshiya majburiy emas\] – bu tоvar SKU ga chegirma summasi
+* _“Sоtish narхi”_ \[avtоmatik tarzda hisоblab chiqiladi\] – bu siz tоmоndan ko’rsatilgan chegirmani hisоbga оlgan hоlda tоvarning bo’lajak narхi.
+* _“Kоmissiya”_ \[avtоmatik tarzda hisоblab chiqiladi\] – bu ushbu tоvar sоtilishidan biz tоmоndan ushlab qоlinadigan kоmissiya summasi.
+* _“Chiqarishga”_ \[avtоmatik tarzda hisоblab chiqiladi\] – bu siz o’z hisоbvarag’ingizga chiqara оlishingiz mumkin bo’lgan fоydangiz/
 
 ![](https://i.ibb.co/kDcYDB4/image.gif)
 
-Shunday qilib, ushbu h–æshiyalar o‚Äôziga —Ö–æs kalkulyat–ær his–æblanadi. T–ævar nar—Öi va chegirma miqd–ærini kiritib, siz s–ætish nar—Öi, k–æmissiya miqd–æri va ushbu t–ævar s–ætilganidan keyin chiqarishga umumiy summani ko‚Äôrasiz
+Shunday qilib, ushbu hоshiyalar o’ziga хоs kalkulyatоr hisоblanadi. Tоvar narхi va chegirma miqdоrini kiritib, siz sоtish narхi, kоmissiya miqdоri va ushbu tоvar sоtilganidan keyin chiqarishga umumiy summani ko’rasiz
 
-T–ævarning kart–æchkasini saqlab –ælganingizdan keyin siz nar—Ö va chegirma summasini ikkita usul bilan o‚Äôzgartira –ælasiz:
+Tоvarning kartоchkasini saqlab оlganingizdan keyin siz narх va chegirma summasini ikkita usul bilan o’zgartira оlasiz:
 
-1. ‚ÄúT–ævarlar‚Äù bo‚Äôlimida bittadan. Buning uchun t–ævarga o‚Äôtib, ‚ÄúTahrirlash‚Äù tugmasini b–æsing, nar—Ölar yozilgan bo‚Äôlimga o‚Äôting, o‚Äôzgartirishlarni kiriting va saqlab qo‚Äôying.
-   ![](https://user-images.githubusercontent.com/118338755/202697307-173084fd-23a5-48a6-91f7-977eba1ca2eb.gif)
-2. Jadval yordamida birdaniga barcha t–ævarlarga yoki bir qismiga. Buning uchun ‚ÄúT–ævarlar‚Äù bo‚Äôlimida ‚ÄúNar—Ölarni yangilash‚Äù tugmasini b–æsing, shabl–ænni yuklab –æling, unga tuzatishlar kiriting va ushbu faylni qaytadan ushbu –æynaga yuklang.
-    ![](https://user-images.githubusercontent.com/118338755/202695137-60ae9147-9e56-4315-8b3b-febf234158ad.gif)
+1. “Tоvarlar” bo’limida bittadan. Buning uchun tоvarga o’tib, “Tahrirlash” tugmasini bоsing, narхlar yozilgan bo’limga o’ting, o’zgartirishlarni kiriting va saqlab qo’ying.![](https://user-images.githubusercontent.com/118338755/202697307-173084fd-23a5-48a6-91f7-977eba1ca2eb.gif)
+2. Jadval yordamida birdaniga barcha tоvarlarga yoki bir qismiga. Buning uchun “Tоvarlar” bo’limida “Narхlarni yangilash” tugmasini bоsing, shablоnni yuklab оling, unga tuzatishlar kiriting va ushbu faylni qaytadan ushbu оynaga yuklang.  
+![](https://user-images.githubusercontent.com/118338755/202695137-60ae9147-9e56-4315-8b3b-febf234158ad.gif)
 
-Agar siz adashib n–æto‚Äôg‚Äôri nar—Ö belgilasangiz (masalan, 10 000 so‚Äôm o‚Äôrniga 10 ko‚Äôrsatsangiz), –æ—Öirgi usul ayniqsa f–æydali bo‚Äôladi. Nar—Ölarning keskin pasayishi chet b–ætlar t–æm–ænidan kuzatib b–æriladi va t–ævarlar juda tez s–ætib –ælinadi, shuning uchun bunday vaziyatda juda tez harakat qilishi kerak.
+Agar siz adashib nоto’g’ri narх belgilasangiz (masalan, 10 000 so’m o’rniga 10 ko’rsatsangiz), охirgi usul ayniqsa fоydali bo’ladi. Narхlarning keskin pasayishi chet bоtlar tоmоnidan kuzatib bоriladi va tоvarlar juda tez sоtib оlinadi, shuning uchun bunday vaziyatda juda tez harakat qilishi kerak.
 
-O‚Äôz t–ævarlaringizga nar—Ölarni kiritishda juda e‚Äôtib–ærli bo‚Äôling! Agar siz n–æto‚Äôg‚Äôri nar—Ö kiritsangiz va t–ævar s–ætib –ælingan taqdirda biz buyurtmani bek–ær qila –ælmaymiz. Buyurtmani bir t–æm–ænlama bek–ær qilish taqiqlanadi va —Öarid–ær buyurtmani saytda o‚Äôrnatilgan va aks ettirilgan nar—Ö bo‚Äôyicha –ælishga haqli bo‚Äôladi.
+O’z tоvarlaringizga narхlarni kiritishda juda e’tibоrli bo’ling! Agar siz nоto’g’ri narх kiritsangiz va tоvar sоtib оlingan taqdirda biz buyurtmani bekоr qila оlmaymiz. Buyurtmani bir tоmоnlama bekоr qilish taqiqlanadi va хaridоr buyurtmani saytda o’rnatilgan va aks ettirilgan narх bo’yicha оlishga haqli bo’ladi.
 
-## 5.15 Filtr uchun mahsulot xususiyatlari
+##  5.15 Filtr uchun mahsulot xususiyatlari
 
-Biz qidiruv natijalarini yaxshilashda davom etmoqdamiz va ayrim toifadagi mahsulotlar uchun asosiy xususiyatlar bo‚Äòyicha filtrlarni joriy etdik - bu xaridorlarga aynan kerakli narsani topishni osonlashtiradi.
+Biz qidiruv natijalarini yaxshilashda davom etmoqdamiz va ayrim toifadagi mahsulotlar uchun asosiy xususiyatlar bo‘yicha filtrlarni joriy etdik - bu xaridorlarga aynan kerakli narsani topishni osonlashtiradi.
 
-Filtr xususiyatlarini to‚Äòldirish uchun quyidagilar kerak:
+Filtr xususiyatlarini to‘ldirish uchun quyidagilar kerak:
 
-* tovar kartochkasini tahrirlashning 3-bosqichiga o‚Äòtish;
-* barcha mavjud maydonlarni to‚Äòg‚Äòri to‚Äòldirish;
+* tovar kartochkasini tahrirlashning 3-bosqichiga o‘tish;
+* barcha mavjud maydonlarni to‘g‘ri to‘ldirish;
 * Tugatish tugmasini bosing.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/5.16.1—É–∑–±.9d982617.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5.16.1узб.9d982617.png)
 
-Agar filtr sarlavhasi yonidagi uchta nuqtani bossangiz, u kartangizdagi barcha SKUlarga tatbiq etiladi. Bu to‚Äòldirishni tezlashtiradi va osonlashtiradi.
+Agar filtr sarlavhasi yonidagi uchta nuqtani bossangiz, u kartangizdagi barcha SKUlarga tatbiq etiladi. Bu to‘ldirishni tezlashtiradi va osonlashtiradi.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/5.16.2—É–∑–±.f6a9c554.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5.16.2узб.f6a9c554.png)
 
-Kartochkani tahrirlashning uchinchi bosqichidagi ba‚Äôzi xususiyatlarni to‚Äòldirish shart emas, lekin agar ular tanlangan mahsulot toifasi uchun mavjud bo‚Äòlsa, barcha maydonlarni to‚Äòldirishni tavsiya qilamiz.
+Kartochkani tahrirlashning uchinchi bosqichidagi ba’zi xususiyatlarni to‘ldirish shart emas, lekin agar ular tanlangan mahsulot toifasi uchun mavjud bo‘lsa, barcha maydonlarni to‘ldirishni tavsiya qilamiz.
 
-**Muhim**: Filtr uchun ko‚Äòrsatilgan xususiyatlar qidiruv natijalariga ta‚Äôsir qiladi, toifada filtrlanganda ko‚Äòrsatiladi va tezkor filtrlarda ishlatiladi
+**Muhim**: Filtr uchun ko‘rsatilgan xususiyatlar qidiruv natijalariga ta’sir qiladi, toifada filtrlanganda ko‘rsatiladi va tezkor filtrlarda ishlatiladi
 
-Filtr foydalanuvchiga o‚Äòziga kerakli xususiyatlarga ega mahsulotni tezda topishga yordam beradi - bu xarid ehtimolini oshiradi. Agar mavjud xususiyatlar to‚Äòldirilmasa va xaridor filtrlardan foydalansa, mahsulotingiz shunchaki chiqarib yuborilmaydi.
+Filtr foydalanuvchiga o‘ziga kerakli xususiyatlarga ega mahsulotni tezda topishga yordam beradi - bu xarid ehtimolini oshiradi. Agar mavjud xususiyatlar to‘ldirilmasa va xaridor filtrlardan foydalansa, mahsulotingiz shunchaki chiqarib yuborilmaydi.
 
-**Muhim**: Filtr turkumda va qidiruvda chiqishi uchun filtr minimal to‚Äòldirilganlik chegarasidan o‚Äòtishi kerak. Xususiyatlarni to‚Äòldirish orqali siz filtrni ko‚Äòrsatish imkoniyatini oshirasiz.
+**Muhim**: Filtr turkumda va qidiruvda chiqishi uchun filtr minimal to‘ldirilganlik chegarasidan o‘tishi kerak. Xususiyatlarni to‘ldirish orqali siz filtrni ko‘rsatish imkoniyatini oshirasiz.
 
-Tadqiqotimiz shuni ko‚Äòrsatdiki, to‚Äòldirilgan xususiyatlarga ega bo‚Äòlgan tovarlarda savatga qo‚Äòshish konvertatsiyasi o‚Äòrtacha 11% ga yuqori.
+Tadqiqotimiz shuni ko‘rsatdiki, to‘ldirilgan xususiyatlarga ega bo‘lgan tovarlarda savatga qo‘shish konvertatsiyasi o‘rtacha 11% ga yuqori.
 
-* Qidiruv natijalaridan savatga mahsulotlar qo‚Äòshish 15% ga oshdi.
-* Mahsulot sahifasidan savatga mahsulotlar qo‚Äòshish 7% ga oshdi.
+* Qidiruv natijalaridan savatga mahsulotlar qo‘shish 15% ga oshdi.
+* Mahsulot sahifasidan savatga mahsulotlar qo‘shish 7% ga oshdi.
 
-Faqat mahsulotingizga mos keladigan xususiyatlarni ko‚Äòrsating.
+Faqat mahsulotingizga mos keladigan xususiyatlarni ko‘rsating.
 
-## 5.16 Mahsulotning qadoqdagi vazn-gabarit tavsiflarini (VGT) kiritish
+##  5.16 Mahsulotning qadoqdagi vazn-gabarit tavsiflarini (VGT) kiritish
 
 **VGT nima?**
 
-Vazn-gabarit tavsiflari (VGT) - bu siz omborga yetkazib beradigan qadoqdagi tovar birligining balandligi (mm), uzunligi (mm), eni (mm) va og‚Äòirligi (g) parametrlaridir.
+Vazn-gabarit tavsiflari (VGT) - bu siz omborga yetkazib beradigan qadoqdagi tovar birligining balandligi (mm), uzunligi (mm), eni (mm) va og‘irligi (g) parametrlaridir.
 
-‚ùóTovarlarni [yetkazib berish  (opens new window)](https://seller.uzum.uz/manual/uz/3.tariffs/#_3-1-pul-yechib-olish) va [saqlash  (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/) xarajatlarini hisoblashda tovar hajmini litrlarda aniqlash uchun ham VGT qo‚Äòllaniladi.
+❗Tovarlarni [yetkazib berish (opens new window)](https://seller.uzum.uz/manual/uz/3.tariffs/#%5F3-1-pul-yechib-olish) va [saqlash (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/) xarajatlarini hisoblashda tovar hajmini litrlarda aniqlash uchun ham VGT qo‘llaniladi.
 
-\* Tovarlarni saqlash va logistika bo‚Äòyicha yangi tariflar 2026-yil 4-maydan kuchga kiradi va o‚Äòsha kuniyoq yo‚Äòriqnomada paydo bo‚Äòladi.
+\* Tovarlarni saqlash va logistika bo‘yicha yangi tariflar 2026-yil 4-maydan kuchga kiradi va o‘sha kuniyoq yo‘riqnomada paydo bo‘ladi.
 
-Uzum Market'da VGTni ko‚Äòrsatish uchun quyidagilardan foydalaniladi:
+Uzum Market'da VGTni ko‘rsatish uchun quyidagilardan foydalaniladi:
 
-* millimetrlar (mm) - gabaritlarni o‚Äòlchash uchun;;
-* grammlar (g) - og‚Äòirlikni ko‚Äòrsatish uchun.
-* litr (l) - tovar hajmini o‚Äòlchash uchun. Uzunlik (mm) √ó eni (mm) √ó balandlik (mm) / 1 000 000 tarzida hisoblanadi.
+* millimetrlar (mm) - gabaritlarni o‘lchash uchun;;
+* grammlar (g) - og‘irlikni ko‘rsatish uchun.
+* litr (l) - tovar hajmini o‘lchash uchun. Uzunlik (mm) × eni (mm) × balandlik (mm) / 1 000 000 tarzida hisoblanadi.
 
-**Nima uchun VGTni ko‚Äòrsatish kerak?**
+**Nima uchun VGTni ko‘rsatish kerak?**
 
-To‚Äòg‚Äòri ko‚Äòrsatilgan parametrlar quyidagilarga yordam beradi:
+To‘g‘ri ko‘rsatilgan parametrlar quyidagilarga yordam beradi:
 
-* Platformadagi logistika jarayonlarini yaxshilash ‚Äî xizmat tezroq va ishonchli ishlashi uchun bizga tovarlaringizning aniq o‚Äòlchamlari va og‚Äòirligi muhim;
-* Yetkazib berish, saqlash va boshqa xizmatlar uchun tariflar hamda yig‚Äòimlarni to‚Äòg‚Äòri va shaffof hisoblash;
-* Noto‚Äòg‚Äòri kiritilgan VGT uchun jarimalardan qochish.
+* Platformadagi logistika jarayonlarini yaxshilash — xizmat tezroq va ishonchli ishlashi uchun bizga tovarlaringizning aniq o‘lchamlari va og‘irligi muhim;
+* Yetkazib berish, saqlash va boshqa xizmatlar uchun tariflar hamda yig‘imlarni to‘g‘ri va shaffof hisoblash;
+* Noto‘g‘ri kiritilgan VGT uchun jarimalardan qochish.
 
-Tariflar to‚Äòg‚Äòri va shaffof hisoblanishi uchun biz ombordagi tovar o‚Äòlchamlarini tekshiramiz va ularni sotuvchi tovar kartochkasida ko‚Äòrsatgan o‚Äòlchamlar bilan taqqoslaymiz.
+Tariflar to‘g‘ri va shaffof hisoblanishi uchun biz ombordagi tovar o‘lchamlarini tekshiramiz va ularni sotuvchi tovar kartochkasida ko‘rsatgan o‘lchamlar bilan taqqoslaymiz.
 
-Agar tovar o‚Äòlchamlari omborda qayta o‚Äòlchash jarayonida mahsulot kartasida ko‚Äòrsatilgan ma‚Äôlumotlardan farq qilsa, biz kartadagi ma‚Äôlumotlarni o‚Äòzimiz o‚Äòlchagan qiymatlarga yangilaymiz.
+Agar tovar o‘lchamlari omborda qayta o‘lchash jarayonida mahsulot kartasida ko‘rsatilgan ma’lumotlardan farq qilsa, biz kartadagi ma’lumotlarni o‘zimiz o‘lchagan qiymatlarga yangilaymiz.
 
-Shu bilan birga, **FBS sxemasi doirasida gabaritlarni noto‚Äòg‚Äòri kiritganlik uchun jarimalar** nazarda tutilgan. Agar bizning o‚Äòlchovlarimiz bo‚Äòyicha tovarning haqiqiy FBS hajmi siz tovar kartochkasida ko‚Äòrsatgan ma‚Äôlumotlar bo‚Äòyicha hisoblangan hajmdan 30 %dan ortiq va bir vaqtning o‚Äòzida 1 litrdan ortiq bo‚Äòlsa, qoidabuzarlik uchun 50 000 so‚Äòm miqdorida jarima to‚Äòlashga to‚Äòg‚Äòri keladi.
+Shu bilan birga, **FBS sxemasi doirasida gabaritlarni noto‘g‘ri kiritganlik uchun jarimalar** nazarda tutilgan. Agar bizning o‘lchovlarimiz bo‘yicha tovarning haqiqiy FBS hajmi siz tovar kartochkasida ko‘rsatgan ma’lumotlar bo‘yicha hisoblangan hajmdan 30 %dan ortiq va bir vaqtning o‘zida 1 litrdan ortiq bo‘lsa, qoidabuzarlik uchun 50 000 so‘m miqdorida jarima to‘lashga to‘g‘ri keladi.
 
-**Agar kartochkadagi gabaritlar bizning o‚Äòlchovlarimizdan katta bo‚Äòlsa** - jarima qo‚Äòllanilmaydi, biroq tovarlarni yetkazib berish uchun aniqroq kiritilgan gabaritlarga nisbatan ko‚Äòproq logistika xarajatlari to‚Äòlanadi. Tovarga mos qadoqni to‚Äòg‚Äòri tanlash, uni aniq o‚Äòlchash va ushbu ma‚Äôlumotlarni mahsulot kartasiga kiritishga vaqt ajrating.
+**Agar kartochkadagi gabaritlar bizning o‘lchovlarimizdan katta bo‘lsa** \- jarima qo‘llanilmaydi, biroq tovarlarni yetkazib berish uchun aniqroq kiritilgan gabaritlarga nisbatan ko‘proq logistika xarajatlari to‘lanadi. Tovarga mos qadoqni to‘g‘ri tanlash, uni aniq o‘lchash va ushbu ma’lumotlarni mahsulot kartasiga kiritishga vaqt ajrating.
 
-**Agar mahsulot kartasida gabaritlar umuman ko‚Äòrsatilmagan bo‚Äòlsa**, bunday tovar uchun logistika xizmati eng yuqori tarif ‚Äî 50 000 so‚Äòm miqdorida hisoblanadi.
+**Agar mahsulot kartasida gabaritlar umuman ko‘rsatilmagan bo‘lsa**, bunday tovar uchun logistika xizmati eng yuqori tarif — 50 000 so‘m miqdorida hisoblanadi.
 
-**Tovar uzunligi, eni va balandligini qanday to‚Äòg‚Äòri ko‚Äòrsatish kerak?**
+**Tovar uzunligi, eni va balandligini qanday to‘g‘ri ko‘rsatish kerak?**
 
 VGTni tovarning omborga amalda yetkazib beriladigan qadoqdagi bitta dona mahsulot uchun kiriting.
 
 * **Bir birlik tovarning VGT si nimani anglatadi?**
 
-Siz elektr tish cho‚Äòtkasini donalab sotasiz. Agar u alohida qutida yetkazib berilsa, aynan shu qutini o‚Äòlchab, uning gabaritlari va og‚Äòirligini ko‚Äòrsatishingiz kerak. Gabaritlarni bir nechta mahsulot joylangan umumiy quti bo‚Äòyicha emas, balki har bir tish cho‚Äòtkasining alohida qadoqlangan holati bo‚Äòyicha kiriting.
+Siz elektr tish cho‘tkasini donalab sotasiz. Agar u alohida qutida yetkazib berilsa, aynan shu qutini o‘lchab, uning gabaritlari va og‘irligini ko‘rsatishingiz kerak. Gabaritlarni bir nechta mahsulot joylangan umumiy quti bo‘yicha emas, balki har bir tish cho‘tkasining alohida qadoqlangan holati bo‘yicha kiriting.
 
-* **Agar tovar zavod qadog‚Äòida bo‚Äòlsa-chi**
+* **Agar tovar zavod qadog‘ida bo‘lsa-chi**
 
-Tovar omborga yetkazib beriladigan zavod qadog‚Äòining har bir tomonini o‚Äòlchang (oldindan [qadoqlash qoidalari  (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/#_6-1-tovarni-tekshirish-va-qadoqlash) bilan tanishib chiqing). Tovar qadog‚Äòida ko‚Äòrsatilgan o‚Äòlchamlardan nusxa ko‚Äòchirmang ‚Äî chunki bu raqamlar ko‚Äòpincha uning qadog‚Äòiga emas, balki tovarning o‚Äòziga xos xususiyatlariga tegishli.
+Tovar omborga yetkazib beriladigan zavod qadog‘ining har bir tomonini o‘lchang (oldindan [qadoqlash qoidalari (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/#%5F6-1-tovarni-tekshirish-va-qadoqlash) bilan tanishib chiqing). Tovar qadog‘ida ko‘rsatilgan o‘lchamlardan nusxa ko‘chirmang — chunki bu raqamlar ko‘pincha uning qadog‘iga emas, balki tovarning o‘ziga xos xususiyatlariga tegishli.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/1UZ.dce8d14b.png)
+![пример](https://seller.uzum.uz/manual/assets/img/1UZ.dce8d14b.png)
 
-* **Agar tovar zavod qadog‚Äòiga ega bo‚Äòlmasa-chi**
+* **Agar tovar zavod qadog‘iga ega bo‘lmasa-chi**
 
-Agar tovarning zavod qadog‚Äòi bo‚Äòlmasa, uni o‚Äòrashga qo‚Äòyiladigan [umumiy talablarga  (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/#_6-1-tovarni-tekshirish-va-qadoqlash) muvofiq o‚Äòrash kerak. Shundan so‚Äòng, tovar qadoqlangandan so‚Äòng, omborga jo‚Äònatish uchun tayyorlangan qadoqlangan tovarning o‚Äòlchamlarini o‚Äòlchang.
+Agar tovarning zavod qadog‘i bo‘lmasa, uni o‘rashga qo‘yiladigan [umumiy talablarga (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/#%5F6-1-tovarni-tekshirish-va-qadoqlash) muvofiq o‘rash kerak. Shundan so‘ng, tovar qadoqlangandan so‘ng, omborga jo‘natish uchun tayyorlangan qadoqlangan tovarning o‘lchamlarini o‘lchang.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/2UZ.c463b86c.png)
+![пример](https://seller.uzum.uz/manual/assets/img/2UZ.c463b86c.png)
 
-* **Agar tovar to‚Äòplamda sotilsa**
+* **Agar tovar to‘plamda sotilsa**
 
-Bir nechta tovarlar bitta tovar sifatida sotilganda (qozonlar to‚Äòplami, choyshablar to‚Äòplami, kosmetika sovg‚Äòa to‚Äòplami), butun to‚Äòplam bitta tovar birligi hisoblanadi. Shuning uchun qadoqlashning umumiy talablariga muvofiq qadoqlangan bitta to‚Äòplamning o‚Äòlchamlari va og‚Äòirligini ko‚Äòrsatish kerak.
+Bir nechta tovarlar bitta tovar sifatida sotilganda (qozonlar to‘plami, choyshablar to‘plami, kosmetika sovg‘a to‘plami), butun to‘plam bitta tovar birligi hisoblanadi. Shuning uchun qadoqlashning umumiy talablariga muvofiq qadoqlangan bitta to‘plamning o‘lchamlari va og‘irligini ko‘rsatish kerak.
 
-**O‚Äòlchashning maxsus holatlari**
+**O‘lchashning maxsus holatlari**
 
-* **O‚Äòram shakli o‚Äòzgartiriladigan tovarlar**
+* **O‘ram shakli o‘zgartiriladigan tovarlar**
 
-Ushbu toifaga yumshoq va sochiluvchan tovarlar, shuningdek, tashqi ta‚Äôsir ostida o‚Äòrami deformatsiyalanishi yoki shaklini o‚Äòzgartirishi mumkin bo‚Äòlgan boshqa pozitsiyalar kiradi. Bunday tovarlarni o‚Äòlchashda ushbu tovarlarning chetlari to‚Äòg‚Äòrilangan, siqilmagan, zichlanmagan, buklanmagan yoki boshqa darajada asl shaklidan o‚Äòzgarmaganligiga ishonch hosil qiling. So‚Äòngra tovarning bir chekkasidan ikkinchi chekkasigacha bo‚Äòlgan maksimal masofani, o‚Äòrtacha va eng kichik masofalarni o‚Äòlchang. Eng uzoq masofa uzunlik, o‚Äòrtacha masofa eni, eng qisqa masofa balandlikdir.
+Ushbu toifaga yumshoq va sochiluvchan tovarlar, shuningdek, tashqi ta’sir ostida o‘rami deformatsiyalanishi yoki shaklini o‘zgartirishi mumkin bo‘lgan boshqa pozitsiyalar kiradi. Bunday tovarlarni o‘lchashda ushbu tovarlarning chetlari to‘g‘rilangan, siqilmagan, zichlanmagan, buklanmagan yoki boshqa darajada asl shaklidan o‘zgarmaganligiga ishonch hosil qiling. So‘ngra tovarning bir chekkasidan ikkinchi chekkasigacha bo‘lgan maksimal masofani, o‘rtacha va eng kichik masofalarni o‘lchang. Eng uzoq masofa uzunlik, o‘rtacha masofa eni, eng qisqa masofa balandlikdir.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/3UZ.496c454d.png)
+![пример](https://seller.uzum.uz/manual/assets/img/3UZ.496c454d.png)
 
 * **Kiyim-kechak va tekstil**
 
-Ushbu toifadagi tovarlar odatda buklangan holatda yetkazib beriladi va ularning gabaritlarini o‚Äòlchashda aynan buklangan va qadoqlangan holatdagi o‚Äòlchamga tayanish kerak.
+Ushbu toifadagi tovarlar odatda buklangan holatda yetkazib beriladi va ularning gabaritlarini o‘lchashda aynan buklangan va qadoqlangan holatdagi o‘lchamga tayanish kerak.
 
-Ba‚Äôzan qadoq o‚Äòlchamlari tovarning tekislangan holatdagi o‚Äòlchamlaridan katta bo‚Äòlishi mumkin. Tovarni ixcham tarzda qadoqlanganiga ishonch hosil qiling va gabaritlarni ichidagi mahsulot bo‚Äòyicha emas, balki tashqi qadoq bo‚Äòyicha qayd eting.
+Ba’zan qadoq o‘lchamlari tovarning tekislangan holatdagi o‘lchamlaridan katta bo‘lishi mumkin. Tovarni ixcham tarzda qadoqlanganiga ishonch hosil qiling va gabaritlarni ichidagi mahsulot bo‘yicha emas, balki tashqi qadoq bo‘yicha qayd eting.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/4UZ.dfa82ea8.png)
+![пример](https://seller.uzum.uz/manual/assets/img/4UZ.dfa82ea8.png)
 
 * **Nostandart shakldagi tovarlar**
 
-Agar tovar bo‚Äòrtib chiqqan qismlarga ega bo‚Äòlsa yoki egri, notekis shaklga ega bo‚Äòlsa, o‚Äòlchashda barcha bo‚Äòrtib chiqqan qismlarni inobatga olgan holda maksimal gabaritlar olinadi.
+Agar tovar bo‘rtib chiqqan qismlarga ega bo‘lsa yoki egri, notekis shaklga ega bo‘lsa, o‘lchashda barcha bo‘rtib chiqqan qismlarni inobatga olgan holda maksimal gabaritlar olinadi.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/5UZ.5d047e4e.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5UZ.5d047e4e.png)
 
-**VGT ma‚Äôlumotlari qayerga kiritiladi?**
+**VGT ma’lumotlari qayerga kiritiladi?**
 
-Vazn-gabarit tavsiflarini tovar kartochkasida to‚Äòg‚Äòridan-to‚Äòg‚Äòri ko‚Äòrsatish kerak ‚Äî bu kenglik, uzunlik, balandlik (millimetrda) va og‚Äòirlik (grammda) satrlarida kiritiladi.Har bir SKU bo‚Äòyicha omborga yetkaziladigan bitta dona mahsulotning qadoqdagi real o‚Äòlchamlarini ko‚Äòrsatish zarur.
+Vazn-gabarit tavsiflarini tovar kartochkasida to‘g‘ridan-to‘g‘ri ko‘rsatish kerak — bu kenglik, uzunlik, balandlik (millimetrda) va og‘irlik (grammda) satrlarida kiritiladi.Har bir SKU bo‘yicha omborga yetkaziladigan bitta dona mahsulotning qadoqdagi real o‘lchamlarini ko‘rsatish zarur.
 
-Quyidagi misolga e‚Äôtibor bering:
+Quyidagi misolga e’tibor bering:
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/–í–ì–•_1_—É–∑–±.3fa555e3.png)
+![пример](https://seller.uzum.uz/manual/assets/img/ВГХ_1_узб.3fa555e3.png)
 
-**Agar tizim ma‚Äôlumotlarni noto‚Äòg‚Äòri deb hisoblasa, nima qilish kerak?**
+**Agar tizim ma’lumotlarni noto‘g‘ri deb hisoblasa, nima qilish kerak?**
 
-Agar tizim siz kiritgan qiymatlarni shubhali yoki andoza qiymatlarga mos kelmaydi deb hisoblasa, sizga mos ogohlantirish xabari ko‚Äòrsatiladi. Masalan, quyidagicha:
+Agar tizim siz kiritgan qiymatlarni shubhali yoki andoza qiymatlarga mos kelmaydi deb hisoblasa, sizga mos ogohlantirish xabari ko‘rsatiladi. Masalan, quyidagicha:
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/–í–ì–•_2_—É–∑–±.4bab3646.png)
+![пример](https://seller.uzum.uz/manual/assets/img/ВГХ_2_узб.4bab3646.png)
 
 Bunday holatda quyidagilarni bajaring:
 
-* Kiritgan o‚Äòlchamlaringiz va og‚Äòirligingizni yana bir bor tekshirib chiqing;
-* Bir nechta mahsulot solingan umumiy qutining emas, balki individual qadoqdagi bitta dona mahsulot o‚Äòlchamlarini kiritayotganingizga ishonch hosil qiling;
-* Agar ma‚Äôlumotlaringiz haqiqatan ham to‚Äòg‚Äòri bo‚Äòlsa, lekin tizim ularni qabul qilmasa ‚Äî iltimos, [biznes-qo‚Äòllab-quvvatlash  (opens new window)](http://telegram.me/umarket_business_bot) xizmatiga murojaat qiling.
+* Kiritgan o‘lchamlaringiz va og‘irligingizni yana bir bor tekshirib chiqing;
+* Bir nechta mahsulot solingan umumiy qutining emas, balki individual qadoqdagi bitta dona mahsulot o‘lchamlarini kiritayotganingizga ishonch hosil qiling;
+* Agar ma’lumotlaringiz haqiqatan ham to‘g‘ri bo‘lsa, lekin tizim ularni qabul qilmasa — iltimos, [biznes-qo‘llab-quvvatlash (opens new window)](http://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga murojaat qiling.
 
-‚ùóE‚Äôtibor bering, omborda hali o‚Äòlchovdan o‚Äòtmagan mahsulotlar uchun VGT ma‚Äôlumotlarini o‚Äòzgartirish imkoni sizda saqlanib qoladi.
+❗E’tibor bering, omborda hali o‘lchovdan o‘tmagan mahsulotlar uchun VGT ma’lumotlarini o‘zgartirish imkoni sizda saqlanib qoladi.
 
-Mahsulotga o‚Äòzgartirish kiritish uchun quyidagilarni bajaring:
+Mahsulotga o‘zgartirish kiritish uchun quyidagilarni bajaring:
 
-1. ¬´Tovarlar¬ª bo‚Äòlimiga o‚Äòting;
+1. «Tovarlar» bo‘limiga o‘ting;
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/–í–ì–•_3_—É–∑–±.9cd1645f.png)
+![пример](https://seller.uzum.uz/manual/assets/img/ВГХ_3_узб.9cd1645f.png)
 
-2. O‚Äòzgartirish kiritilishi kerak bo‚Äòlgan mahsulot kartasini toping;
-3. Kartochkaning yuqori o‚Äòng burchagidagi uch nuqta ustiga sichqonchani olib boring va ¬´SKU` ni tahrirlash¬ª tugmasini bosing;
+1. O‘zgartirish kiritilishi kerak bo‘lgan mahsulot kartasini toping;
+2. Kartochkaning yuqori o‘ng burchagidagi uch nuqta ustiga sichqonchani olib boring va «SKU\` ni tahrirlash» tugmasini bosing;
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/–í–ì–•_4_—É–∑–±.4d0462ce.png)
+![пример](https://seller.uzum.uz/manual/assets/img/ВГХ_4_узб.4d0462ce.png)
 
-4. Ochilgan oynada kerakli SKUni toping va mahsulotni omborga qanday yuborsangiz, xuddi shunday transport qadoqdagi aniq parametrlarini kiriting.
-5. Uzunlik, kenglik, balandlikni millimetrda (mm) va og‚Äòirlikni grammda (g) ko‚Äòrsating.
+1. Ochilgan oynada kerakli SKUni toping va mahsulotni omborga qanday yuborsangiz, xuddi shunday transport qadoqdagi aniq parametrlarini kiriting.
+2. Uzunlik, kenglik, balandlikni millimetrda (mm) va og‘irlikni grammda (g) ko‘rsating.
 
-Ma‚Äôlumotlarni to‚Äòldirgandan so‚Äòng ¬´Saqlash va davom etish¬ª tugmasini bosing.
+Ma’lumotlarni to‘ldirgandan so‘ng «Saqlash va davom etish» tugmasini bosing.
 
-![–ø—Ä–∏–º–µ—Ä](https://seller.uzum.uz/manual/assets/img/–í–ì–•_5_—É–∑–±.f4ad2d59.png)
+![пример](https://seller.uzum.uz/manual/assets/img/ВГХ_5_узб.f4ad2d59.png)
 
-**VGTni qaysi holatlarda o‚Äòzgartirish mumkin?**
+**VGTni qaysi holatlarda o‘zgartirish mumkin?**
 
-Tovar kartochkasidagi vazn-gabarit xususiyatlarini faqat omborda qayta o‚Äòlchashdan o‚Äòtmagan SKUlar uchun o‚Äòzgartirish mumkin. Bunday tovarlar uchun VGTni tahrirlash bevosita kartochkada amalga oshiriladi ‚Äî batafsil yo‚Äòriqnoma VGTni qayerda ko‚Äòrsatish kerak bo‚Äòlimida mavjud.
+Tovar kartochkasidagi vazn-gabarit xususiyatlarini faqat omborda qayta o‘lchashdan o‘tmagan SKUlar uchun o‘zgartirish mumkin. Bunday tovarlar uchun VGTni tahrirlash bevosita kartochkada amalga oshiriladi — batafsil yo‘riqnoma VGTni qayerda ko‘rsatish kerak bo‘limida mavjud.
 
-Tovar omborda qayta o‚Äòlchangandan so‚Äòng, parametrlarni mustaqil ravishda tahrirlash imkoni yopiladi va faqat [biznes qo‚Äôllab quvvatlash  (opens new window)](https://telegram.me/umarket_business_bot) xizmatiga murojaat qilish orqali o‚Äòzgartirish mumkin bo‚Äòladi.
+Tovar omborda qayta o‘lchangandan so‘ng, parametrlarni mustaqil ravishda tahrirlash imkoni yopiladi va faqat [biznes qo’llab quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga murojaat qilish orqali o‘zgartirish mumkin bo‘ladi.
 
-**Tovarni nazorat o‚Äòlchoviga qanday e‚Äôtiroz bildirish mumkin?**
+**Tovarni nazorat o‘lchoviga qanday e’tiroz bildirish mumkin?**
 
-Kartochkadagi ma‚Äôlumotlar va nazorat o‚Äòlchovida olingan qiymatlar o‚Äòrtasida nomuvofiqlik bo‚Äòlsa, siz VGTni qayta ko‚Äòrib chiqishni boshlashingiz mumkin.
+Kartochkadagi ma’lumotlar va nazorat o‘lchovida olingan qiymatlar o‘rtasida nomuvofiqlik bo‘lsa, siz VGTni qayta ko‘rib chiqishni boshlashingiz mumkin.
 
 Buning uchun:
 
-1. Biznes qo‚Äòllab-quvvatlash xizmatiga murojaat qiling ‚Äî sizga VGTni qayta ko‚Äòrib chiqish uchun ariza shakli va shablon havolasi taqdim etiladi.
-2. Shablonni to‚Äòldiring. Quyidagilar ko‚Äòrsatilishi kerak:
-
+1. Biznes qo‘llab-quvvatlash xizmatiga murojaat qiling — sizga VGTni qayta ko‘rib chiqish uchun ariza shakli va shablon havolasi taqdim etiladi.
+2. Shablonni to‘ldiring. Quyidagilar ko‘rsatilishi kerak:
 * tovarning shtrix-kodi (SKU) va ID-kartochkasi;
-* Siz to‚Äòg‚Äòri deb hisoblagan o‚Äòlchamlar (mm) va vazn (g);
+* Siz to‘g‘ri deb hisoblagan o‘lchamlar (mm) va vazn (g);
+1. To‘ldirilgan shablonni forma orqali yuboring. Arizalar navbat tartibida ko‘rib chiqiladi, har bir SKU bo‘yicha qaror elektron pochtangizga yuboriladi.
 
-3. To‚Äòldirilgan shablonni forma orqali yuboring. Arizalar navbat tartibida ko‚Äòrib chiqiladi, har bir SKU bo‚Äòyicha qaror elektron pochtangizga yuboriladi.
+❗ E’tibor bering: ariza ko‘rib chiqilayotgan paytda VGT o‘zgarishsiz qoladi
 
-‚ùó E‚Äôtibor bering: ariza ko‚Äòrib chiqilayotgan paytda VGT o‚Äòzgarishsiz qoladi
+**Yangi qadoqqa qanday o‘tish mumkin?**
 
-**Yangi qadoqqa qanday o‚Äòtish mumkin?**
+Tovar omborga kelib tushgandan va nazorat o‘lchovidan o‘tgandan so‘ng, uning VGT qayd etiladi va tahrirlash uchun kartochka bloklanadi. Agar siz qadoqni optimallashtirishga qaror qilgan bo‘lsangiz (masalan, qutini kichraytirish yoki tovarni ixchamroq taxlash), kartochkadagi o‘lchamlarni shunchaki o‘zgartirib bo‘lmaydi.
 
-Tovar omborga kelib tushgandan va nazorat o‚Äòlchovidan o‚Äòtgandan so‚Äòng, uning VGT qayd etiladi va tahrirlash uchun kartochka bloklanadi. Agar siz qadoqni optimallashtirishga qaror qilgan bo‚Äòlsangiz (masalan, qutini kichraytirish yoki tovarni ixchamroq taxlash), kartochkadagi o‚Äòlchamlarni shunchaki o‚Äòzgartirib bo‚Äòlmaydi.
+To‘g‘ri amallar tartibi:
 
-To‚Äòg‚Äòri amallar tartibi:
-
-1. Eski qadoqdagi barcha mavjud tovarlarni to‚Äòliq sotib tugating yoki ombordan qaytarib oling. Omborda eski gabaritli birorta ham mahsulot qolmasligi kerak;
-2. Eski VGT qoldiqlari yo‚Äòqligiga ishonch hosil qiling. Shundan keyingina tovarni yangi qadoqda olib kelish mumkin.
-3. Tovarni omborga yangi qadoqda yuboring. Qabul paytida biz nazorat o‚Äòlchovini o‚Äòtkazamiz va VGT avtomatik tarzda mahsulot kartasida yangilanadi.
+1. Eski qadoqdagi barcha mavjud tovarlarni to‘liq sotib tugating yoki ombordan qaytarib oling. Omborda eski gabaritli birorta ham mahsulot qolmasligi kerak;
+2. Eski VGT qoldiqlari yo‘qligiga ishonch hosil qiling. Shundan keyingina tovarni yangi qadoqda olib kelish mumkin.
+3. Tovarni omborga yangi qadoqda yuboring. Qabul paytida biz nazorat o‘lchovini o‘tkazamiz va VGT avtomatik tarzda mahsulot kartasida yangilanadi.

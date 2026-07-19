@@ -1,4 +1,4 @@
-# 8. FBS sxemasi bo‘yicha buyurtmalar bilan ishlash
+#  8\. FBS sxemasi bo‘yicha buyurtmalar bilan ishlash
 
 FBS (fulfilment by seller) — bu unda Sotuvchi (2-taraf) tovarlarni o‘zining yoki ijaraga olingan omborida saqlab, buyurtmalarni qayta ishlab, yig‘adigan va Marketpleysga (1-taraf) yuboradigan, marketpleys esa — xaridorlarga yetkazib beradigan ishlash sxemasi.
 
@@ -6,9 +6,9 @@ FBS (fulfilment by seller) — bu unda Sotuvchi (2-taraf) tovarlarni o‘zining 
 
 FBS sxemasi bo‘yicha oziq-ovqat kategoriyasidagi tovarlarni sotish taqiqlanadi (istisno — sport ozuqalari).
 
-## 8.1 FBS bo‘yicha sotish qanday boshlanadi
+##  8.1 FBS bo‘yicha sotish qanday boshlanadi
 
-### FBO, FBS va DBS birga olib borish
+###  FBO, FBS va DBS birga olib borish
 
 Bitta tovarning o‘zini bir vaqtda FBO, FBS va DBS bo‘yicha sotish mumkin — bunda birga olib borishda FBO sxemasi har doim ustuvorroq bo‘lishi muhimdir.
 
@@ -32,13 +32,13 @@ Birinchi navbatda vitrinada FBO bo‘yicha qoldiqlarni ko‘rsatamiz, ular tugag
 
 Agar xaridor siz bitta tovarning o‘zini DBS va FBS bo‘yicha sotayotgan joyda joylashgan bo‘lsa — vitrinada DBS qoldiqlari va muddatlari ustuvorlikda ko‘rsatiladi.
 
-### Tovar kartochkasini yaratish
+###  Tovar kartochkasini yaratish
 
-FBS sxemasi bo‘yicha sotuvlar tovar kartochkasini yaratish va moderatsiyasidan boshlanadi. Assortimentni belgilab oling, kartochkalarni to‘ldiring va moderatsiya natijalarini kuting. Bu bosqichlar haqida batafsil ma’lumot quyida — [5-b. Tovar kartochkalarini yaratish  (opens new window)](https://seller.uzum.uz/manual/uz/5.product-creation/).
+FBS sxemasi bo‘yicha sotuvlar tovar kartochkasini yaratish va moderatsiyasidan boshlanadi. Assortimentni belgilab oling, kartochkalarni to‘ldiring va moderatsiya natijalarini kuting. Bu bosqichlar haqida batafsil ma’lumot quyida — [5-b. Tovar kartochkalarini yaratish (opens new window)](https://seller.uzum.uz/manual/uz/5.product-creation/).
 
 Agar siz bitta tovarni bir vaqtda har xil sxemalar (FBO / FBS / DBS) bo‘yicha sotayotgan bo‘lsangiz, kartochkalarni har bir sxema uchun takrorlash taqiqlanadi. Bitta tovar uchun faqat bitta kartochka bo‘lishi mumkin. Ishlash sxemalarini esa ombor yaratilgandan keyin istalgan vaqtda tanlash va sozlash mumkin
 
-## 8.2 Ombor qanday yaratiladi va sozlanadi
+##  8.2 Ombor qanday yaratiladi va sozlanadi
 
 Ombor — bu sotuvchi marketpleysga topshirishdan oldin tovarlarini saqlaydigan ma’lum bir joy. Hozir shaxsiy kabinetda faqat bitta ombor yaratish mumkin.
 
@@ -50,7 +50,7 @@ FBS/DBS (1) bo‘limida **Omborlar** (2) varaqasiga o‘ting va **FBS ishlash sx
 
 **Agar siz hali shaxsiy kabinetda ombor yaratmagan bo‘lsangiz** — quyidagi yo‘riqnoma bo‘yicha harakatlarni bajaring.
 
-### Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating
+###  Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating
 
 FBS/DBS (1) bo‘limiga o‘ting va **Omborni yaratish** (2) tugmasini bosing. Kerakli ishlash sxemasini tanlash va sozlashni keyingi bosqichlarda qilish mumkin.
 
@@ -81,13 +81,13 @@ Shunday qilib, yetkazib berish muddatlari va davriyligi haqidagi barcha ma’lum
 
 Ish jadvalini istalgan vaqtda o‘zgartirish mumkin — ammo yangi shartlar faqat sozlamalar o‘zgartirilganidan keyin keladigan buyurtmalar uchun amal qiladi. Allaqachon kelib tushgan va **Yangi** hamda **Yig‘ilayotgan** maqomidagi buyurtmalar uchun hech narsa o‘zgarmaydi - ular avvalgi muddatlarda yetkazib berilishi shart.
 
-Yetkazib berish sanasi qanday hisoblanishi haqida quyida batafsil axborot olishingiz mumkin [8.3-band FBS buyurtmalari bilan qanday ishlash kerak  (opens new window)](https://seller.uzum.uz/manual/8.fbs/#_8-3-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D1%8C-%D1%81-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8-fbs) (Yangi buyurtmalar)
+Yetkazib berish sanasi qanday hisoblanishi haqida quyida batafsil axborot olishingiz mumkin [8.3-band FBS buyurtmalari bilan qanday ishlash kerak (opens new window)](https://seller.uzum.uz/manual/8.fbs/#%5F8-3-%D0%BA%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%82%D1%8C-%D1%81-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8-fbs) (Yangi buyurtmalar)
 
 КOmbor haqidagi ma’lumot va ish jadvali ko‘rsatilganda, **Keyingisi** tugmasini bosing.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/06-UZ-FBS.ddcf8316.png)
 
-### Ish sxemasini tanlang
+###  Ish sxemasini tanlang
 
 Har doim faqat bitta sxema bo‘yicha ishlash shart emas - avval bittasini ko‘rsatib, keyin boshqasini qo‘shish mumkin. Kerakli ish sxemasini tanlang va **Keyingisi** tugmasini bosing.
 
@@ -157,7 +157,7 @@ Hududlarda qaytarishlarni olish uchun mobil ilovadagi sotuvchining QR kodidan fo
 
 ![пример](https://seller.uzum.uz/manual/assets/img/1-UZ.10f53594.png)
 
-### Qoldiqlarni yangilang
+###  Qoldiqlarni yangilang
 
 FBS va DBS uchun qoldiqlar — yaxlit. Buyurtmalarni qabul qilishni boshlash uchun ularni yangilash — ya’ni sizning omboringizda saqlanadigan tovarlarni tanlash va ko‘rsatish kerak.
 
@@ -223,13 +223,13 @@ SKU’ni ro‘yxatdan topish uchun qidiruv satridan foydalanishingiz mumkin (1).
 
 **Shuningdek, quyidagi filtrlar mavjud:**
 
-* **“Barcha tovarlar” bo‘limida:**
-  + **Do‘kon bo‘yicha** — bitta, bir nechta yoki barcha do‘konlarni tanlash mumkin.(2)
-* **“Faqat FBS / Faqat FBS va DBS” bo‘limida:**
-  + **Do‘kon bo‘yicha** — bitta, bir nechta yoki barcha do‘konlarni tanlash mumkin.
-  + **Barcha qoldiqlar** — mavjud va nol qoldiqli barcha SKU’lar.
-  + **Tugagan** — qoldig‘i 0 bo‘lgan SKU’lar.
-  + **Mavjud** — qoldig‘i bor SKU’lar.(3)
+* **“Barcha tovarlar” bo‘limida:**  
+   * **Do‘kon bo‘yicha** — bitta, bir nechta yoki barcha do‘konlarni tanlash mumkin.(2)
+* **“Faqat FBS / Faqat FBS va DBS” bo‘limida:**  
+   * **Do‘kon bo‘yicha** — bitta, bir nechta yoki barcha do‘konlarni tanlash mumkin.  
+   * **Barcha qoldiqlar** — mavjud va nol qoldiqli barcha SKU’lar.  
+   * **Tugagan** — qoldig‘i 0 bo‘lgan SKU’lar.  
+   * **Mavjud** — qoldig‘i bor SKU’lar.(3)
 
 Standart holatda SKU bo‘yicha saralash shunday o‘rnatilganki, ro‘yxatning yuqori qismida TOP belgili SKUlar ko‘rsatiladi. Zarur bo‘lsa, SKU raqami bo‘yicha saralash (4) usulini qo‘llash mumkin.
 
@@ -245,16 +245,15 @@ TOP SKU — bu xaridorlar uchun tovarlarning jozibadorligini avtomatlashtirilgan
 
 E’tiborli bo‘ling: sotuvlar uzilmasligi uchun qoldiqlarni doimiy ravishda tekshiring va yangilang.
 
-## 8.3 FBS buyurtmarlari bilan qanday ishlanadi
+##  8.3 FBS buyurtmarlari bilan qanday ishlanadi
 
 FBS sxemasi bo‘yicha hamma buyurtmalarni FBS/DBS (1) bo‘limida — **FBS** **buyurtmalari** (2) varaqasida ko‘rish mumkin.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/15-UZ-FBS.7c4c5e07.png)
 
-### Yangi buyurtmalar
+###  Yangi buyurtmalar
 
-Ishlash uchun olish kerak bo‘lgan, kelib tushgan hamma buyurtmalar **Yangi** (1) holatida ko‘rinadi.
-Ular yaratish sanasiga ko‘ra — eskilaridan yangilariga saralangan (2).
+Ishlash uchun olish kerak bo‘lgan, kelib tushgan hamma buyurtmalar **Yangi** (1) holatida ko‘rinadi. Ular yaratish sanasiga ko‘ra — eskilaridan yangilariga saralangan (2).
 
 **Shungacha tasdiqlansin** (3) — ungacha buyurtmani tasdiqlash va ishlash uchun olish kerak bo‘lgan vaqt. Bunga u yaratilgan paytdan boshlab 16 soat bor. Buyurtmani tasdiqlash uchun **Yig‘ishga** (4) tugmasini bosish kerak — undan keyin u **Yig‘ishda** holatiga o‘tadi va tegishli varaqaga o‘tadi (5).
 
@@ -264,7 +263,7 @@ Ro‘yxatda buyurtmaga bosganda — tarkibi, qabul qilish joyi va yetkazib beris
 
 ![пример](https://seller.uzum.uz/manual/assets/img/17-UZ-FBS.6f047384.png)
 
-### Buyurtmani bekor qilish
+###  Buyurtmani bekor qilish
 
 Agar qandaydir sababga ko‘ra buyurtmani yetkazib bera olmasangiz, buyurtmalar ro‘yxatidagi krest tugmasini (1) yoki buyurtma haqida ma’lumotli oynadagi **Voz kechish** (2) tugmasini bosing.
 
@@ -284,11 +283,11 @@ Jarimalar nima uchun belgilanadi:
 Jarima miqdori buyurtma yaratilganidan boshlab bekor qilingan vaqtga bog‘liq:
 
 | Bekor qilish vaqti | Jarima(buyurtma summasidan%) | Kamida, so‘m | Undan ortiq emas, so‘m |
-| --- | --- | --- | --- |
-| 24 soatgacha | jarima yo‘q |  |  |
-| > 24 soat | 9 % | 10 000 | 3600 000 |
+| ------------------ | ---------------------------- | ------------ | ---------------------- |
+| 24 soatgacha       | jarima yo‘q                  |              |                        |
+| \> 24 soat         | 9 %                          | 10 000       | 3600 000               |
 
-### Buyurtmalarni yig‘ish
+###  Buyurtmalarni yig‘ish
 
 Buyurtmalarni yig‘ish va qaytarilgan tovarlarni ochish jarayonini videoga olishni tavsiya qilamiz. Xaridor tovarni shikastlasa yoki o‘rniga boshqasini qo‘ysa, video asosiy isbotga aylanadi. Yig‘ish jarayonidan video siz hamma tovarlarni shikastlamasdan jo‘natganingizni tasdiqlaydi
 
@@ -350,7 +349,7 @@ IMEI har doim tovarning o'zida va zavod qadoqida ko'rsatiladi.
 
 ASL Belgisi markirovkasi chekda chop qilinadi va xaridor buyurtmani qaytarayotgan bo‘lsa tekshiriladi. Tovardagi kod buyurtma kartochkasidagi kodga mos kelishi kerak.
 
-Kodni aniqlab olish uchun turli mobil ilovalarni ishlatish mumkin. Har bir tovarlar toifasi uchun markirovka bo‘yicha batafsil yo‘riqoma [https://help.crpt-turon.uz/hc/ru  (opens new window)](https://help.crpt-turon.uz/hc/ru) saytida mavjud.
+Kodni aniqlab olish uchun turli mobil ilovalarni ishlatish mumkin. Har bir tovarlar toifasi uchun markirovka bo‘yicha batafsil yo‘riqoma [https://help.crpt-turon.uz/hc/ru (opens new window)](https://help.crpt-turon.uz/hc/ru) saytida mavjud.
 
 **O‘rash**
 
@@ -359,26 +358,25 @@ Buyurtma xaridorgacha butun borishi va qaytarish holatida sizga qaytishi uchun t
 * Tovarlarning o‘zi va zavod o‘rami shikastlanmaganligiga ishonch hosil qiling.
 * O‘ramni yuklashdan oldin diqqat bilan tekshiring. Buyurtmadagi tovarlarning saqlanganligi sizga bog‘liq — agar u noto‘g‘ri o‘ralgan bo‘lsa, marketpleys tovarning yetkazib berish paytidagi shikastlanishlari yoki yo‘qolishini qoplamaydi.
 * Agar tovarda yoki zavod o‘ramida sezilarli shikastlanishlar yoki ifloslanishlar bo‘lsa — marketpleys xodimlari buyurtmani qabul qilmaslik huquqiga ega.
-* Bitta buyurtmaning tovarlar bitta o‘ramga yig‘ilgan bo‘lishi kerak — bunda ichidagi har bir tovar o‘rami tovar turiga qarab talablarga mos bo‘lishi kerak. Bitta buyurtmadagi tovarlarning umumiy massasi 20 kg dan ko‘proq bo‘lgan holatlar istisno bo‘ladi.
-  Bunda buyurtmani, ularning har birining vazni 20 kg dan ko‘p bo‘lmaydigan qilib, bir nechta qismlarga bo‘lish kerak. Har bir qismni, ulushini ko‘rsatgan holda etiketkalar bilan markirovka qiling — masalan, agar buyurtma 3 ta qismga bo‘lingan bo‘lsa 1/3, 2/3, 3/3. Bundan tashqari, har bir qismga boshlang‘ich buyurtma etiketkasining nusxasini yopishtirish kerak.
+* Bitta buyurtmaning tovarlar bitta o‘ramga yig‘ilgan bo‘lishi kerak — bunda ichidagi har bir tovar o‘rami tovar turiga qarab talablarga mos bo‘lishi kerak. Bitta buyurtmadagi tovarlarning umumiy massasi 20 kg dan ko‘proq bo‘lgan holatlar istisno bo‘ladi. Bunda buyurtmani, ularning har birining vazni 20 kg dan ko‘p bo‘lmaydigan qilib, bir nechta qismlarga bo‘lish kerak. Har bir qismni, ulushini ko‘rsatgan holda etiketkalar bilan markirovka qiling — masalan, agar buyurtma 3 ta qismga bo‘lingan bo‘lsa 1/3, 2/3, 3/3\. Bundan tashqari, har bir qismga boshlang‘ich buyurtma etiketkasining nusxasini yopishtirish kerak.
 
-| Tovarlar | Tavsifi | O‘rash |
-| --- | --- | --- |
-| Qimmatbaho | Kompyuterlar va butlovchi qismlar, telefonlar, audio- va videotexnika, zargarlik buyumlari, qo‘l va cho‘ntak soatlari | Qutiga to‘ldiruvchi bilan. Telefonlar, noutbuklar, audio- va videotexnikalar uchun ko‘proq zavod qutichasini olgan ma’qul. Tovarni qutiga joylashdan oldin — uni havo-pufakchasimon plyonkaga o‘rang. Shaffof bo‘lmagan va brendlanmagan skotch bilan yopishtiring. |
-| Nozik | Tushib ketish, tebranish, zarba yoki bosimdan maxsus himoya talab qiladigan tovarlar.Bular shisha, plastik, keramika, akril, gips, chinni, fayans, billur, yupqa metalldan yasalgan buyumlar yoki emal bilan qoplangan buyumlar. Dekorativ va parvarish kosmetikasi. | To‘ldiruvchi bilan qutiga yoki havo-pufakchasimon plyonkaga va qutiga. 60 × 50 × 50 sm dan katta yoki 30 kg dan og‘ir bo‘lgan tovarlarni havo-pufakchali plyonkaga joylang va streych plyonka bilan o‘rang. O‘ramda “Nozik. Ehtiyot bo‘ling”, “Dumalatilmasin”, “Taxlash taqiqlanadi” kabi manipulyatsion belgilar bo‘lishi kerak. |
-| Uzun | 50 sm dan va uzunligi balandlikdan ancha katta. Masalan, karnizlar va plintuslar. | Qattiq o‘ramga: masalan, tubus yoki obreshotka (panjara). |
-| Chiqib turgan yoki o‘tkir qismlari bilan | Masalan, shampurlar, mangallar, shvabralar. | Stretch-plyonka yoki qutiga to‘ldirgich bilan. Bo‘rtib chiqqan qismlar yoki burchaklarni havo-pufakchali plyonkaning bir qatlamiga qo‘shimcha o‘rang. Agar mahsulotning bo‘rtib chiqqan qismlari yoki burchaklari o‘tkir bo‘lsa — ularni prokladka material yoki burchaklar bilan izolyatsiya qiling va tovarni qutiga to‘ldirgich bilan joylang. |
-| Suyuqliklar | Masalan, bo‘yoq, maishiy kimyo: shampunlar, kir yuvish gellari, idish yuvish uchun vositalar. | Havo-pufakchasimon plyonka bilan o‘rang, uning ustidan esa — suyuqliklar oqib ketishiga yo‘l qo‘ymaydigan qilib strech-plyonka bilan o‘rang, va qutiga soling. Tara qutida qat’iy ravishda bo‘g‘zi yuqoriga qarab turishi kerak. O‘ramda manipulyatsion belgilari bo‘lishi kerak: “Yuqoriga” va “Nozik. Ehtiyot bo‘ling”. |
-| Sochiluvchan | Masalan, yormalar, tuproq, hayvonlar uchun yem. | Zich paket yoki stretch-plyonkaga o‘rab to‘ldirgich bilan qutiga joylang. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak. |
-| Zargarlik buyumlari |  | Havo-pufakchali plyonka va noyob raqamli shaxsiy seyf-paketga o‘rang. Tashish qadoqlamasi ustidan brendlangan skotch yopishtirmang. |
-| Kiyim va poyabzal |  | Kiyimni kuryerlik paketiga o‘rang. Agar tovar zavod qutisida bo‘lsa, stretch-plyonkaga o‘rang. Poyabzalni qutiga joylash kerak. Qimmatbaho kiyimlarni qutilarga joylab, shaffof bo‘lmagan va brendlanmagan skotch bilan yopishtirish kerak. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak. |
-| Sumkalar, klatchlar, portfellar |  | To‘ldiruvchi bilan qutiga. Barcha elementlar qutida bo‘lishi kerak — tutqichlar, qulflar, kamarlar va h.k. Shaklini saqlash uchun tovarni qog‘oz, porolon yoki boshqa yengil material bilan to‘ldiring. |
-| Chamadonlar |  | Stretch-plyonka bilan bir necha qatlamga o‘rang. |
-| Teri, mato, mo‘yna | Yumshoq o‘yinchoqlar, ko‘rpa-to‘shaklar, rulonli gazlamalar, pardalar va h.k. | Kuryerlik paketiga. Agar tovar zavod qutisida bo‘lsa, unda stretch-plyonka bilan bir necha qatlamga o‘rang. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak. |
-| Bosma mahsulotlar | Masalan, kitoblar, daftarlar yoki suratlar. | Oson g‘ijimlanadigan, — ya’ni yumshoq muqovali yoki muqovasiz yirik formatdagi kitoblar, shuningdek, kitoblarni — qattiq o‘ramga o‘rash kerak. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak. |
-| Korpus mebellari | Masalan, tumbalar, stollar, komodlar, divanlar, oshxona, eshiklar. | Qalin qutiga — kamida uch qavat karton. Mebelning butun yuzasini prokladka material himoya qilishi kerak. Bo‘rtib chiqqan qismlarni havo-pufakchali plyonka bilan bir qatlamga o‘rang, o‘tkir burchaklarni esa prokladka material yoki burchaklar bilan izolyatsiya qiling. Mebelning yumshoq qismlarini qo‘shimcha ravishda zich stretch-plyonka bilan o‘rang. Bitta tovarning barcha qismlari birgalikda qadoqlanishi kerak. Ularni stretch-plyonka bilan o‘rang. O‘ramda “Yuqoriga” va “Nozik yuk” manipulyatsion belgilari bo‘lishi kerak. |
-| Matraslar |  | Zich polietilen plyonkaga — 100 mkm dan. Zarur bo‘lsa, tovarni qo‘shimcha ravishda shaffof bo‘lmagan xaltachaga o‘rang. |
-| G‘ildirak va shinalar |  | Qisman ingichka stretch-plyonka bilan o‘rang va unga skotch bilan yorliqni mahkamlang. |
+| Tovarlar                                 | Tavsifi                                                                                                                                                                                                                                                                                                        | O‘rash                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Qimmatbaho                               | Kompyuterlar va butlovchi qismlar, telefonlar, audio- va videotexnika, zargarlik buyumlari, qo‘l va cho‘ntak soatlari                                                                                                                                                                                          | Qutiga to‘ldiruvchi bilan. Telefonlar, noutbuklar, audio- va videotexnikalar uchun ko‘proq zavod qutichasini olgan ma’qul. Tovarni qutiga joylashdan oldin — uni havo-pufakchasimon plyonkaga o‘rang. Shaffof bo‘lmagan va brendlanmagan skotch bilan yopishtiring.                                                                                                                                                                                                                                                                            |
+| Nozik                                    | Tushib ketish, tebranish, zarba yoki bosimdan maxsus himoya talab qiladigan tovarlar.Bular shisha, plastik, keramika, akril, gips, chinni, fayans, billur, yupqa metalldan yasalgan buyumlar yoki emal bilan qoplangan buyumlar. Dekorativ va parvarish kosmetikasi.                                           | To‘ldiruvchi bilan qutiga yoki havo-pufakchasimon plyonkaga va qutiga. 60 × 50 × 50 sm dan katta yoki 30 kg dan og‘ir bo‘lgan tovarlarni havo-pufakchali plyonkaga joylang va streych plyonka bilan o‘rang. O‘ramda “Nozik. Ehtiyot bo‘ling”, “Dumalatilmasin”, “Taxlash taqiqlanadi” kabi manipulyatsion belgilar bo‘lishi kerak.                                                                                                                                                                                                             |
+| Uzun                                     | 50 sm dan va uzunligi balandlikdan ancha katta. Masalan, karnizlar va plintuslar.                                                                                                                                                                                                                              | Qattiq o‘ramga: masalan, tubus yoki obreshotka (panjara).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Chiqib turgan yoki o‘tkir qismlari bilan | Masalan, shampurlar, mangallar, shvabralar.                                                                                                                                                                                                                                                                    | Stretch-plyonka yoki qutiga to‘ldirgich bilan. Bo‘rtib chiqqan qismlar yoki burchaklarni havo-pufakchali plyonkaning bir qatlamiga qo‘shimcha o‘rang. Agar mahsulotning bo‘rtib chiqqan qismlari yoki burchaklari o‘tkir bo‘lsa — ularni prokladka material yoki burchaklar bilan izolyatsiya qiling va tovarni qutiga to‘ldirgich bilan joylang.                                                                                                                                                                                              |
+| Suyuqliklar                              | Masalan, bo‘yoq, maishiy kimyo: shampunlar, kir yuvish gellari, idish yuvish uchun vositalar.                                                                                                                                                                                                                  | Havo-pufakchasimon plyonka bilan o‘rang, uning ustidan esa — suyuqliklar oqib ketishiga yo‘l qo‘ymaydigan qilib strech-plyonka bilan o‘rang, va qutiga soling. Tara qutida qat’iy ravishda bo‘g‘zi yuqoriga qarab turishi kerak. O‘ramda manipulyatsion belgilari bo‘lishi kerak: “Yuqoriga” va “Nozik. Ehtiyot bo‘ling”.                                                                                                                                                                                                                      |
+| Sochiluvchan                             | Masalan, yormalar, tuproq, hayvonlar uchun yem.                                                                                                                                                                                                                                                                | Zich paket yoki stretch-plyonkaga o‘rab to‘ldirgich bilan qutiga joylang. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Zargarlik buyumlari                      | Havo-pufakchali plyonka va noyob raqamli shaxsiy seyf-paketga o‘rang. Tashish qadoqlamasi ustidan brendlangan skotch yopishtirmang.                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Kiyim va poyabzal                        | Kiyimni kuryerlik paketiga o‘rang. Agar tovar zavod qutisida bo‘lsa, stretch-plyonkaga o‘rang. Poyabzalni qutiga joylash kerak. Qimmatbaho kiyimlarni qutilarga joylab, shaffof bo‘lmagan va brendlanmagan skotch bilan yopishtirish kerak. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Sumkalar, klatchlar, portfellar          | To‘ldiruvchi bilan qutiga. Barcha elementlar qutida bo‘lishi kerak — tutqichlar, qulflar, kamarlar va h.k. Shaklini saqlash uchun tovarni qog‘oz, porolon yoki boshqa yengil material bilan to‘ldiring.                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Chamadonlar                              | Stretch-plyonka bilan bir necha qatlamga o‘rang.                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Teri, mato, mo‘yna                       | Yumshoq o‘yinchoqlar, ko‘rpa-to‘shaklar, rulonli gazlamalar, pardalar va h.k.                                                                                                                                                                                                                                  | Kuryerlik paketiga. Agar tovar zavod qutisida bo‘lsa, unda stretch-plyonka bilan bir necha qatlamga o‘rang. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak.                                                                                                                                                                                                                                                                                                                                                                 |
+| Bosma mahsulotlar                        | Masalan, kitoblar, daftarlar yoki suratlar.                                                                                                                                                                                                                                                                    | Oson g‘ijimlanadigan, — ya’ni yumshoq muqovali yoki muqovasiz yirik formatdagi kitoblar, shuningdek, kitoblarni — qattiq o‘ramga o‘rash kerak. O‘ramda “Namlikdan saqlang” manipulyatsion belgisi bo‘lishi kerak.                                                                                                                                                                                                                                                                                                                              |
+| Korpus mebellari                         | Masalan, tumbalar, stollar, komodlar, divanlar, oshxona, eshiklar.                                                                                                                                                                                                                                             | Qalin qutiga — kamida uch qavat karton. Mebelning butun yuzasini prokladka material himoya qilishi kerak. Bo‘rtib chiqqan qismlarni havo-pufakchali plyonka bilan bir qatlamga o‘rang, o‘tkir burchaklarni esa prokladka material yoki burchaklar bilan izolyatsiya qiling. Mebelning yumshoq qismlarini qo‘shimcha ravishda zich stretch-plyonka bilan o‘rang. Bitta tovarning barcha qismlari birgalikda qadoqlanishi kerak. Ularni stretch-plyonka bilan o‘rang. O‘ramda “Yuqoriga” va “Nozik yuk” manipulyatsion belgilari bo‘lishi kerak. |
+| Matraslar                                | Zich polietilen plyonkaga — 100 mkm dan. Zarur bo‘lsa, tovarni qo‘shimcha ravishda shaffof bo‘lmagan xaltachaga o‘rang.                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| G‘ildirak va shinalar                    | Qisman ingichka stretch-plyonka bilan o‘rang va unga skotch bilan yorliqni mahkamlang.                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 Zavodda qadoqlangan tovarlarni stretch-plyonkaga o‘rash zarur. Agar zavod o‘rami bo‘lmasa — kichik tovarlarni kuryerlik paketlariga joylang, kattaroq tovarlarni qutiga to‘ldirgich bilan soling.
 
@@ -414,11 +412,11 @@ Etiketka har bir buyurtmaga alohida chop qilinadi va yopishtiriladi.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/11-FBS.ba4da0f3.png)
 
-Shuningdek, Yorliqlar bo‘limiga o‘tmasdan turib, buyurtmadagi tovar yorlig‘ini chop etish imkoniyati mavjud. Buning uchun “Tovarning QR-kodi” bandini, so‘ngra yorliq o‘lchamini tanlang. Tovarga yorliqlarni joylashtirish qoidalari haqida batafsil ma’lumotni [6.2-band — Yorliqni shakllantirish va chop etish  (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/#_6-1-tovarni-tekshirish-va-qadoqlash) bo‘limida topishingiz mumkin.
+Shuningdek, Yorliqlar bo‘limiga o‘tmasdan turib, buyurtmadagi tovar yorlig‘ini chop etish imkoniyati mavjud. Buning uchun “Tovarning QR-kodi” bandini, so‘ngra yorliq o‘lchamini tanlang. Tovarga yorliqlarni joylashtirish qoidalari haqida batafsil ma’lumotni [6.2-band — Yorliqni shakllantirish va chop etish (opens new window)](https://seller.uzum.uz/manual/uz/6.product-preparation/#%5F6-1-tovarni-tekshirish-va-qadoqlash) bo‘limida topishingiz mumkin.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/10-UZ-FBS.9348c257.png)
 
-### Ta’minlashni yaratish
+###  Ta’minlashni yaratish
 
 Yig‘ish bosqichida ta’minlashni yaratish kerak. Buyurtma yaratilganda marketpleys mavjud qabul qilish joylarini avtomatik ravishda aniqlaydi — bu buyurtmadagi tovarlarning toifasiga bog‘liq.
 
@@ -442,11 +440,11 @@ Faqat **KGT**, bitta buyurtma vazni **6 kg dan ko‘p bo‘lmagan**.
 
 * **Malikadagi mobil punkt va O‘rikzordagi statsionar punkt.**
 
-**KGT** va **O‘GT** o‘ram turidagi buyurtmalar qabul qilinadi ([Batafsil ma’lumot 2.2-b. O‘lcham va qiymatga cheklov  (opens new window)](https://seller.uzum.uz/manual/uz/2.seller-requirements/#_2-2-%D0%BE-lcham-va-qiymatga-chekl%D0%BEv))
+**KGT** va **O‘GT** o‘ram turidagi buyurtmalar qabul qilinadi ([Batafsil ma’lumot 2.2-b. O‘lcham va qiymatga cheklov (opens new window)](https://seller.uzum.uz/manual/uz/2.seller-requirements/#%5F2-2-%D0%BE-lcham-va-qiymatga-chekl%D0%BEv))
 
 * **Sergeli ombori.**
 
-**KGT,O‘GT** va **YGT** o‘ram turidagi buyurtmalar qabul qilinadi ([Batafsil ma’lumot 2.2-b. O‘lcham va qiymatga cheklov  (opens new window)](https://seller.uzum.uz/manual/uz/2.seller-requirements/#_2-2-%D0%BE-lcham-va-qiymatga-chekl%D0%BEv))
+**KGT,O‘GT** va **YGT** o‘ram turidagi buyurtmalar qabul qilinadi ([Batafsil ma’lumot 2.2-b. O‘lcham va qiymatga cheklov (opens new window)](https://seller.uzum.uz/manual/uz/2.seller-requirements/#%5F2-2-%D0%BE-lcham-va-qiymatga-chekl%D0%BEv))
 
 Tovarlarni marketpleysga topshirish uchun ta’minlashni rasmiylashtirish kerak. Buning uchun **Yig‘ishda** (1) varaqasida kerakli buyurtmalarni tanlang, ularning yonida tasdiqlash belgilarini (2) qo‘ying va **Ta’minlashni yaratish** (3) tugmasini bosing.
 
@@ -462,7 +460,7 @@ Barcha oraliqlarni ko‘rish uchun filtr (3) ni olib tashlang. Kulrang vaqt mavj
 
 ![пример](https://seller.uzum.uz/manual/assets/img/FBS_UZ.800a7120.png)
 
-### Ta’minlashlar bilan ishlash
+###  Ta’minlashlar bilan ishlash
 
 Ta’minlashlarning hammasini FBS/DBS (1) bo‘limida — **Ta’minlashlar** (2) varaqasida ko‘rish mumkin.
 
@@ -477,7 +475,7 @@ Ro‘yxatdagi muayyan yetkazib berishni bossangiz, batafsil ma’lumot oynasi oc
 * Agar buyurtmalarni biri bekor qilinsa — u ta’minlashdan yo‘qoladi va **Bekor qilingan** holatiga o‘tadi.
 * **Hozircha ETTY to‘ldirish kerak emas.**
 
-### Buyurtmalarni topshirish va qabul qilish
+###  Buyurtmalarni topshirish va qabul qilish
 
 Buyurtmani marketpleysga topshirishga — ta’minlashda ko‘rsatilgan qabul qilish joyiga va vaqtida keling. O‘zi bilan ta’minlash dalolatnomasining 2 ta nusxasi bo‘lishi kerak. Agar boshqa joy va vaqtga kelinsa va kerakli hujjatlar olib kelinmasa, tovarlar qabul qilinmaydi.
 
@@ -488,7 +486,7 @@ Tovarlar topshirilib va tekshirilgandan keyin ta’minlash holati **Qabul qiling
 
 Qabul qilinmagan buyurtmalar, agar yetkazib berish vaqti hali tugamagan bo‘lsa **Yig‘ishda** varaqasiga qaytadi.
 
-### Uzum Tezkor kuryerlari orqali buyurtmalarni yetkazib berish
+###  Uzum Tezkor kuryerlari orqali buyurtmalarni yetkazib berish
 
 Agar buyurtmalar summasi 1 000 000 so‘mdan oshmasa, ularni Uzum Tezkor kuryeri orqali yetkazib berishingiz mumkin: u yetkazib berishni omboringizdan olib, Uzum omboriga yoki eng yaqin qabul punktiga olib boradi.
 
@@ -504,14 +502,12 @@ Qabul qilish joylari ro‘yxatida yangi band paydo bo‘ladi: Tezkor kuryeri orq
 
 "Yangi yetkazib berish" oynasida kuryerlik yetkazib berishni tanlang va kuryer turini ko‘rsating:
 
-* Velokuryer (1) - buyurtmalarni eng yaqin qabul punktiga yetkazib beradi. Quyidagi hollarda yetkazib berishni amalga oshira oladi:
-
-  + Jo‘natma o‘lchamlari - 40×40×25 sm gacha
-  + Vazni - barcha buyurtmalar uchun 15 kg gacha va bitta buyurtma uchun 6 kg gacha
-* Avtomobildagi kuryer (2) - buyurtmalarni omborga yetkazib beradi. Quyidagi hollarda yetkazib berishni amalga oshira oladi:
-
-  + Jo‘natma o‘lchamlari - 50×50×100 sm gacha
-  + Vazni - barcha buyurtmalar uchun 40 kg gacha.
+* Velokuryer (1) - buyurtmalarni eng yaqin qabul punktiga yetkazib beradi. Quyidagi hollarda yetkazib berishni amalga oshira oladi:  
+   * Jo‘natma o‘lchamlari - 40×40×25 sm gacha  
+   * Vazni - barcha buyurtmalar uchun 15 kg gacha va bitta buyurtma uchun 6 kg gacha
+* Avtomobildagi kuryer (2) - buyurtmalarni omborga yetkazib beradi. Quyidagi hollarda yetkazib berishni amalga oshira oladi:  
+   * Jo‘natma o‘lchamlari - 50×50×100 sm gacha  
+   * Vazni - barcha buyurtmalar uchun 40 kg gacha.
 
 Buyurtmalarni kuryerga topshirishni rejalashtirgan vaqtingizni tanlang va "Yaratish va yetkazib berishga o‘tish" tugmasini bosing.
 
@@ -525,10 +521,9 @@ Kuryer kelguniga qadar buyurtmalarni tayyorlang: tovarlarni qadoqlang, yorliqlar
 
 ![пример](https://seller.uzum.uz/manual/assets/img/03_UZ.d5881a7b.png)
 
-Buyurtmalar va yuk xatini kuryerga topshiring. Yetkazib berish holatini kuzatish uchun yetkazib berish kartochkasidagi "Uzum Tezkor kuryeri" (3) tugmasini bosing.
-Agar qabul qilish punkti yoki ombor buyurtmalarning bir qismini qabul qilmasa, kuryer ularni qaytarib olib keladi.
+Buyurtmalar va yuk xatini kuryerga topshiring. Yetkazib berish holatini kuzatish uchun yetkazib berish kartochkasidagi "Uzum Tezkor kuryeri" (3) tugmasini bosing. Agar qabul qilish punkti yoki ombor buyurtmalarning bir qismini qabul qilmasa, kuryer ularni qaytarib olib keladi.
 
-## 8.4 FBS qaytarishlari qanday ishlaydi
+##  8.4 FBS qaytarishlari qanday ishlaydi
 
 **Qaytarish bo‘lganda**
 
@@ -539,14 +534,14 @@ FBS buyurtmalari quyidagi holatlarda **Qaytarish** holatiga o‘tishadi:
 
 **Mahsulotlar qaytarilganda nimalar yuz beradi**
 
-Mahsulotlar xaridor qaytarishni rasmiylashtirgandan keyin 10 kun ichida omboringiz sozlamalarida tanlangan qaytarish joyiga qaytariladi — shundan so‘ng marketpleys yetkazib berishni yig‘adi va shakllantiradi. Qaytarish yukxati shaxsiy kabinetda **Yetkazib berish** - **Qaytarishlar** sahifasida paydo bo‘ladi. Shundan so‘ng tovarlarni olib ketish uchun qulay vaqtni tanlash mumkin.
+Mahsulotlar xaridor qaytarishni rasmiylashtirgandan keyin 10 kun ichida omboringiz sozlamalarida tanlangan qaytarish joyiga qaytariladi — shundan so‘ng marketpleys yetkazib berishni yig‘adi va shakllantiradi. Qaytarish yukxati shaxsiy kabinetda **Yetkazib berish** \- **Qaytarishlar** sahifasida paydo bo‘ladi. Shundan so‘ng tovarlarni olib ketish uchun qulay vaqtni tanlash mumkin.
 
 Buyurtmalarni yig‘ish va qaytarilgan tovarlarni ochish jarayonini videoga olishni tavsiya qilamiz. Xaridor tovarni shikastlasa yoki o‘rniga boshqasini qo‘ysa, video asosiy isbotga aylanadi:
 
 * Yig‘ish jarayonidan video siz hamma tovarlarni shikastlamasdan jo‘natganingizni tasdiqlaydi
 * Qaytarishlarni ochishdagi video esa xaridor qaysi tovarlarni qanday holatda qaytarganini ko‘rsatadi
 
-## 8.5 Sotuvchining FBS bo‘yicha reytingi nima
+##  8.5 Sotuvchining FBS bo‘yicha reytingi nima
 
 Sotuvchining reytingi FBS/DBS bo‘limida, FBS buyurtmalari varaqasidayuqori o‘ng burchakda ko‘rinadi.
 
@@ -562,4 +557,4 @@ topshirilgan buyurtmalar — bu **Yangi, Yig‘ishda, Bekor qilingan** (xaridor 
 * Agar reyting 80% dan pastga tushsa va sizda 10 ta buyurtma bor bo‘lsa — tovarlar FBS sxemasidan yechiladi va bu sxema bo‘yicha sotuvdan ketadi va 3 kunga bloklash yoqiladi. Bu holatda hozirda **Yangi** va **Yig‘ishda** holatlarida bo‘lgan buyurtmalarning hammasi bilan albatta ishlash kerak bo‘ladi.
 * Bloklash yechilgandan keyin reyting nolga tenglashtiriladi va qaytadan hisoblanadi — yangi kelib tushgan buyurtmalar asosida.
 
-Agar sotuvchi buyurtmalarning ko‘p qismini bekor qilayotgan bo‘lsa, qadoqlash qoidalarini buzayotgan, tovarlarni qabul qilish joylarining oldida qoldirayotgan bo‘lsa marketpleys o‘z ixtiyoriga ko‘ra FBS sxemasi bo‘yicha ishlashni bloklash huquqiga ega. Shuningdek, agar sotuvchi [qo‘llab-quvvatlash xizmatiga  (opens new window)](https://telegram.me/umarket_business_bot) murojaat qilsa, bekor qilishlarning sababini tushuntirsa va muammolarni to‘g‘rilash uchun qadamlarni taklif qilsa bloklashni yechishi mumkin.
+Agar sotuvchi buyurtmalarning ko‘p qismini bekor qilayotgan bo‘lsa, qadoqlash qoidalarini buzayotgan, tovarlarni qabul qilish joylarining oldida qoldirayotgan bo‘lsa marketpleys o‘z ixtiyoriga ko‘ra FBS sxemasi bo‘yicha ishlashni bloklash huquqiga ega. Shuningdek, agar sotuvchi [qo‘llab-quvvatlash xizmatiga (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) murojaat qilsa, bekor qilishlarning sababini tushuntirsa va muammolarni to‘g‘rilash uchun qadamlarni taklif qilsa bloklashni yechishi mumkin.

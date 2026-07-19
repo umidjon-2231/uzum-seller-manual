@@ -1,6 +1,6 @@
-# 3. Tariflar va daromadni chiqarish
+#  3\. Tariflar va daromadni chiqarish
 
-## 3.1 Pul yechib olish
+##  3.1 Pul yechib olish
 
 Sotuvchi shaxsiy kabinetining "Mablagʻlar" bo‘limida 5 ta summa aks ettirilgan:
 
@@ -22,7 +22,7 @@ Barcha hisoblar Shaxsiy kabinetda ro‘yxatdan o‘tgan sotuvchiga tegishli bo�
 
 **❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
-## 3.1.1 Mablag‘larni to‘lash jadvali
+##  3.1.1 Mablag‘larni to‘lash jadvali
 
 **Mablag‘larni to‘lash jadvali** — Bu Uzum sizga sotilgan tovarlar uchun pul to‘laydigan davriylikdir. Qaysi tovarlar uchun pul olishingiz va xizmat haqi miqdori jadvalga bog‘liq.
 
@@ -32,19 +32,19 @@ Grafik bo‘yicha pul 10 kundan ortiq vaqt oldin olingan tovarlar uchun to‘lan
 
 Agar to‘lov sanasi dam olish yoki bayram kuniga to‘g‘ri kelsa, pul yaqin ish kunida keladi
 
-| Davriylik | Qabul qilingan tovarlar uchun | Chiqarish xizmati uchun to‘lov |
-| --- | --- | --- |
-| Har ish kuni | avvalgi kunlarga | 1.5% |
-| **Har hafta** | | |
-| 14 sanada | 27-dan 3-gacha, shu jumladan | 1% |
-| 21 sanada | 4-dan 10-gacha, shu jumladan | 1% |
-| 28 sanada | 11-dan 17-gacha, shu jumladan | 1% |
-| 7 sanada | 18-dan 26-gacha, shu jumladan | 1% |
-| **2 haftada bir marta** | | |
-| 21 sanada | 27-dan 10-gacha, shu jumladan | 0% |
-| 7 sanada | 11-dan 26-gacha, shu jumladan | 0% |
-| **Oyiga 1 marta** | | |
-| 7 sanada | 27-dan 26-gacha, shu jumladan | 0% |
+| Davriylik               | Qabul qilingan tovarlar uchun | Chiqarish xizmati uchun to‘lov |
+| ----------------------- | ----------------------------- | ------------------------------ |
+| Har ish kuni            | avvalgi kunlarga              | 1.5%                           |
+| **Har hafta**           |                               |                                |
+| 14 sanada               | 27-dan 3-gacha, shu jumladan  | 1%                             |
+| 21 sanada               | 4-dan 10-gacha, shu jumladan  | 1%                             |
+| 28 sanada               | 11-dan 17-gacha, shu jumladan | 1%                             |
+| 7 sanada                | 18-dan 26-gacha, shu jumladan | 1%                             |
+| **2 haftada bir marta** |                               |                                |
+| 21 sanada               | 27-dan 10-gacha, shu jumladan | 0%                             |
+| 7 sanada                | 11-dan 26-gacha, shu jumladan | 0%                             |
+| **Oyiga 1 marta**       |                               |                                |
+| 7 sanada                | 27-dan 26-gacha, shu jumladan | 0%                             |
 
 Standart bo‘yicha barcha yangi sotuvchilarga pul 2 haftada bir marta to‘lanadi. Ammo siz boshqa davriylikni tanlashingiz mumkin: har bir ish kuni, har hafta yoki har oy. To‘lovlar jadvalini oyiga bir marta — 7-sanagacha o‘zgartirish mumkin. Yangi jadval o‘sha oyning 8-sanasidan kuchga kiradi.
 
@@ -75,7 +75,7 @@ Har oyning 7-sanasigacha Uzum o‘tgan oyning 27-kunidan 26-kunigacha bo‘lgan 
 
 **❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
-## 3.1.2 Shoshilinch pul mablag‘larini yechib olish
+##  3.1.2 Shoshilinch pul mablag‘larini yechib olish
 
 Shoshilinch yechib olish — bu jadvalingizda ko‘rsatilgan sanadan oldin pul olish imkonini beruvchi qo‘shimcha xizmatdir. Shoshilinch yechib olish xizmati uchun to‘lov — 2,5% ni tashkil etadi.
 
@@ -100,19 +100,19 @@ Uzum o‘z xohishiga ko‘ra muddatli yechib olish xizmatini ko‘rsatish mezonl
 
 **❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
-## 3.1.3 Yechishlar ro‘yxati
+##  3.1.3 Yechishlar ro‘yxati
 
 Yakunlar ro‘yxati va ularning holatlarini ko‘rish uchun shaxsiy kabinetda Mablagʻlar → To‘lovlar tarixi bandini tanlang.
 
-| Status | Ma’nosi |
-| --- | --- |
-| Ishlovda | To‘lov bankka yuborishga tayyor |
-| Bajarildi | To‘lov bankka yuborilgan |
+| Status      | Ma’nosi                         |
+| ----------- | ------------------------------- |
+| Ishlovda    | To‘lov bankka yuborishga tayyor |
+| Bajarildi   | To‘lov bankka yuborilgan        |
 | Bajarilmadi | Bank to‘lovni amalga oshirmagan |
 
 **❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
-## 3.2 Marketpleys tariflari
+##  3.2 Marketpleys tariflari
 
 Komissiya va logistika yig‘imi faqat sotilgan tovarlar tushumidan ushlab qolinadi va quyidagilarni o‘z ichiga oladi:
 
@@ -122,7 +122,7 @@ Komissiya va logistika yig‘imi faqat sotilgan tovarlar tushumidan ushlab qolin
 * buyurtmalarni BBP da berish yoki kurerlik yetkazib berish;
 * xaridor tomonidan tovar qaytarilgan taqdirda buyurtmaga xizmat ko‘rsatish (omborga qaytarish va qayta sotuvga chiqarish).
 
-Komissiya miqdori tovar toifasiga bog‘liq va avtomatik ravishda hisoblanadi. Logistik yig‘im tovar hajmiga bog‘liq bo‘lib, u quyidagicha hisoblanadi: (tovar uzunligi, mm × tovar eni, mm × tovar balandligi, mm) ÷ 1 000 000. Yangi komissiyalar, logistika yig‘imi miqdori bilan tanishish va hisob-kitob qilish uchun quyidagi [havolaga  (opens new window)](https://docs.google.com/spreadsheets/d/1J9EQEJqZcF3eRS4nLLAjR0M8jcb0QabZGFpfIP_mpRU/edit?gid=524543865#gid=524543865) o‘ting.
+Komissiya miqdori tovar toifasiga bog‘liq va avtomatik ravishda hisoblanadi. Logistik yig‘im tovar hajmiga bog‘liq bo‘lib, u quyidagicha hisoblanadi: (tovar uzunligi, mm × tovar eni, mm × tovar balandligi, mm) ÷ 1 000 000\. Yangi komissiyalar, logistika yig‘imi miqdori bilan tanishish va hisob-kitob qilish uchun quyidagi [havolaga (opens new window)](https://docs.google.com/spreadsheets/d/1J9EQEJqZcF3eRS4nLLAjR0M8jcb0QabZGFpfIP%5FmpRU/edit?gid=524543865#gid=524543865) o‘ting.
 
 **Logistika yig‘imi**
 
@@ -132,12 +132,12 @@ Logistik yig‘im summalari sotilgan tovarlar tushumidan, tovarni berish paytida
 
 01.06.2026-yildan boshlab logistika yig‘imi
 
-| Hajm | Tarif |
-| --- | --- |
-| 1 litrgacha\* shu jumladan | 5 250 so‘m |
-| har bir qo‘shimcha litr\* uchun (1 litrdan yuqori) | 250 so‘m |
-| maksimal tarif | 50 000 so‘m |
-| tovarni VGTsiz yetkazib berganlik uchun\*\* | 50 000 so‘m |
+| Hajm                                               | Tarif       |
+| -------------------------------------------------- | ----------- |
+| 1 litrgacha\* shu jumladan                         | 5 250 so‘m  |
+| har bir qo‘shimcha litr\* uchun (1 litrdan yuqori) | 250 so‘m    |
+| maksimal tarif                                     | 50 000 so‘m |
+| tovarni VGTsiz yetkazib berganlik uchun\*\*        | 50 000 so‘m |
 
 Sim-kartalar uchun 20 000 so‘m miqdorida qat’iy belgilangan logistika yig‘imi mavjud
 
@@ -166,7 +166,7 @@ Jami logistika yig‘imi summasi = 5 250 + 14 000 = 19 250 so‘m
 
 ❗ Agar tovar xaridor tomonidan qaytarilgan bo‘lsa, logistika yig‘imi qaytariladi
 
-### Logistika yig‘imi har bir tovar birligi uchun faqat bir marta undiriladi.
+###  Logistika yig‘imi har bir tovar birligi uchun faqat bir marta undiriladi.
 
 Axborotni aks ettirishning turli usullari tufayli tushunmovchiliklar yuzaga kelishi mumkin:
 
@@ -180,9 +180,9 @@ Bu bir xil yig‘im, faqat turlicha taqdim etilgan.
 
 ![](https://seller.uzum.uz/manual/assets/img/3.2.4UZ.8be38fdc.png)
 
-\*\* Toifa darajalari haqida batafsil ma’lumotni quyidagi havoladan olishingiz mumkin: [Komissiya mukofoti  (opens new window)](https://docs.google.com/spreadsheets/d/1J9EQEJqZcF3eRS4nLLAjR0M8jcb0QabZGFpfIP_mpRU/edit?gid=524543865#gid=524543865)
+\*\* Toifa darajalari haqida batafsil ma’lumotni quyidagi havoladan olishingiz mumkin: [Komissiya mukofoti (opens new window)](https://docs.google.com/spreadsheets/d/1J9EQEJqZcF3eRS4nLLAjR0M8jcb0QabZGFpfIP%5FmpRU/edit?gid=524543865#gid=524543865)
 
-## 3.2.1 EDBS loyihasi doirasida hisoblashning o‘ziga xos xususiyatlari
+##  3.2.1 EDBS loyihasi doirasida hisoblashning o‘ziga xos xususiyatlari
 
 EDBS loyihasi doirasida marketpleys komissiyasi va logistika to‘lovi olinmaydi.
 
@@ -190,21 +190,19 @@ Marketpleys sotuvchiga axborot-reklama xususiyatiga ega xizmatlarni taqdim etadi
 
 Xizmat narxi tovar toifasiga qarab o‘zgaradi va avtomatik tarzda hisoblab chiqiladi.
 
-Quyidagi [havola  (opens new window)](https://docs.google.com/spreadsheets/d/1PWSDS9nMfd3cl7osIN0HnLRiAcy9n-D8Y5LL9WkYt9U/edit?gid=124307035#gid=124307035) orqali o‘tib, hisob-kitob qilishingiz mumkin.
+Quyidagi [havola (opens new window)](https://docs.google.com/spreadsheets/d/1PWSDS9nMfd3cl7osIN0HnLRiAcy9n-D8Y5LL9WkYt9U/edit?gid=124307035#gid=124307035) orqali o‘tib, hisob-kitob qilishingiz mumkin.
 
 Kalkulyatordan foydalanish uchun yuqori chap burchakdagi **“Fayl” → “Nusxa yaratish” → “Nusxa olish”** tugmasini bosing, shundan so‘ng nusxalangan jadvalni xohlaganingizcha tahrirlashingiz mumkin. E’tibor bering, ustundagi har bir yuqori katakda eslatma mavjud, iltimos, kalkulyatorga o‘zgartirish kiritishdan oldin u bilan tanishib chiqing.
 
 **To‘lov summasini qanday hisoblash mumkin?**
 
-Aytaylik, sotuvchi “Maishiy texnika” turkumiga kiruvchi elektr ustaralar bilan savdo qiladi. Sotuvchi mahsulotni Uzum Market’da xaridorga 480 000 so‘mga sotmoqda.
-Sotuvchi reklama xizmati uchun haq to‘lashi kerak, bu sotilgan tovar tushumining foizi sifatida hisoblanadi - bu holda bu 17% yoki 81 600 so‘m bo‘ladi. Marketpleys EHA (Didox) orqali sotuvchiga hisobvaraq-faktura taqdim etadi, sotuvchi to‘lovni amalga oshiradi. Hammasi bo‘lib sotuvchi qo‘liga 398 400 so‘m tushadi.
+Aytaylik, sotuvchi “Maishiy texnika” turkumiga kiruvchi elektr ustaralar bilan savdo qiladi. Sotuvchi mahsulotni Uzum Market’da xaridorga 480 000 so‘mga sotmoqda. Sotuvchi reklama xizmati uchun haq to‘lashi kerak, bu sotilgan tovar tushumining foizi sifatida hisoblanadi - bu holda bu 17% yoki 81 600 so‘m bo‘ladi. Marketpleys EHA (Didox) orqali sotuvchiga hisobvaraq-faktura taqdim etadi, sotuvchi to‘lovni amalga oshiradi. Hammasi bo‘lib sotuvchi qo‘liga 398 400 so‘m tushadi.
 
-**“Avto”** tovar toifasi bo‘yicha alohida hisob-kitob tartibi belgilangan.
-Mazkur toifadagi axborot-reklama xizmati uchun to‘lov **Uzum Market platformasi orqali rasmiylashtirilgan har bir buyurtma uchun amalga oshiriladi va bir dona buyurtma uchun qo‘shilgan qiymat solig‘i (QQS)ni o‘z ichiga olgan holda 120 000 (bir yuz yigirma ming) so‘m miqdorida belgilanadi**, tovar qiymatidan qat’i nazar.
+**“Avto”** tovar toifasi bo‘yicha alohida hisob-kitob tartibi belgilangan. Mazkur toifadagi axborot-reklama xizmati uchun to‘lov **Uzum Market platformasi orqali rasmiylashtirilgan har bir buyurtma uchun amalga oshiriladi va bir dona buyurtma uchun qo‘shilgan qiymat solig‘i (QQS)ni o‘z ichiga olgan holda 120 000 (bir yuz yigirma ming) so‘m miqdorida belgilanadi**, tovar qiymatidan qat’i nazar.
 
 Ko‘rsatilgan summa mazkur Shartnomaning 7.1-bandida nazarda tutilgan Tomon-1ning mukofoti tarkibiga kiradi.
 
-## 3.3 Hisоbоtlar va yopuvchi hujjatlar
+##  3.3 Hisоbоtlar va yopuvchi hujjatlar
 
 Sotuvchining so‘roviga ko‘ra yakuniy hujjatlar sifatida har oyda, hisobot oyidan keyingi oyning 19 (o‘n to‘qqizinchi) sanasidan kechiktirmay vositachilik haqi bo‘yicha Hisob-faktura va Bajarilgan ishlar (ko‘rsatilgan xizmatlar) dalolatnomasi taqdim etiladi.
 
@@ -214,7 +212,7 @@ Sotuvchi taqdim etilgan Hisobvaraq-fakturani belgilangan tartibda o‘z vaqtida 
 
 ❗E’tiboringizni qaratamizki, nol hisobotlar shakllantirilmaydi. Hujjatlar faqat tegishli hisobot davrida sotuvlar mavjud bo‘lgandagina taqdim etiladi.
 
-### Kоmissiоner hisоbоti
+###  Kоmissiоner hisоbоti
 
 Kоmissiоner hisоbоti — bu siz uning asоsida o’zingizning sоliq оrganingizga hisоbоt beradigan yopuvchi hujjatdir.
 
@@ -228,7 +226,7 @@ Kоmissiоner hisоbоti buyurtmalarni rasmiylashtirish sanasi bo’yicha emas, 
 
 ![2023-01-19_19-25-19](https://user-images.githubusercontent.com/118338755/213473036-e56e1cfc-c6c7-4725-9d23-6e2d4ace9fe4.png)
 
-### Komissioner bo'yicha hisobotini yuklab olish
+###  Komissioner bo'yicha hisobotini yuklab olish
 
 Komissioner bo'yicha hisobotini yuklab olish uchun quyidagilarni bajarish kerak:
 
@@ -260,7 +258,7 @@ Komissioner bo'yicha hisobotini yuklab olish uchun quyidagilarni bajarish kerak:
 
 ![пример](https://seller.uzum.uz/manual/assets/img/07-UZ-отчет.db295d27.png)
 
-### Shaхsiy kabinetdan sоtuvlar haqida yuklash
+###  Shaхsiy kabinetdan sоtuvlar haqida yuklash
 
 Alоhida davr uchun o’z do’kоnlari bo’yicha sоtuvlar haqidagi dоlzarb ma’lumоtni оlish uchun sоtuvlar bo’yicha yuklashni amalga оshiring. Buning uchun shaхsiy kabinetning chap menyusidagi “Mоliya” bo’limiga o’ting, zarur davrni belgilang, “Sifatida saqlash” tugmasini bоsing, so’ngra zarur fоrmatni tanlang.
 
@@ -268,7 +266,7 @@ Alоhida davr uchun o’z do’kоnlari bo’yicha sоtuvlar haqidagi dоlzarb m
 
 Shaхsiy kabinetdan sоtuvlar to’g’risidagi yuklash ma’lumоtnоma tavsifiga ega bo’lib, sоliq hisоbоtini shakllantirish uchun asоs bo’la оlmaydi. Rasmiy shakllar bo’lib kоmissiоner hisоbоti, bajarilgan ishlar dalоlatnоmasi va hisоbvaraq- faktura hisоblanadi.
 
-### Shaxsiy kabinetdan to‘langan xizmatlar haqida yuklash
+###  Shaxsiy kabinetdan to‘langan xizmatlar haqida yuklash
 
 Alohida davr uchun do‘konlaringiz bo‘yicha to‘langan xizmatlar to‘g‘risida aktual ma’lumot olish uchun xizmatlar bo‘yicha yuklashni amalga oshiring. Buning uchun shaxsiy kabinetning chap menyusidagi “Moliya” bo‘limiga o‘ting va quyidagi skrinshotdagi ko‘rsatmalarga amal qiling. Xususan, saqlash xizmatlari uchun to‘lov hisobotini tovar ShK, hisob-varaqa va to‘lov summalari bo‘yicha tafsilotlar bilan yuklashingiz mumkin.
 

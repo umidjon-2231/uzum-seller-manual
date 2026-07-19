@@ -1,12 +1,12 @@
-# 9. DBS sxemasi bo‘yicha buyurtmalar bilan ishlash
+#  9\. DBS sxemasi bo‘yicha buyurtmalar bilan ishlash
 
 DBS (delivery by seller) — bu unda Sotuvchi (2-taraf) Tovarlarni o‘zining yoki ijaraga olingan omborida saqlab, buyurtmalarni qayta ishlab, yig‘adigan va Xaridorgacha mustaqil ravishda, Marketpleys (1-taraf) ishtirokisiz, yetkazib beradigan sxema.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/01-UZ-DBS.5e183db8.png)
 
-## 9.1 DBS bo‘yicha sotish qanday boshlanadi
+##  9.1 DBS bo‘yicha sotish qanday boshlanadi
 
-### FBO, FBS va DBS birga olib borish
+###  FBO, FBS va DBS birga olib borish
 
 Bitta tovarning o‘zini bir vaqtda FBO, FBS va DBS bo‘yicha sotish mumkin — bunda birga olib borishda FBO sxemasi har doim ustuvorroq bo‘lishi muhimdir.
 
@@ -26,12 +26,12 @@ Agar xaridor siz bitta tovarning o‘zini DBS va FBS bo‘yicha sotayotgan joyda
 
 ### **Tovar kartochkasini yaratish**
 
-DBS sxemasi bo‘yicha sotuvlar tovar kartochkasini yaratish va moderatsiyasidan boshlanadi. Assortimentni belgilab oling, kartochkalarni to‘ldiring va moderatsiya natijalarini kuting.
-Bu bosqichlar haqida batafsil ma’lumot quyida — [5-b. Tovar kartochkalarini yaratish  (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#_5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA).
+DBS sxemasi bo‘yicha sotuvlar tovar kartochkasini yaratish va moderatsiyasidan boshlanadi. Assortimentni belgilab oling, kartochkalarni to‘ldiring va moderatsiya natijalarini kuting.  
+Bu bosqichlar haqida batafsil ma’lumot quyida — [5-b. Tovar kartochkalarini yaratish (opens new window)](https://seller.uzum.uz/manual/5.product-creation/#%5F5-1-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA).
 
 Agar siz bitta tovarning o‘zini bir vaqtda har xil sxemalar (FBO / FBS / DBS) bo‘yicha sotayotgan bo‘lsangiz — kartochkalarni har bir sxema uchun takrorlash mumkin emas. Bitta tovar uchun faqat bitta kartochka bo‘lishi mumkin, ishlash sxemalarini tanlash va sozlashni esa kechroq — ombor yaratilgandan keyin istalgan vaqtda qilish mumkin.
 
-## 9.2 Ombor qanday yaratiladi va sozlanadi
+##  9.2 Ombor qanday yaratiladi va sozlanadi
 
 Ombor — bu sotuvchi marketpleysga topshirishdan oldin tovarlarini saqlaydigan ma’lum bir joy. Hozir shaxsiy kabinetda faqat bitta ombor yaratish mumkin — bu sizning DBS bo‘yicha sotilayotgan hamma SKU uchun sozlamalarning hammasi bir xil bo‘ladi degani.
 
@@ -43,21 +43,21 @@ FBS/DBS (1) bo‘limida **Omborlar** (2) varaqasiga o‘ting va **DBS ishlash sx
 
 **Agar siz hali shaxsiy kabinetda ombor yaratmagan bo‘lsangiz** — quyidagi yo‘riqnoma bo‘yicha harakatlarni bajaring.
 
-### Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating
+###  Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating
 
 FBS/DBS (1) bo‘limiga o‘ting va **Omborni yaratish** (2) tugmasini bosing. Kerakli ishlash sxemasini tanlash va sozlashni keyingi bosqichlarda qilish mumkin.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/03-UZ-DBS.769237f7.png)
 
-Keyin [8.2-b. Ombor qanday yaratiladi va sozlanadi  (opens new window)](https://seller.uzum.uz/manual/uz/8.fbs/#_8-2-ombor-qanday-yaratiladi-va-sozlanadi) (Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating) yo‘riqnomasi bo‘yicha harakatlarni bajaring.
+Keyin [8.2-b. Ombor qanday yaratiladi va sozlanadi (opens new window)](https://seller.uzum.uz/manual/uz/8.fbs/#%5F8-2-ombor-qanday-yaratiladi-va-sozlanadi) (Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating) yo‘riqnomasi bo‘yicha harakatlarni bajaring.
 
-### Ishlash sxemasini tanlang
+###  Ishlash sxemasini tanlang
 
 Har doim faqat bitta sxema bo‘yicha ishlash shart emas — oldin bittasini ko‘rsatish, keyin esa boshqasini qo‘shish mumkin. Kerakli ishlash sxemasini tanlang va **Keyingisi** tugmasini bosing.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/04-UZ-DBS.c3e177c0.png)
 
-### Yetkazib berish shaharlari va muddatlarini sozlang
+###  Yetkazib berish shaharlari va muddatlarini sozlang
 
 Yetkazib berish shaharlari va muddatlarini tanlang.
 
@@ -76,11 +76,10 @@ Hammasi FBS/DBS (1) bo‘limida saqlanadi — **Omborlar** (2) varaqasi. Ombor, 
 
 Yetkazib berish shaharlari va muddatlarini har doim tahrirlash mumkin, lekin bunda hozirgi paytda **Yangi** va **Yig‘ishda** holatlarida bo‘lgan buyurtmalar uchun shartlar o‘zgarmaydi. Ular avvalgi muddatlarda yetkazib berilishi kerak
 
-### Qoldiqlarni yangilang
+###  Qoldiqlarni yangilang
 
-FBS va DBS uchun qoldiqlar — yaxlit. Buyurtmalarni qabul qilishni boshlash uchun ularni yangilash — ya’ni sizning omboringizda saqlanadigan tovarlarni tanlash va ko‘rsatish kerak.
- [8.2-b. Ombor qanday yaratiladi va sozlanadi  (opens new window)](https://seller.uzum.uz/manual/uz/8.fbs/#_8-2-ombor-qanday-yaratiladi-va-sozlanadi)
-(Qoldiqlarni yangilang) yo‘riqnomasiga amal qiling.
+FBS va DBS uchun qoldiqlar — yaxlit. Buyurtmalarni qabul qilishni boshlash uchun ularni yangilash — ya’ni sizning omboringizda saqlanadigan tovarlarni tanlash va ko‘rsatish kerak.  
+[8.2-b. Ombor qanday yaratiladi va sozlanadi (opens new window)](https://seller.uzum.uz/manual/uz/8.fbs/#%5F8-2-ombor-qanday-yaratiladi-va-sozlanadi)(Qoldiqlarni yangilang) yo‘riqnomasiga amal qiling.
 
 **Qoldiqlar qanday hisoblanadi**
 
@@ -90,13 +89,13 @@ FBS va DBS uchun qoldiqlar — yaxlit. Buyurtmalarni qabul qilishni boshlash uch
 
 E’tiborli bo‘ling — sotuvlarni uzmaslik uchun qoldiqlarni doimiy ravishda tekshiring va yangilang
 
-## 9.3 DBS buyurtmarlari bilan qanday ishlanadi
+##  9.3 DBS buyurtmarlari bilan qanday ishlanadi
 
 DBS sxemasi bo‘yicha hamma buyurtmalarni FBS/DBS (1) bo‘limida — **DBS** **buyurtmalari** (2) varaqasida ko‘rish mumkin.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/07-UZ-DBS.5f87cf7a.png)
 
-### Yangi buyurtmalar
+###  Yangi buyurtmalar
 
 **Xaridorlar bilan qanday muloqot qilish kerak**
 
@@ -118,14 +117,14 @@ Ro‘yxatda buyurtmaga bosganda — tarkibi, xaridorning manzili va uning aloqa 
 
 Agar xaridor muloqot paytida buyurtmadan voz kechadigan bo‘lsa — uning o‘zi buyurtmani saytdagi yoki Uzum Market ilovasidagi profilida bekor qilishi kerak. Agar xaridor bir necha kun davomida javob bermayotgan bo‘lsa — buyurtmadan **Xaridor bilan aloqaga chiqa olmadim** sababi bilan voz keching. DBS buyurtmalarini bekor qilish haqidagi batafsil ma’lumot quyidagi bandda.
 
-### Buyurtmalarni bekor qilish
+###  Buyurtmalarni bekor qilish
 
 Agar qandaydir sababga ko‘ra buyurtmani yetkazib bera olmasangiz — buyurtmalar ro‘yxatidagi krest tugmasini (1) yoki buyurtma haqida ma’lumotli oynadagi **Voz kechish** (2) tugmasini bosing.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/10-UZ-DBS.55ee0e78.png)
 
-Buyurtmani yetkazib bera olmasligingiz sababini ko‘rsating. Bundan keyin buyurtma
- **Bekor qilingan** varaqasida bo‘ladi.
+Buyurtmani yetkazib bera olmasligingiz sababini ko‘rsating. Bundan keyin buyurtma  
+**Bekor qilingan** varaqasida bo‘ladi.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/1-UZ-DBS.1d8cb3f8.png)
 
@@ -134,23 +133,23 @@ Jarimalar nima uchun belgilanadi:
 * siz belgilangan sanagacha buyurtmani mijozga yetkazmadingiz, shuning uchun buyurtma avtomatik bekor qilindi.
 * siz buyurtmani juda kech bekor qildingiz — buyurtma kelib tushgandan 12 soat o‘tgandan keyin.
 
-Barcha bekor qilishlar uchun jarima olinadi. Agar mijoz bilan bog‘lana olmasangiz, *"Mijoz bilan bog‘lanish imkoni bo‘lmadi"* sababini tanlab, jarimani qoplash uchun [biznes qo‘llab-quvvatlash  (opens new window)](https://telegram.me/umarket_business_bot) xizmatiga murojaat qiling. Mijoz bilan qo‘ng‘iroq va xabar orqali bog‘lanishga uringaningizni tasdiqlovchi ma’lumotni taqdim etishingiz lozim bo‘ladi.
+Barcha bekor qilishlar uchun jarima olinadi. Agar mijoz bilan bog‘lana olmasangiz, _"Mijoz bilan bog‘lanish imkoni bo‘lmadi"_ sababini tanlab, jarimani qoplash uchun [biznes qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga murojaat qiling. Mijoz bilan qo‘ng‘iroq va xabar orqali bog‘lanishga uringaningizni tasdiqlovchi ma’lumotni taqdim etishingiz lozim bo‘ladi.
 
 Jarima miqdori buyurtma yaratilganidan boshlab bekor qilingan vaqtga bog‘liq:
 
 | Bekor qilish vaqti | Jarima(buyurtma summasidan%) | Kamida, so‘m | Undan ortiq emas, so‘m |
-| --- | --- | --- | --- |
-| 12 soatgacha | jarimasiz |  |  |
-| 24 soatgacha | 3 % | 10 000 | 120 000 |
-| 48 soatgacha | 5 % | 10 000 | 200 000 |
-| 72 soatgacha | 6 % | 10 000 | 240 000 |
-| 96 soatgacha | 7 % | 10 000 | 280 000 |
-| 120 soatgacha | 8 % | 10 000 | 320 000 |
-| 120 soatdan ko‘p | 9 % | 10 000 | 360 000 |
+| ------------------ | ---------------------------- | ------------ | ---------------------- |
+| 12 soatgacha       | jarimasiz                    |              |                        |
+| 24 soatgacha       | 3 %                          | 10 000       | 120 000                |
+| 48 soatgacha       | 5 %                          | 10 000       | 200 000                |
+| 72 soatgacha       | 6 %                          | 10 000       | 240 000                |
+| 96 soatgacha       | 7 %                          | 10 000       | 280 000                |
+| 120 soatgacha      | 8 %                          | 10 000       | 320 000                |
+| 120 soatdan ko‘p   | 9 %                          | 10 000       | 360 000                |
 
 Buyurtmalarni bekor qilishlar xaridorlarning ishonchiga, bu degani — sizning reyting va kelgusi sotuvlaringizga ta’sir qiladi. Bekor qilish sonlarini imkoni boricha kamaytirish uchun qoldiqlarni vaqtida to‘ldiring va yetkazib berish muddatlariga amal qiling
 
-### Buyurtmalarni yig‘ish
+###  Buyurtmalarni yig‘ish
 
 Buyurtma ishlash uchun olingandan keyin u **Yig‘ishda** (1) holatiga o‘tadi va tegishli varaqaga o‘tadi (2).
 
@@ -166,7 +165,7 @@ Marketpleysda qadoqlashga ham ma’lum bir talablar yo‘q. Agar buyurtmani yetk
 
 Markirovka bo‘yicha talablar FBS buyurtmalari uchun bo‘lgan talablar kabi — 8.3-b. FBS buyurtmarlari bilan qanday ishlanadi (Buyurtmalarni yig‘ish/Markirovka).
 
-### Buyurtmalarni yetkazib berish
+###  Buyurtmalarni yetkazib berish
 
 Buyurtmani yetkazib berishdan oldin xaridor bilan bog‘lanish kerak. Agar buyurtmani begona kuryerlik yoki pochta xizmatlari orqali berib yuborayotgan bo‘lsangiz — xaridorga bu haqida albatta xabar bering, xizmatning nomi va jo‘natmaning trek-raqamini ayting.
 
@@ -174,7 +173,7 @@ Buyurtma kuryerlik xizmatiga berib yuborilganda va yo‘lga chiqqanda **Yetkazib
 
 ![пример](https://seller.uzum.uz/manual/assets/img/13-UZ-DBS.5d6c02bf.png)
 
-### Buyurtmalarni topshirish
+###  Buyurtmalarni topshirish
 
 **Buyurtmani olish deb nima hisoblanadi**
 
@@ -187,7 +186,7 @@ Faqat buyurtma olinganligi tasdiqlangandan keyin topshirishni tasdiqlash kerak. 
 
 ![пример](https://seller.uzum.uz/manual/assets/img/14-UZ-DBS.f4e3e29e.png)
 
-## 9.4 DBS qaytarishlari qanday ishlaydi
+##  9.4 DBS qaytarishlari qanday ishlaydi
 
 Agar xaridor tovarlarni buyurtmani olgandan keyin qaytarib berishni xohlasa — qaytarishning sababini so‘rang va topshirish paytidan boshlab 10 kundan ko‘p vaqt o‘tmaganiga ishonch hosil qiling. Keyin xaridor bilan qaytarish shartlarini muhokama qiling.
 
@@ -209,9 +208,9 @@ Yangi oynada shartlarni e’tibor bilan o‘qing va **Pullarni qaytarish** tugma
 
 ![пример](https://seller.uzum.uz/manual/assets/img/16-UZ-DBS.99520481.png)
 
-Har qanday bahsli holatda [qo‘llab-quvvatlash xizmatiga  (opens new window)](https://telegram.me/umarket_business_bot) murojaat qilish mumkin ekanligini yodda tuting
+Har qanday bahsli holatda [qo‘llab-quvvatlash xizmatiga (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) murojaat qilish mumkin ekanligini yodda tuting
 
-## 9.5 Sotuvchining DBS bo‘yicha reytingi nima
+##  9.5 Sotuvchining DBS bo‘yicha reytingi nima
 
 Sotuvchining reytingi FBS/DBS bo‘limida, DBS buyurtmalari varaqasidayuqori o‘ng burchakda ko‘rinadi.
 
@@ -227,4 +226,4 @@ topshirilgan buyurtmalar — bu **Yangi, Yig‘ishda, Bekor qilingan** (xaridor 
 * Agar reyting 89% dan pastga tushsa va sizda 10 ta buyurtma bor bo‘lsa — tovarlar DBS sxemasidan yechiladi va bu sxema bo‘yicha sotuvdan ketadi va 3 kunga bloklash yoqiladi. Bu holatda hozirda **Yangi** va **Yig‘ishda** holatlarida bo‘lgan buyurtmalarning hammasi bilan albatta ishlash kerak bo‘ladi.
 * Bloklash yechilgandan keyin reyting nolga tenglashtiriladi va qaytadan hisoblanadi — yangi kelib tushgan buyurtmalar asosida.
 
-Agar sotuvchi buyurtmalarning ko‘p qismini bekor qilayotgan bo‘lsa, qadoqlash qoidalarini buzayotgan, mijozlar bilan qo‘pol muloqot qilayotgan bo‘lsa marketpleys o‘z ixtiyoriga ko‘ra DBS sxemasi bo‘yicha ishlashni bloklash huquqiga ega. Shuningdek, agar sotuvchi [qo‘llab-quvvatlash xizmatiga  (opens new window)](https://telegram.me/umarket_business_bot) murojaat qilsa, bekor qilishlarning sababini tushuntirsa va muammolarni to‘g‘rilash uchun qadamlarni taklif qilsa bloklashni yechishi mumkin.
+Agar sotuvchi buyurtmalarning ko‘p qismini bekor qilayotgan bo‘lsa, qadoqlash qoidalarini buzayotgan, mijozlar bilan qo‘pol muloqot qilayotgan bo‘lsa marketpleys o‘z ixtiyoriga ko‘ra DBS sxemasi bo‘yicha ishlashni bloklash huquqiga ega. Shuningdek, agar sotuvchi [qo‘llab-quvvatlash xizmatiga (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) murojaat qilsa, bekor qilishlarning sababini tushuntirsa va muammolarni to‘g‘rilash uchun qadamlarni taklif qilsa bloklashni yechishi mumkin.

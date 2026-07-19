@@ -1,6 +1,6 @@
-# 15. Uzum Market Akademiyasi
+#  15\. Uzum Market Akademiyasi
 
-### Sellers kursi
+###  Sellers kursi
 
 Dastlabki savdolardan biznes va kasbni kengaytirishgacha
 
@@ -68,7 +68,7 @@ Kursda siz:
 
 Sellers (Start va Pro) kursini tamomlaganlik to‘g‘risidagi sertifikat har bir ta’lim bosqichidan so‘ng yakuniy testdan muvaffaqiyatli o‘tgan taqdirdagina beriladi.
 
-### Uzum Market Manager kursi
+###  Uzum Market Manager kursi
 
 Uzum Market menejeri kasbi noldan boshlab.
 
@@ -97,14 +97,12 @@ Uzum Market menejeri kasbi noldan boshlab.
 
 **Narxi:** 2 000 000 so‘m
 
-🎓 Kurs yakuni - diplom loyihasi.
-**Faqat loyiha muvaffaqiyatli himoya qilingan** taqdirdagina sertifikat beriladi.
+🎓 Kurs yakuni - diplom loyihasi.**Faqat loyiha muvaffaqiyatli himoya qilingan** taqdirdagina sertifikat beriladi.
 
-### O‘qish uchun to‘lov
+###  O‘qish uchun to‘lov
 
 Siz butun kursni to‘liq yoki Uzum Nasiya orqali bo‘lib-bo‘lib to‘lashingiz mumkin.
 
 Kurs qiymatining 40 foizi miqdoridagi qisman to‘lov o‘qish boshlanishidan kamida 14 kalendar kun oldin amalga oshiriladi. Qolgan 60 foizi kurs boshlanishidan kamida 3 kalendar kun oldin to‘lanadi. Agar kurs boshlanishidan 5 kalendar kundan kamroq vaqt oldin bekor qilish to‘g‘risida xabarnoma olingan bo‘lsa, oldindan to‘langan to‘lov (avans) kursda ishtirok etish bekor qilinganda qaytarilmaydi.
 
-Maydonchaning o‘tish qobiliyati cheklangan, shuning uchun ariza yuborganingizdan keyin sizga darhol murojaat qilishlari imkoni yo‘q. Navbat kelishi bilan operator sizga qo‘ng‘iroq qilib, mavjud sanalarni taklif qiladi.
-Agar siz bilan uzoq vaqt davomida bog‘lanishmayotganidan xavotirda bo‘lsangiz yoki ariza yetib borganiga ishonchingiz komil bo‘lmasa, Uzum Academy telegram kanaliga +998908228214 raqamiga yozing va navbatdagi raqamingizni aniqlashtiring.
+Maydonchaning o‘tish qobiliyati cheklangan, shuning uchun ariza yuborganingizdan keyin sizga darhol murojaat qilishlari imkoni yo‘q. Navbat kelishi bilan operator sizga qo‘ng‘iroq qilib, mavjud sanalarni taklif qiladi. Agar siz bilan uzoq vaqt davomida bog‘lanishmayotganidan xavotirda bo‘lsangiz yoki ariza yetib borganiga ishonchingiz komil bo‘lmasa, Uzum Academy telegram kanaliga +998908228214 raqamiga yozing va navbatdagi raqamingizni aniqlashtiring.

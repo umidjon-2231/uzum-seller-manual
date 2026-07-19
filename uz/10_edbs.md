@@ -1,30 +1,30 @@
-# 10. EDBS sxemasi bo‘yicha buyurtmalar bilan ishlash
+#  10\. EDBS sxemasi bo‘yicha buyurtmalar bilan ishlash
 
 EDBS (External Deal, Buyer-Seller) — bu xaridor va sotuvchi o‘rtasidagi sxemasi bo‘lib, bunda xaridor mahsulotlar haqida ma’lumotni Uzum Market marketpleysgada oladi, lekin tomonlar o‘rtasidagi bitim marketpleysga ishtirokisiz tuziladi.
 
 Barcha to‘lash, kafolat va qaytarishlari masalalarini sotuvchi va xaridor o‘zlari hal qilishadi — Uzum Market ishtirokisiz.
 
-## 10.1 EDBS bo‘yicha sotish qanday boshlanadi
+##  10.1 EDBS bo‘yicha sotish qanday boshlanadi
 
-### FBO, FBS, DBS va EDBS bilan birga olib borish
+###  FBO, FBS, DBS va EDBS bilan birga olib borish
 
 EDBS-ni bitta yuridik shaxs doirasida boshqa sxemalar bilan birlashtirish mumkin emas. Agar siz EDBS va FBO, FBS yoki DBS sxemalari bo‘yicha savdo qilmoqchi bo‘lsangiz, yangi yuridik shaxs ro‘yxatdan o‘tkazing va EDBS uchun alohida shaxsiy kabinet yarating.
 
-### Bog‘lanish
+###  Bog‘lanish
 
-[Biznesni qo‘llab-quvvatlash  (opens new window)](https://telegram.me/umarket_business_bot) xizmatiga EDBS sxemasi bo‘yicha ishlashni xohlayotganingizni yozing. Agar mahsulotlaringiz mezonlarga mos kelsa, ruxsatni ochamiz\*.
+[Biznesni qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga EDBS sxemasi bo‘yicha ishlashni xohlayotganingizni yozing. Agar mahsulotlaringiz mezonlarga mos kelsa, ruxsatni ochamiz\*.
 
 Hozirda EDBS orqali faqat "Elektronika", "Avtomobillar", "Maishiy texnika", "Sport va dam olish” va “Turizm, toifasidagi tovarlarni sotish mumkin.
 
 Ruxsat olgandan so‘ng, omborni yarating va sozlang.
 
-### Tovar kartochkasini yaratish
+###  Tovar kartochkasini yaratish
 
 EDBS sxemasi bo‘yicha sotuvlar tovar kartochkasini yaratish va moderatsiyasidan boshlanadi. Assortimentni belgilab oling, kartochkalarni to‘ldiring va moderatsiya natijalarini kuting.
 
-Bu bosqichlar haqida batafsil ma’lumot quyida — [5-b. Tovar kartochkalarini yaratish.  (opens new window)](https://seller.uzum.uz/manual/uz/5.product-creation/#_5-1-kart%D0%BEchkalarni-rasmiylashtirish-bo-yicha-umumiy-q%D0%BEidalar)
+Bu bosqichlar haqida batafsil ma’lumot quyida — [5-b. Tovar kartochkalarini yaratish. (opens new window)](https://seller.uzum.uz/manual/uz/5.product-creation/#%5F5-1-kart%D0%BEchkalarni-rasmiylashtirish-bo-yicha-umumiy-q%D0%BEidalar)
 
-## 10.2 Ombor qanday yaratiladi va sozlanadi
+##  10.2 Ombor qanday yaratiladi va sozlanadi
 
 Ombor — bu sotuvchi marketpleysga topshirishdan oldin tovarlarini saqlaydigan ma’lum bir joy. Hozir shaxsiy kabinetda faqat bitta ombor yaratish mumkin — bu sizning DBS bo‘yicha sotilayotgan hamma SKU uchun sozlamalarning hammasi bir xil bo‘ladi degani.
 
@@ -36,7 +36,7 @@ FBS/DBS bo‘limida (1) **Ombor** yorlig‘iga (2) o‘ting va **EDBS ishlash sx
 
 **Agar siz hali shaxsiy kabinetda ombor yaratmagan bo‘lsangiz** — quyidagi yo‘riqnoma bo‘yicha harakatlarni bajaring.
 
-### Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating
+###  Ma’lumotlarni to‘ldiring va ishlash jadvalini ko‘rsating
 
 FBS/DBS (1) bo‘limiga o‘ting va **Omborni yaratish** (2) tugmasini bosing. Kerakli ishlash sxemasini tanlash va sozlashni keyingi bosqichlarda qilish mumkin.
 
@@ -79,9 +79,8 @@ Yetkazib berish shaharlari va muddatlarini tanlang.
 * Buyurtmalarni yetkazib berishni tashkillashtira oladigan viloyatlaringizni ko‘rsating (1). Butun O‘zbekiston yoki alohida joylarni tanlash mumkin — tovarlaringiz faqat shu hududlardagi xaridorlarga ko‘rinadi.
 * Yetkazib berish muddatlarini (2) har bir joy uchun alohida yoki hammasi uchun bittada umumiy muddatni sozlang — 1 kundan 30 kungacha ko‘rsatish mumkin.
 * Agar kuryerlarning xizmatlaridan foydalanishni rejalashtirayotgan bo‘lsangiz — ularning yetkazib berish muddatlarini hisobga oling.
-* Tez yetkazib berish sotuvlarga yordam berishiga e’tibor qarating. Xaridorlar ko‘pincha tezroq olish mumkin bo‘lgan tovarlarni tanlashadi.
-
-  Yetkazib berish hududlari va muddatlarini tanlagandan keyin **Tayyor** (3) tugmasini bosing.
+* Tez yetkazib berish sotuvlarga yordam berishiga e’tibor qarating. Xaridorlar ko‘pincha tezroq olish mumkin bo‘lgan tovarlarni tanlashadi.  
+Yetkazib berish hududlari va muddatlarini tanlagandan keyin **Tayyor** (3) tugmasini bosing.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/07-UZ-EDBS.234038e6.png)
 
@@ -91,7 +90,7 @@ Hammasi FBS/DBS (1) bo‘limida saqlanadi — **Omborlar** (2) varaqasi. Ombor, 
 
 Yetkazib berish shaharlari va muddatlarini har doim tahrirlash mumkin, lekin bunda hozirgi paytda **Yangi** va **Yig‘ishda** holatlarida bo‘lgan buyurtmalar uchun shartlar o‘zgarmaydi. Ular avvalgi muddatlarda yetkazib berilishi kerak.
 
-### Qoldiqlarni yangilang
+###  Qoldiqlarni yangilang
 
 Buyurtmalarni qabul qilishni boshlash uchun ularni yangilash — ya’ni sizning omboringizda saqlanadigan tovarlarni tanlash va ko‘rsatish kerak.
 
@@ -136,13 +135,13 @@ Agar faylda faqat qoldiqlar to‘ldirilgan, lekin ishlash sxemalari ko‘rsatilm
 
 E’tiborli bo‘ling — sotuvlarni uzmaslik uchun qoldiqlarni doimiy ravishda tekshiring va yangilang
 
-## 10.3 EDBS buyurtmarlari bilan qanday ishlanadi
+##  10.3 EDBS buyurtmarlari bilan qanday ishlanadi
 
 EDBS sxemasi bo‘yicha hamma buyurtmalarni FBS/DBS (1) bo‘limida — **DBS** buyurtmalari (2) varaqasida ko‘rish mumkin.
 
 ![пример](https://seller.uzum.uz/manual/assets/img/14-UZ-EDBS.3a922656.png)
 
-### Yangi buyurtmalar
+###  Yangi buyurtmalar
 
 **Xaridorlar bilan qanday muloqot qilish kerak**
 
@@ -166,7 +165,7 @@ Ro‘yxatda buyurtmaga bosganda — tarkibi, xaridorning manzili va uning aloqa 
 
 Agar xaridor muloqot paytida buyurtmadan voz kechadigan bo‘lsa — uning o‘zi buyurtmani saytdagi yoki Uzum Market ilovasidagi profilida bekor qilishi kerak. Agar xaridor bir necha kun davomida javob bermayotgan bo‘lsa — buyurtmadan **Xaridor bilan aloqaga chiqa olmadim** sababi bilan voz keching. EDBS buyurtmalarini bekor qilish haqidagi batafsil ma’lumot quyidagi bandda.
 
-### Buyurtmalarni bekor qilish
+###  Buyurtmalarni bekor qilish
 
 Agar qandaydir sababga ko‘ra buyurtmani yetkazib bera olmasangiz — buyurtmalar ro‘yxatidagi krest tugmasini (1) yoki buyurtma haqida ma’lumotli oynadagi **Voz kechish** (2) tugmasini bosing.
 
@@ -180,7 +179,7 @@ Buyurtmani yetkazib bera olmasligingiz sababini ko‘rsating. Bundan keyin buyur
 
 Buyurtmalarni bekor qilishlar xaridorlarning ishonchiga, bu degani — sizning reyting va kelgusi sotuvlaringizga ta’sir qiladi. Bekor qilish sonlarini imkoni boricha kamaytirish uchun qoldiqlarni vaqtida to‘ldiring va yetkazib berish muddatlariga amal qiling
 
-### Buyurtmalarni yig‘ish
+###  Buyurtmalarni yig‘ish
 
 Buyurtma ishlash uchun olingandan keyin u **Yig‘ishda** (1) holatiga o‘tadi va tegishli varaqaga o‘tadi (2).
 
@@ -196,7 +195,7 @@ Agar buyurtmani yetkazib berish xizmatlari orqali topshirsangiz — ularning qad
 
 Agar buyurtmani kurer orqali topshirsangiz — shunday qadoqlangki, xaridordan boshqa hech kim tovarning bir qismini yoki butun tovarni ololmasin.
 
-### Buyurtmalarni yetkazib berish
+###  Buyurtmalarni yetkazib berish
 
 Buyurtmani yetkazib berishdan oldin xaridor bilan bog‘lanish kerak. Agar buyurtmani begona kuryerlik yoki pochta xizmatlari orqali berib yuborayotgan bo‘lsangiz — xaridorga bu haqida albatta xabar bering, xizmatning nomi va jo‘natmaning trek-raqamini ayting.
 
@@ -204,7 +203,7 @@ Buyurtma kuryerlik xizmatiga berib yuborilganda va yo‘lga chiqqanda **Yetkazib
 
 ![пример](https://seller.uzum.uz/manual/assets/img/20-UZ-EDBS1.dba8235d.png)
 
-### Buyurtmalarni topshirish
+###  Buyurtmalarni topshirish
 
 **Buyurtmani olish deb nima hisoblanadi**
 
@@ -217,7 +216,7 @@ Faqat buyurtma olinganligi tasdiqlangandan keyin topshirishni tasdiqlash kerak. 
 
 ![пример](https://seller.uzum.uz/manual/assets/img/21-UZ-EDBS1.4bdebe4e.png)
 
-## 10.4 EDBS qaytarishlari qanday ishlaydi
+##  10.4 EDBS qaytarishlari qanday ishlaydi
 
 Agar xaridor tovarlarni buyurtmani olgandan keyin qaytarib berishni xohlasa — qaytarishning sababini so‘rang va topshirish paytidan boshlab 10 kundan ko‘p vaqt o‘tmaganiga ishonch hosil qiling. Keyin xaridor bilan qaytarish shartlarini muhokama qiling.
 
@@ -239,9 +238,9 @@ Qaytarishni tasdiqlash oynasi ochiladi. Shu yerda **Qaytarishni amalga oshirish*
 
 ![пример](https://seller.uzum.uz/manual/assets/img/23-UZ-EDBS.280626b3.png)
 
-Har qanday bahsli holatda [qo‘llab-quvvatlash  (opens new window)](https://telegram.me/umarket_business_bot) xizmatiga murojaat qilish mumkin ekanligini yodda tuting
+Har qanday bahsli holatda [qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga murojaat qilish mumkin ekanligini yodda tuting
 
-## 10.5 Sotuvchining EDBS bo‘yicha reytingi nima
+##  10.5 Sotuvchining EDBS bo‘yicha reytingi nima
 
 Sotuvchining reytingi FBS/DBS bo‘limida, DBS buyurtmalari varaqasidayuqori o‘ng burchakda ko‘rinadi.
 
@@ -264,11 +263,11 @@ topshirilgan buyurtmalar — bu **Yangi, Yig‘ishda, Bekor qilingan** (xaridor 
 * xaridorlardan asosli takroriy shikoyatlar mavjud bo‘lganda;
 * davlat huquqni muhofaza qiluvchi yoki vakolatli organlar (Regulyatorlar) so‘rovi bo‘yicha.
 
-## 10.6 Reklama shartnomasi bo‘yicha hisobdan chiqarish
+##  10.6 Reklama shartnomasi bo‘yicha hisobdan chiqarish
 
 Uzum Market sotuvchiga axborot-reklama xizmatlarini ko‘rsatadi va bu xizmatlar uchun haq oladi — u sotilgan tovarlar tushumidan hisoblanadigan foizdir.
 
-E’tibor bering: xizmat narxi tovar toifasiga bog‘liq va avtomatik ravishda hisoblanadi. EDBS sxemasi bo‘yicha tafsilotlar bilan [havola  (opens new window)](https://seller.uzum.uz/manual/uz/3.tariffs/#_3-2-1-edbs-loyihasi-doirasida-hisoblashning-o-ziga-xos-xususiyatlari) orqali tanishishingiz mumkin.
+E’tibor bering: xizmat narxi tovar toifasiga bog‘liq va avtomatik ravishda hisoblanadi. EDBS sxemasi bo‘yicha tafsilotlar bilan [havola (opens new window)](https://seller.uzum.uz/manual/uz/3.tariffs/#%5F3-2-1-edbs-loyihasi-doirasida-hisoblashning-o-ziga-xos-xususiyatlari) orqali tanishishingiz mumkin.
 
 Foizlar har bir buyurtmadagi SKU bo‘yicha hisoblanadi. Ularni **Moliyaviy → Xizmatlar uchun to‘lov** bo‘limida ko‘rish mumkin.
 
@@ -276,5 +275,4 @@ Foizlar har bir buyurtmadagi SKU bo‘yicha hisoblanadi. Ularni **Moliyaviy → 
 
 Xizmat ko‘rsatish yakunlari bo‘yicha sizga EHA (Didox) orqali hisobvaraqa taqdim etiladi, taqdim etish davri — haftasiga 1 marta.
 
-Xizmatlar uchun kompaniyaning hisob raqamiga pul o‘tkazish orqali to‘lashingiz mumkin,
-rekvizitlar hujjatning o‘zida ko‘rsatiladi. To‘lov tayinlashda shartnoma raqamini albatta ko‘rsating.
+Xizmatlar uchun kompaniyaning hisob raqamiga pul o‘tkazish orqali to‘lashingiz mumkin, rekvizitlar hujjatning o‘zida ko‘rsatiladi. To‘lov tayinlashda shartnoma raqamini albatta ko‘rsating.
