@@ -107,6 +107,10 @@ Agar amalda tovar o‘sha-o‘sha bo‘lib qolsa, nomi, tavsifi, tasviri, narxi,
 
 Agar tovar rangi, o‘lchami, hajmi, komplektatsiyasi yoki boshqa xususiyatlari bilan farq qilsa, bunday farqlar, agar Marketpleys funksionalida nazarda tutilgan bo‘lsa, bitta tovar kartochkasida va/yoki alohida SKU’larda aks ettirilishi shart.
 
+2-Tomonning Tovarlarini targ‘ibot qilish maqsadida Tovar kartochkalari va/yoki ularning alohida elementlari UZUM Servisi saytlari, mobil ilovalari, veb-interfeyslari, reklama va axborot kanallarida va/yoki Uzum Kompaniyalar guruhi Servislarida aks ettirilish mumkin.
+
+Bunday aks ettirish axborot va/yoki boshqa shaklda bo‘ladi. UZUM Servisida buyurtmani rasmiylashtirish, to‘lov qilish, yetkazib berish, Tovarni qaytarish va Tovarni sotib olish bilan bog‘liq boshqa harakatlar ushbu Shartnoma, Yo‘riqnoma va UZUM servisida qo‘llaniladigan boshqa hujjatlarda nazarda tutilgan tartibda amalga oshiriladi.
+
 ##  5.2 Tоvar tоifasi
 
 Tоvar kartоchkasini yaratish uchun siz u tegishli bo’lgan tоifani tanlashingiz kerak. Хaridоrlar sizning tоvaringizni оsоn tоpishi, shuningdek aktsiyalar pоdbоrkasiga tushishi uchun juda muhim. Nоto’g’ri ko’rsatilgan tоifa tоvarni sоtuvdan оlib tashlash uchun sabab bo’ladi.
