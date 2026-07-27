@@ -14,7 +14,7 @@ EDBS-ni bitta yuridik shaxs doirasida boshqa sxemalar bilan birlashtirish mumkin
 
 [Biznesni qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga EDBS sxemasi bo‘yicha ishlashni xohlayotganingizni yozing. Agar mahsulotlaringiz mezonlarga mos kelsa, ruxsatni ochamiz\*.
 
-Hozirda EDBS orqali faqat "Elektronika", "Avtomobillar", "Maishiy texnika", "Sport va dam olish” va “Turizm, toifasidagi tovarlarni sotish mumkin.
+Hozirda EDBS orqali faqat “Elektronika”, “Avtomobillar”, “Maishiy texnika”, “Sport va dam olish”, “Turizm, baliq ovlash va ovchilik”, "Kolyaskalar", "Karavotlar va belanchaklar", "Bolalar uchun mebellar", "Komodlar", "Karavotlar va belanchaklar", "Yo‘rgaklash stollari va doskalari", "Bolalar uchun mebel to‘plamlari", "O‘yin majmualari va bolalar maydonchalari", "Ovqatlantirish stullari", "Bolalar stollari", "Stullar, kursilar va kreslolar", "Manejlar" va "Bolalar velosipedlari", toifasidagi tovarlarni sotish mumkin.
 
 Ruxsat olgandan so‘ng, omborni yarating va sozlang.
 
