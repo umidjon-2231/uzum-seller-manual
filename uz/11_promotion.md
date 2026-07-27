@@ -562,6 +562,69 @@ Ha. Bir vaqtning o‘zida ikkala turdagi targ’ibotda tovar kiritishingiz mumki
 
 Buyurtmalarni ko‘paytirish targ’iboti faol bo‘lsa, u tovaringizga mavjud bo‘lgan barcha namoyishlarda ustuvorlik beradi. Bu joylarda tovar targ‘ib qilinayotgan hisoblanadi.
 
+##  11.6 Reklama havolalari
+
+####  Reklama havolalaridan qanday foydalaniladi
+
+####  UTM-belgili reklama havolalari nima?
+
+Bu statistikani to‘playdigan va qaysi reklama kanallari ko‘proq savdo keltirayotganini ko‘rsatadigan havolalar. Xaridor UTM-belgili havolaga bosganda, tizim uning qaysi kanaldan kelganini qayd etadi va 7 kun davomida uning harakatlarini: namoyishlar, savatga qo‘shish va buyurtmalar berishni kuzatib boradi. Bu ma’lumotlarni turli kanallar va kampaniyalarni taqqoslash va qaysi reklama yaxshiroq ishlashini aniqlashga yordam beradigan hisobotga yig‘amiz.
+
+####  Vosita qanday ishlaydi
+
+"UTM-belgili reklama havolalari" sahifasida bajarish mumkin bo‘lgan amallar:
+
+* Yangi havola yaratish yoki borini nusxalash
+* Hamma havolalar yoki alohida tovar yoki do‘kon bo‘yicha statistika hisobotini yuklab olish: o‘tishlar, namoyishlar, buyurtmalar va sotuvlar.
+
+Jadvalda kerakli reklama havolasini topish uchun Tovarlar yoki Do‘konlar sahifasiga kiring va izlash yoki filtrlardan foydalaning.
+
+####  Havolani yaratish va undan foydalanish
+
+1. Yuqori o‘ng burchakdagi “Havola yaratish” tugmasini bosing
+2. Nima targ‘ib qilishni tanlang — tovar yoki do‘kon, — va uning nomini kiriting
+3. Targ‘ibot kanalini ko‘rsating — masalan, Instagram yoki Telegram
+4. Reklama kampaniyasini boshqa kampaniyalardan ajratadigan nom o‘ylab toping, masalan, bloger ismi yoki reklama formati: post, storis yoki lenta
+5. “Havola yaratish” tugmasini bosing. UTM-belgilari avtomatik qo‘shiladi
+6. Havolani nusxalang va kerakli kanalga joylang. Agar havola yana kerak bo‘lib qolsa, uni har doim jadvaldan topishingiz mumkin.
+
+Aniq statistikani olish uchun har bir kanal va kampaniya uchun alohida havola yarating.
+
+![пример](https://seller.uzum.uz/manual/assets/img/1-UZ.a845b134.png)
+
+####  Hisobot qanday yuklab olinadi
+
+1. Kerakli sahifani tanlang — “Tovarlar” yoki “Do‘konlar”
+2. Hamma havolalar hisobotini yuklab olish uchun yuqori o‘ng burchakdagi “Barcha havolalar hisoboti” tugmasini bosing
+
+![пример](https://seller.uzum.uz/manual/assets/img/2-UZ.5d1464fb.png)
+
+1. Bitta havola statistikasini ko‘rish uchun ro‘yxatdagi tovar yoki do‘konni toping va yuklab olish belgisiga bosing
+
+![пример](https://seller.uzum.uz/manual/assets/img/3-UZ.db541ea0.png)
+
+1. Hisobot davrini ko‘rsating va “Hisobotni yuklab olish” tugmasini bosing.
+
+Statistika kuniga bir marta yangilanadi va faqat yakunlangan sanalar bo‘yicha shakllanadi, shuning uchun hisobotda bugungi kun ma’lumotlari bo‘lmaydi.
+
+####  Natijalar qanday tahlil qilinadi
+
+Hisobotda har bir reklama havolasi bo‘yicha statistikani topasiz:
+
+* Havola orqali o‘tishlar soni
+* Tovar yoki do‘kon sahifasini ko‘rishlar soni
+* Saralangan va savatga qo‘shishlar soni
+* Rasmiylashtirilgan va sotib olingan buyurtmalarning soni va summasi
+* Buyurtma bergan xaridorlar soni.
+
+Qaysi reklama ko‘proq buyurtma va sotuvga olib kelishini tushunish uchun turli kanallar va kampaniyalar ko‘rsatkichlarini taqqoslang.
+
+Agar aniq bir reklama nima uchun kutilganidek ishlamayotganini tushunishni istasangiz, voronkani tahlil qiling: Havola bosildi → Tovar kartochkasi yoki do‘kon sahifasi ochildi → Savatga qo‘shildi → Tovarlarga buyurtma berildi. Shunda xaridorlar qaysi bosqichda yo‘qolayotganini va muammo nimada bo‘lishi mumkinligini ko‘rasiz:
+
+* Havolaga bosishlar kam — reklama e’tiborni tortmayapti yoki kerakli auditoriyaga yetib bormayapti. Targ‘ibot kanalini, reklama formatini yoki e’lonni o‘zini o‘zgartirib ko‘ring — masalan, matn, rasm yoki videoni
+* Ko‘pincha ko‘rib chiqib, savatga qo‘shishadi, lekin kam hollarda buyurtma berishadi — reklama ishlaydi, lekin foydalanuvchini tovar, narx yoki yetkazish shartlari qoniqtirmasligi mumkin. Taklifni raqobatchilar bilan taqqoslang va nimani yaxshilash mumkinligini o‘ylab ko‘ring
+* Buyurtmalar bor, lekin siz kutganingizdan kam — e’lonni o‘zgartiring yoki byudjetni ko‘proq buyurtma keltirayotgan boshqa reklamaga sarflang
+
 ###  Yordam kerakmi?
 
 Agar biror narsa tushunarsiz bo‘lsa yoki savollar tug‘ilsa – Shaxsiy kabinetdagi yon menyudan **"Qo‘llab-quvvatlash chat"** tugmasini bosing.
