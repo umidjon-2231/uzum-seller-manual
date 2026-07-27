@@ -729,7 +729,7 @@ Barcha hujjatlar qabul qilingandan va ma'lumotlar omborga yuborilgandan so'ng, k
 
 Ko'rib turganingizdek, umumiy nuqtai nazardan ham, jarayon tez ko'rinmaydi. Har bir bosqich vaqtga ta'sir qilishi mumkin bo'lgan ko'plab xususiyatlarni o'z ichiga oladi. Biroq, biz har bir kompensatsiya ko'rib chiqilishi va to'lanishiga kafolat beramiz.
 
-To'ldirish uchun shablonlarni quyidagi havolalarda topishingiz mumkin: [Kompensatsiya uchun davo](../../%D0%9F%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F%5F%D0%B4%D0%BB%D1%8F%5F%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D0%B8%5F%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%5FUzum%5FMarket%201.docx), [Qoshimcha shartnoma](../../%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%5F%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%5F%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D0%B8%201.docx).
+To'ldirish uchun shablonlarni quyidagi havolalarda topishingiz mumkin: [Kompensatsiya uchun davo](../../%D0%9F%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F%5F%D0%B4%D0%BB%D1%8F%5F%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D0%B8%5F%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0%5FUzum%5FMarket%201.docx), [Qoshimcha shartnoma](../../6RU/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%5F%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.docx).
 
 Barcha qo'shimcha ma'lumotlar uchun [Biznesni qo'llab-quvvatlashga (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) yoki shaxsiy menejeringizga murojaat qiling.
 
