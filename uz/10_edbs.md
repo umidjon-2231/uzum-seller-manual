@@ -177,6 +177,25 @@ Buyurtmani yetkazib bera olmasligingiz sababini ko‘rsating. Bundan keyin buyur
 
 ![пример](https://seller.uzum.uz/manual/assets/img/18-UZ-EDBS.d6039fe6.png)
 
+Jarimalar nima uchun belgilanadi:
+
+* siz belgilangan sanagacha buyurtmani mijozga yetkazmadingiz, shuning uchun buyurtma avtomatik bekor qilindi.
+* siz buyurtmani juda kech bekor qildingiz — buyurtma kelib tushgandan 12 soat o‘tgandan keyin.
+
+Barcha bekor qilishlar uchun jarima olinadi. Agar mijoz bilan bog‘lana olmasangiz, _"Mijoz bilan bog‘lanish imkoni bo‘lmadi"_ sababini tanlab, jarimani qoplash uchun [biznes qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga murojaat qiling. Mijoz bilan qo‘ng‘iroq va xabar orqali bog‘lanishga uringaningizni tasdiqlovchi ma’lumotni taqdim etishingiz lozim bo‘ladi.
+
+Jarima miqdori buyurtma yaratilganidan boshlab bekor qilingan vaqtga bog‘liq:
+
+| Bekor qilish vaqti | Jarima(buyurtma summasidan%) | Kamida, so‘m | Undan ortiq emas, so‘m |
+| ------------------ | ---------------------------- | ------------ | ---------------------- |
+| 12 soatgacha       | jarimasiz                    |              |                        |
+| 24 soatgacha       | 3 %                          | 10 000       | 120 000                |
+| 48 soatgacha       | 5 %                          | 10 000       | 200 000                |
+| 72 soatgacha       | 6 %                          | 10 000       | 240 000                |
+| 96 soatgacha       | 7 %                          | 10 000       | 280 000                |
+| 120 soatgacha      | 8 %                          | 10 000       | 320 000                |
+| 120 soatdan ko‘p   | 9 %                          | 10 000       | 360 000                |
+
 Buyurtmalarni bekor qilishlar xaridorlarning ishonchiga, bu degani — sizning reyting va kelgusi sotuvlaringizga ta’sir qiladi. Bekor qilish sonlarini imkoni boricha kamaytirish uchun qoldiqlarni vaqtida to‘ldiring va yetkazib berish muddatlariga amal qiling
 
 ###  Buyurtmalarni yig‘ish
