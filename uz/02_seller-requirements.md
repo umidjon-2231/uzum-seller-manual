@@ -357,9 +357,74 @@ Brendingizni avtorizatsiya qilingan brendlar ro‘yxatiga kiritish uchun [Biznes
 
 ##  2.8 Asl nusxa belgisi
 
-Mahsulotingizga "Original" nishonini olish uchun siz mahsulotlarning aslligini tasdiqlashingiz va [Biznesni qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) orqali hujjatlarni taqdim etishingiz kerak. Hujjatlar ro‘yxati bilan [havola (opens new window)](https://docs.google.com/document/d/1LvuX7DQRNqsW3ugkiQr-VKpp4CO5Vqjc%5FDwh46JmcCg/edit?tab=t.0) orqali tanishish mumkin . Muhimi, hujjatlar ro‘yxati sotuvchi sotish uchun tovarni qanday usulda sotib olishiga bog‘liq
+"Original" belgisini olish uchun tovarning originalligini tasdiqlashingiz va hujjatlarni [Biznesni qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga taqdim etishingiz kerak. Taqdim etilishi lozim bo‘lgan hujjatlar ro‘yxati sotiladigan tovarni qanday usulda xarid qilishingizga bog‘liq.
 
-Shuningdek, e’tibor qaratish kerakki, “Original” belgisi faqat mahsulot kartasida brend tanlangan taqdirdagina o‘rnatilishi mumkin.
+Tovarni xarid qilish usulingiz ko‘rsatilgan variantni tanlang.
+
+1. **Siz brendning huquq egasisiz**
+* Quyidagi hujjatlarni taqdim eting:
+* O‘zbekiston Respublikasida ro‘yxatdan o‘tkazilgan tovar belgisi guvohnomasi;
+* brend logotipi tovarning o‘ziga, yorlig‘iga yoki qadog‘iga tushirilgan tovar fotosuratlari.
+1. **Siz tovarni bevosita brendning huquq egasidan xarid qilasiz**
+
+**Quyidagi hujjatlarni taqdim eting:**
+
+* huquq egasidan brend tovarlarini sotish huquqini tasdiqlovchi axborot xati;
+* huquq egasi bilan tuzilgan xarid shartnomasi;
+* so‘nggi **90 kun** ichida rasmiylashtirilgan, brend nomi ko‘rsatilgan yuk xatlari yoki cheklar.
+1. **Siz tovarni rasmiy distribyutordan xarid qilasiz**
+
+**Quyidagi hujjatlarni taqdim eting:**
+
+* yetkazib beruvchi brendning rasmiy distribyutori ekanligini tasdiqlovchi hujjat (avtorizatsiya xati, axborot xati yoki huquq egasi tomonidan berilgan boshqa hujjat);
+* rasmiy distribyutor bilan tuzilgan yetkazib berish shartnomasi;
+* so‘nggi **90 kun** ichida rasmiylashtirilgan, brend nomi ko‘rsatilgan yuk xatlari yoki cheklar.
+1. **Siz tovarni vositachi orqali xarid qilasiz**
+
+**Quyidagi hujjatlarni taqdim eting:**
+
+* vositachi bilan tuzilgan shartnoma;
+* so‘nggi **90 kun** ichida rasmiylashtirilgan, brend nomi ko‘rsatilgan yuk xatlari yoki cheklar;
+* rasmiy distribyutordan vositachiga tovar yetkazib berilganini tasdiqlovchi xat;
+* yetkazib beruvchi brendning rasmiy distribyutori ekanligini tasdiqlovchi hujjat.
+1. **Siz tovarni brendning rasmiy sayti orqali xarid qilasiz**
+
+**Quyidagi hujjatlarni taqdim eting:**
+
+* brendning rasmiy saytiga havola;
+* xarid qilingan tovarlar bo‘yicha elektron cheklar.
+
+**Shartlar:**
+
+* kamida 10 dona tovar xarid qilingan bo‘lishi kerak;
+* xarid qilingan sanadan 60 kundan ortiq vaqt o‘tmagan bo‘lishi kerak.
+
+**Qo‘shimcha ravishda taqdim eting:**
+
+* yakka tartibdagi tadbirkor yoki tashkilot rahbaridan faqat original mahsulotlar sotilishini tasdiqlovchi kafolat xati.
+1. **Maxsus holatlar**
+
+a) **Agar yetkazib berish zanjirida qo‘shimcha ishtirokchilar mavjud bo‘lsa**
+
+Agar brendning huquq egasi va sizning kompaniyangiz o‘rtasida qo‘shimcha yetkazib beruvchilar mavjud bo‘lsa, butun yetkazib berish zanjiri bo‘yicha hujjatlarni taqdim etishingiz lozim. Hujjatlar tovarning zanjirdagi har bir ishtirokchi o‘rtasida topshirilganini tasdiqlashi kerak. Barcha hujjatlarda vakolatli shaxslarning imzolari va muhrlari (mavjud bo‘lsa) bo‘lishi lozim.
+
+b) **Agar holatingiz ushbu yo‘riqnomada keltirilmagan bo‘lsa**
+
+Agar tovarni xarid qilish usulingiz yuqorida keltirilgan holatlardan farq qilsa, zarur hujjatlar ro‘yxatini aniqlashtirish uchun [Biznesni qo‘llab-quvvatlash (opens new window)](https://telegram.me/umarket%5Fbusiness%5Fbot) xizmatiga murojaat qiling.
+
+c) **Hujjatlarga qo‘yiladigan maxsus talablar**
+
+Agar tovar chet eldan qo‘l yuki orqali olib kirilgan bo‘lsa, tovarni xarid qilish usuliga muvofiq taqdim etilishi lozim bo‘lgan hujjatlarga qo‘shimcha ravishda quyidagilarni taqdim eting:
+
+tovar so‘nggi **60 kun** ichida xarid qilinganini tasdiqlovchi, brend nomi ko‘rsatilgan cheklar yoki yuk xatlari.
+
+O‘zbekiston Respublikasida rasmiy vakolatxonasiga ega bo‘lmagan brendlar tovarlari uchun quyidagi hujjatlarni taqdim eting:
+
+Tovar belgisining O‘zbekiston Respublikasidan tashqarida ro‘yxatdan o‘tkazilganini tasdiqlovchi hujjat (tovar belgisining xalqaro ro‘yxatdan o‘tkazilganligi); muvofiqlik sertifikatlari; bojxona deklaratsiyasi; tovarning originalligini tasdiqlovchi boshqa hujjatlar.
+
+**Muhim**
+
+**"Original"** belgisi faqat tovar kartochkasida **brendi** ko‘rsatilgan tovarlarga berilishi mumkin. Agar tovar brendning rasmiy savdo kanali hisoblanmaydigan yoki huquq egasi tomonidan tasdiqlangan avtorizatsiyaga ega bo‘lmagan internet-do‘kon orqali xarid qilingan bo‘lsa, **"Original"** belgisini berish rad etilishi mumkin. Soxta yoki noto‘g‘ri ma’lumotlarni o‘z ichiga olgan hujjatlarni taqdim etish do‘konning bloklanishiga hamda jarima choralari qo‘llanilishiga olib kelishi mumkin.
 
 ##  2.9 **Tovarlarning yaroqlilik muddati**
 
