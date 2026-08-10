@@ -237,6 +237,14 @@ TOP SKU — bu xaridorlar uchun tovarlarning jozibadorligini avtomatlashtirilgan
 
 ![пример](https://seller.uzum.uz/manual/assets/img/UZ-09.9f89d3f6.png)
 
+Agar omborda tovarlar tugagan bo‘lsa, sahifaning yuqori qismida umuman qolmagan barcha SKU lar bo‘yicha taxminiy yo‘qotishlarning umumiy summasi ko‘rsatiladi. Shuningdek, har bir shunday SKU yonida aynan shu tovar bo‘yicha taxminiy yo‘qotish summasi ham ko‘rsatiladi.
+
+![пример](https://seller.uzum.uz/manual/assets/img/UZ-10.cd5f6f02.png)
+
+**Taxminiy yo‘qotishlar summasi qanday hisoblanadi?**
+
+So‘nggi haftadagi sotuv bo‘lgan kunlar olinadi va o‘rtacha kunlik tushum hisoblanadi. So‘ng ushbu summa shu haftadagi tovar omborda bo‘lmagani sababli sotuv bo‘lmagan kunlar soniga ko‘paytiriladi.
+
 **Qoldiqlar qanday hisoblanadi**
 
 * Qoldiqlardan FBS yoki DBS buyurtmasiga tushgan va xaridorga topshirilgan tovar birliklarining miqdorini ayiramiz.
