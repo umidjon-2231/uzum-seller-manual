@@ -426,10 +426,26 @@ Tovar belgisining O‘zbekiston Respublikasidan tashqarida ro‘yxatdan o‘tkaz
 
 **"Original"** belgisi faqat tovar kartochkasida **brendi** ko‘rsatilgan tovarlarga berilishi mumkin. Agar tovar brendning rasmiy savdo kanali hisoblanmaydigan yoki huquq egasi tomonidan tasdiqlangan avtorizatsiyaga ega bo‘lmagan internet-do‘kon orqali xarid qilingan bo‘lsa, **"Original"** belgisini berish rad etilishi mumkin. Soxta yoki noto‘g‘ri ma’lumotlarni o‘z ichiga olgan hujjatlarni taqdim etish do‘konning bloklanishiga hamda jarima choralari qo‘llanilishiga olib kelishi mumkin.
 
-##  2.9 **Tovarlarning yaroqlilik muddati**
+##  2.9 Tovarlarning yaroqlilik muddati
 
 Buziladigan tovarlar (masalan, EKO, kosmetika, maishiy kimyo vositalari, gigiyena buyumlari, o‘g‘itlar va boshqalar) qabul qilish paytida umumiy yaroqlilik muddatining kamida 60% yoki 6 oy qolgan taqdirdagina omborga qabul qilinadi.
 
 Tovarlar ishlab chiqaruvchisi, tarkibi va yaroqlilik muddati to‘g‘risidagi ma’lumotlarni o‘z ichiga olishi shart.
 
 Zavod qadog‘isiz, yaroqlik muddati o‘chirilgan, kesib tashlangan yoki qayta yopishtirilgan tovarlar omborga qabul qilinmaydi.
+
+##  2.10 Tovar kartochkalaridagi foto va videokontentni ko‘chirish
+
+Agar tovar kartochkasida joylashtirilgan foto yoki videokontentga nisbatan mutlaq huquqlar buzilgani haqida murojaat kelib tushsa, «UZUM MARKET» MCHJ XK bunday murojaatni faqat ariza beruvchi ushbu kontentga bo‘lgan huquqlarini hamda ularning buzilganini tasdiqlovchi hujjatlarni taqdim etgandagina ko‘rib chiqadi.
+
+Foto yoki videokontentdan noqonuniy foydalanish bo‘yicha murojaatlar faqat O‘zbekiston Respublikasi Intellektual mulk agentligi tomonidan berilgan va ariza beruvchining mutlaq huquqlari buzilganini tasdiqlovchi rasmiy hujjat (xulosa, qaror yoki boshqa tasdiqlovchi hujjat) mavjud bo‘lgandagina ko‘rib chiqiladi.
+
+Biroq, murojaat qilingan foto yoki videokontentda ariza beruvchining Marketpleysda ro‘yxatdan o‘tgan do‘koni nomi bilan mos keladigan, aniq ko‘rinib turgan suv belgisi (do‘kon nomi) mavjud bo‘lsa, yuqoridagi hujjatni taqdim etish talab etilmaydi. Bunday holatda Marketpleys murojaatni mavjud ma’lumotlar asosida, O'zbekiston Respublikasi Intellektual mulk agentligidan tasdiq so‘ramasdan ko‘rib chiqishga haqli.
+
+Jismoniy shaxs tasviridan noqonuniy foydalanish bilan bog‘liq murojaatlar faqat ariza beruvchi aynan foto yoki videokontentda tasvirlangan shaxs ekanini tasdiqlaydigan shaxsni tasdiqlovchi hujjat nusxasi yoki uning nomidan ish yuritish vakolatini tasdiqlovchi hujjat taqdim etilganda ko‘rib chiqiladi.
+
+«UZUM MARKET» MCHJ XK murojaatni ko‘rib chiqish uchun zarur bo‘lgan qo‘shimcha hujjatlar va ma’lumotlarni talab qilishga, shuningdek ariza beruvchining buzilgan huquqlari yoki vakolatlarini tasdiqlovchi hujjatlar taqdim etilmagan taqdirda murojaatni qanoatlantirishni rad etishga yoki uni ko‘rib chiqmasdan qoldirishga haqli.
+
+«UZUM MARKET» MCHJ XK tomonidan murojaatning ko‘rib chiqilishi mutlaq yoki boshqa huquqlar buzilganini tan olishni anglatmaydi hamda faqat O‘zbekiston Respublikasi qonunchiligi va mazkur Ofertaning talablariga rioya etish maqsadida amalga oshiriladi.
+
+«UZUM MARKET» MCHJ XK intellektual faoliyat natijalari va individuallashtirish vositalariga bo‘lgan mutlaq, mualliflik, turdosh yoki boshqa huquqlarning kimga tegishli ekanini aniqlamaydi, shuningdek bunday huquqlarga egaligini da’vo qilayotgan shaxslar o‘rtasidagi nizolarni hal qilmaydi.
