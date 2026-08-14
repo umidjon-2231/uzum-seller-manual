@@ -20,7 +20,7 @@ Shaxsiy ma’lumotlar bo‘limi → Hisob raqam pul yechib olish uchun 5 ta hiso
 
 Barcha hisoblar Shaxsiy kabinetda ro‘yxatdan o‘tgan sotuvchiga tegishli bo‘lishi kerak. Qarindoshlar, xodimlar, ish bajaruvchi va boshqalarning hisoblaridan foydalanish mumkin emas. Agar siz boshqa shaxsning hisobini ko‘rsatsangiz, Uzum ma’lumotlar tuzatilgunga qadar to‘lovlarni to‘xtatib turishi mumkin.
 
-**❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
+**❗Muhim: 2026-yil 31-avgustgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
 ##  3.1.1 Mablag‘larni to‘lash jadvali
 
@@ -73,7 +73,7 @@ Aytaylik, sotuvchi **har bir ish kuni uchun** to‘lov jadvalini tanlaydi. 8-may
 
 Har oyning 7-sanasigacha Uzum o‘tgan oyning 27-kunidan 26-kunigacha bo‘lgan davrda qabul qilingan barcha tovarlar uchun pul to‘laydi. Yuqoridagi misolda 7-iyungacha Uzum 27-apreldan 26-maygacha olingan barcha tovarlar uchun pulni to‘laydi. Oylardagi kunlar soni turlicha bo‘lganda (fevralda 30, 31 yoki 28−29), ba’zi kunlarda to‘lov bir necha kun oldin kelishi mumkin, boshqa kunlarda esa, agar pul avvalgi jadval bo‘yicha to‘langan bo‘lsa, umuman bo‘lmasligi mumkin.
 
-**❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
+**❗Muhim: 2026-yil 31-avgustgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
 ##  3.1.2 Shoshilinch pul mablag‘larini yechib olish
 
@@ -98,7 +98,7 @@ Haqiqiy kirim vaqti qabul qiluvchi bankka bog‘liq.
 
 Uzum o‘z xohishiga ko‘ra muddatli yechib olish xizmatini ko‘rsatish mezonlarini o‘zgartirish, uni vaqtincha cheklash yoki to‘xtatib turish huquqiga ega.
 
-**❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
+**❗Muhim: 2026-yil 31-avgustgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
 ##  3.1.3 Yechishlar ro‘yxati
 
@@ -110,7 +110,7 @@ Yakunlar ro‘yxati va ularning holatlarini ko‘rish uchun shaxsiy kabinetda Ma
 | Bajarildi   | To‘lov bankka yuborilgan        |
 | Bajarilmadi | Bank to‘lovni amalga oshirmagan |
 
-**❗Muhim: 2026-yil 31-iyulgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
+**❗Muhim: 2026-yil 31-avgustgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
 ##  3.2 Marketpleys tariflari
 
