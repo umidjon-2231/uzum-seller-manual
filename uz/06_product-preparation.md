@@ -713,7 +713,7 @@ Agar SKU so‘nggi 15 kun ichida savdo qilmagan bo‘lsa — u "361 kun va undan
 
 Ushbu bo'limda biz Uzum Market marketpleysi mas'ul bo'lgan, yo'qolgan yoki shikastlangan tovarlarni qoplash tartibini tavsiflaymiz.
 
-Bu ko‘plab bo‘limlarning muvofiqlashtirilishini talab qiluvchi qiyin jarayon bo‘lib, sizni ishontirib aytmoqchimizki, Uzum Market tomonidan yetkazilgan barcha shikastlangan yoki yo‘qolgan tovarlar kompensatsiya qilinadi. Kompensatsiya va uni to'lash jarayoni Ofertaning 6.11-bandiga muvofiq, siz tomoningizdan yozma da'vo olingan kundan boshlab 81 kun davom etadi. Vaziyatga qarab bu muddat uzaytirilishi mumkin.
+Bu ko‘plab bo‘limlarning muvofiqlashtirilishini talab qiluvchi qiyin jarayon bo‘lib, sizni ishontirib aytmoqchimizki, Uzum Market tomonidan yetkazilgan barcha shikastlangan yoki yo‘qolgan tovarlar kompensatsiya qilinadi. Kompensatsiya va uni to'lash jarayoni Ofertaning 6.11-bandiga muvofiq, siz tomoningizdan yozma da'vo olingan kundan boshlab 60 kun davom etadi. Ko‘rsatib o‘tilgan muddat bir marta ko‘pi bilan 10 (o‘n) kalendar kunga uzaytirilishi mumkin.
 
 Kompensatsiya reglamentining tafsilotlari maxfiylikka bog'liq, ammo umumiy ma'noda biz buni tavsiblab berishimiz mumkin:
 
