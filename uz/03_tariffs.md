@@ -12,7 +12,7 @@ Sotuvchi shaxsiy kabinetining "Mablagʻlar" bo‘limida 5 ta summa aks ettirilga
 
 Ko‘rsatilgan sanada pul jadvalingizga muvofiq avtomatik ravishda to‘lanadi (3.1.1-bo‘limga qarang), qo‘lda hech narsa rasmiylashtirish shart emas.
 
-Oferta shartnomasiga ko‘ra, Uzum pulni kechroq muddatda — jadvalda ko‘rsatilgan sanadan keyin 14 ish kunigacha to‘lash huquqiga ega.
+Oferta shartnomasiga ko‘ra, Uzum Market pul mablag‘larini to‘lovlar jadvalida ko‘rsatilgan sanadan boshlab 4 (to‘rt) ish kunigacha kechiktirib to‘lash huquqiga ega. E’tibor bering, mazkur muddat ishlanmaydigan bayram kunlari, xizmat ko‘rsatuvchi banklar, hisob-kitob va to‘lov tizimlarining ish tartibiga qarab uzaytirilishi mumkin.
 
 ### Hisob raqam
 
