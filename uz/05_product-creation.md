@@ -417,8 +417,9 @@ Barcha suratlarga qo‘yiladigan talablarni shu yo‘riqnomaning quyidagi bandid
 ###  Video talablari
 
 * Yuqorida sanab o‘tilgan barcha surat talablari yuklanadigan videolarga ham tatbiq etiladi.
+* Videoda fon musiqasi va boshqa musiqiy qoʻshimchalar boʻlmasligi kerak.
 
-**Tovar suratlari bilan ishlashga misollar**:
+###  Tovar suratlari bilan ishlashga misollar:
 
 ![пример](https://seller.uzum.uz/manual/assets/img/5.7.1-UZ.40f748ac.png)
 
