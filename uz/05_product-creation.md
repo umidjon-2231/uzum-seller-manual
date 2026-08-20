@@ -423,7 +423,7 @@ Barcha suratlarga qo‘yiladigan talablarni shu yo‘riqnomaning quyidagi bandid
 
 ![пример](https://seller.uzum.uz/manual/assets/img/5.7.1-UZ.40f748ac.png)
 
-![пример](https://seller.uzum.uz/manual/assets/img/5.7.2-UZ.12425015.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5.7.2-UZ.83661bbd.png)
 
 ##  5.8 Tоvarning qisqacha ta’rifi
 
