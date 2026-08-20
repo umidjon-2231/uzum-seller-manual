@@ -419,7 +419,7 @@
 
 ![пример](https://seller.uzum.uz/manual/assets/img/5.7.1-RU.956c7fe1.png)
 
-![пример](https://seller.uzum.uz/manual/assets/img/5.7.2-RU.bf7d8827.png)
+![пример](https://seller.uzum.uz/manual/assets/img/5.7.2-RU.50e7292d.png)
 
 ##  5.8 Краткое описание товара
 
