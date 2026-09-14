@@ -20,8 +20,6 @@ Shaxsiy ma’lumotlar bo‘limi → Hisob raqam pul yechib olish uchun 5 ta hiso
 
 Barcha hisoblar Shaxsiy kabinetda ro‘yxatdan o‘tgan sotuvchiga tegishli bo‘lishi kerak. Qarindoshlar, xodimlar, ish bajaruvchi va boshqalarning hisoblaridan foydalanish mumkin emas. Agar siz boshqa shaxsning hisobini ko‘rsatsangiz, Uzum ma’lumotlar tuzatilgunga qadar to‘lovlarni to‘xtatib turishi mumkin.
 
-**❗Muhim: 2026-yil 13-sentyabrgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
-
 ##  3.1.1 Mablag‘larni to‘lash jadvali
 
 **Mablag‘larni to‘lash jadvali** — Bu Uzum sizga sotilgan tovarlar uchun pul to‘laydigan davriylikdir. Qaysi tovarlar uchun pul olishingiz va xizmat haqi miqdori jadvalga bog‘liq.
@@ -73,32 +71,46 @@ Aytaylik, sotuvchi **har bir ish kuni uchun** to‘lov jadvalini tanlaydi. 8-may
 
 Har oyning 7-sanasigacha Uzum o‘tgan oyning 27-kunidan 26-kunigacha bo‘lgan davrda qabul qilingan barcha tovarlar uchun pul to‘laydi. Yuqoridagi misolda 7-iyungacha Uzum 27-apreldan 26-maygacha olingan barcha tovarlar uchun pulni to‘laydi. Oylardagi kunlar soni turlicha bo‘lganda (fevralda 30, 31 yoki 28−29), ba’zi kunlarda to‘lov bir necha kun oldin kelishi mumkin, boshqa kunlarda esa, agar pul avvalgi jadval bo‘yicha to‘langan bo‘lsa, umuman bo‘lmasligi mumkin.
 
-**❗Muhim: 2026-yil 13-sentyabrgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
-
 ##  3.1.2 Shoshilinch pul mablag‘larini yechib olish
 
 Shoshilinch yechib olish — bu jadvalingizda ko‘rsatilgan sanadan oldin pul olish imkonini beruvchi qo‘shimcha xizmatdir. Shoshilinch yechib olish xizmati uchun to‘lov — 2,5% ni tashkil etadi.
 
-Hozirgi vaqtda barcha pullarni shoshilinch yechib olish faqat quyidagi shartlarni bajaradigan sotuvchilarga mavjud:
+Hozirgi vaqtga qadar barcha mablag‘larni tezkor yechib olish quyidagi barcha shartlarga javob beradigan sotuvchilar uchun mavjud:
 
-* Uzum oldida qarzdorligi yo‘q
-* Oxirgi 60 kun ichida qaytarish ulushi aksariyat Uzum sotuvchilaridan pastroq
-* Uzum ichki mezonlariga muvofiq barqaror savdo
+**Marketpleys oldida qarzdorlikning yo‘qligi**
 
-Agar sotuvchi ushbu shartlarni bajarmasa, u oyiga 1 yoki 2 marta to‘lov jadvalini tanlab, 10 kundan ortiq vaqt oldin olingan tovarlar uchun pulni shoshilinch yechib olishi mumkin.
+Sotuvchining marketpleys oldida logistika, saqlash, reklama, jarimalar, komissiyalar va boshqa hisob-kitoblar bo‘yicha hech qanday qarzdorligi mavjud emas.
 
-Pulni belgilangan muddatdan oldin olish uchun ariza bering: shaxsiy kabinetda «Oldinroq chiqarish» tugmasini bosing, kerakli summani kiriting va mablag‘ tushadigan hisobni tanlang.
+**Sotuvchi hisobining bloklanmaganligi**
 
-**Bir kunda shoshilinch yechib olish uchun faqat bitta ariza berish mumkin**
+Sotuvchining marketpleys xodimlari tomonidan hisobi bloklanmagan (jumladan, firibgarlik belgilari, platforma qoidalarini muntazam buzish, shubhali faollik va boshqa holatlar sababli).
 
-* agar soat 13:00 gacha rasmiylashtirsangiz, pulni o‘sha kuniyoq o‘tkazamiz.
-* 13:00 dan keyin — keyingi ish kunga o‘tkazamiz.
+**Platformada 2 oydan ortiq faoliyat yuritish**
+
+Birinchi muvaffaqiyatli xariddan 60 kalendar kundan ortiq vaqt o‘tgan.
+
+**Barqaror savdolar**
+
+So‘nggi 60 kun ichida savdolar muntazam amalga oshirilgan: kamida 15 kun davomida kamida bitta to‘langan va jo‘natilgan buyurtma mavjud bo‘lgan.
+
+**Savdolar dinamikasida anomaliyalarning yo‘qligi**
+
+Sotuvchining so‘nggi 30 kundagi buyurtmalari va tushumi dinamikasida marketing nuqtayi nazaridan asoslanmagan keskin o‘sishlar mavjud emas.
+
+**Anomaliya deb nimaga aytiladi:**
+
+* 7 kun ichida buyurtmalar soni yoki tushumning so‘nggi 30 kundagi o‘rtacha haftalik ko‘rsatkichga nisbatan 10 va undan ortiq baravarga oshishi;
+* Platforma ma’lumotlariga ko‘ra, reklama faolligi, aksiyalar, tovar mavjudligi yoki mavsumiylikdagi o‘zgarishlar bilan izohlanmaydigan keskin o‘sishlar.
+
+**Qo‘shimcha antifrod cheklovlari**
+
+Yuqoridagi rasmiy mezonlar bajarilgan bo‘lsa ham, boshqa shubhali holatlar aniqlanganda (masalan, ombordagi qoldiqlar va sotuvlar o‘rtasidagi nomuvofiqlik), platforma hali yechib olish mumkin bo‘lmagan mablag‘larni tezkor yechib olishni vaqtincha cheklash huquqini o‘zida saqlab qoladi.
+
+Pulni muddatidan oldin olish uchun arizani rasmiylashtiring: shaxsiy kabinetda «Oldinroq chiqarish» tugmasini bosing, kerakli summani ko‘rsating va o‘tkazish uchun hisobni tanlang. Pulni keyingi **ish** kuni oxirigacha o‘tkazamiz.
 
 Haqiqiy kirim vaqti qabul qiluvchi bankka bog‘liq.
 
 Uzum o‘z xohishiga ko‘ra muddatli yechib olish xizmatini ko‘rsatish mezonlarini o‘zgartirish, uni vaqtincha cheklash yoki to‘xtatib turish huquqiga ega.
-
-**❗Muhim: 2026-yil 13-sentyabrgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
 ##  3.1.3 Yechishlar ro‘yxati
 
@@ -109,8 +121,6 @@ Yakunlar ro‘yxati va ularning holatlarini ko‘rish uchun shaxsiy kabinetda Ma
 | Ishlovda    | To‘lov bankka yuborishga tayyor |
 | Bajarildi   | To‘lov bankka yuborilgan        |
 | Bajarilmadi | Bank to‘lovni amalga oshirmagan |
-
-**❗Muhim: 2026-yil 13-sentyabrgacha barcha turdagi pul yechib olish xizmatlari uchun to‘lov 0% ga teng.**
 
 ##  3.2 Marketpleys tariflari
 
