@@ -353,7 +353,7 @@ Har bir yetkazib berish majburiy tarzda aktda ko‘rsatilgan ma’lumotlarga muv
 
 * Barcha yetkazib berishlar videokuzatuv ostida amalga oshiriladi.
 * Tovar soni bo‘yicha tafovut aniqlansa, tafovutlar dalolatnomasi rasmiylashtiriladi. Uni qabul jarayoni tugagandan so‘ng shaxsiy kabinetdan yuklab olish mumkin.
-* Agar siz dalolatnoma bilan rozi bo‘lmasangiz, 30 kun ichida <partners@uzum.uz> manziliga e’tiroz yuboring.
+* Agar siz dalolatnoma bilan rozi bo‘lmasangiz, 30 kun ichida <partners@uzum.uz> elektron manziliga e’tiroz yuboring.
 
 Tafovutlar, haqiqiy yetkazilgan tovarlar yuk xatidagi ma’lumotlarga mos kelmaganda qayd etiladi. Bu tovar joylashtirishga salbiy ta’sir ko‘rsatishi va omborga qo‘shimcha yuklama berishi mumkin.
 
